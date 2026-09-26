@@ -187,9 +187,11 @@ automated QA pass. They have not had a native-speaker review.
   baʿd, dah).
 - **Drills.** Typed production is on: `typing: {caseSensitive: false,
   accents: lenient, strictFromLevel: null}`. Lenient accents fold harakat,
-  tatweel and ZWNJ, none of which ordinary Urdu writing includes, at every
-  level. Lenient does not fold ہ against ھ (do-chashmi heh), so those are
-  typed as written; see `TODO.md`.
+  tatweel and ZWNJ, none of which ordinary Urdu writing includes, and, as of
+  engine `122d88a`, also fold ھ (do-chashmi heh) against ہ, at every level.
+  Every fold is guarded against collisions with another pack word: پھر/پہر
+  and کھلانا/کہلانا are rejected both ways because both spellings are pack
+  words (PACK_SCHEMA.md).
 
 ## Urdu rules (summary; details in `langs/ur.py`)
 

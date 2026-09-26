@@ -12,15 +12,15 @@ Residuals from the v1 build and QA. The rules already in place are in
   committed. The repo has no commits yet.
 
 ## Typed production
-- `typing.accents: lenient` (PACK_SCHEMA.md) folds harakat, tatweel and
-  ZWNJ; it does not fold ہ (heh) against ھ (do-chashmi heh, the aspiration
-  marker in بھ/ٹھ/تھ/دھ etc.), even though ur.py's own corpus-matching
-  `fold()` normalises several heh variants for lookup (that's matching, not
-  the typing engine, and only covers word-initial/post-vowel positions, not
-  the medial aspirate digraphs). A learner who mixes up ہ/ھ is marked
-  wrong. Not hacked into the engine here (no per-language typing fold hook
-  exists); worth a schema-level fold if other Arabic-script packs hit the
-  same complaint.
+- RESOLVED (engine `122d88a`). `typing.accents: lenient` now folds ھ
+  (do-chashmi heh, the aspiration marker in بھ/ٹھ/تھ/دھ etc.) against ہ
+  (heh), alongside harakat, tatweel and ZWNJ, at every level (PACK_SCHEMA.md
+  "Lenient typing letter folds"). Every lenient fold is guarded: a typed
+  answer that matches only after folding is rejected when it spells another
+  pack word. Urdu has 2 colliding pairs from this fold (PACK_SCHEMA.md's
+  collision table): پھر (w0067, A1) also folds to پہر (w1964, B1), and
+  کھلانا (w2016, A2) also folds to کہلانا (w1743, B1); typing one for the
+  other is rejected both ways.
 
 ## Passages
 - The passages were authored against this word list. `--check` reports 0
