@@ -1,0 +1,70 @@
+{
+  "spoken_freq": {
+    "source": "hermitdave/FrequencyWords",
+    "licence": "CC-BY-SA-4.0",
+    "url": "https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/ur/ur_full.txt"
+  },
+  "written_freq": {
+    "source": "wordfreq (Python package)",
+    "licence": "CC-BY-SA-4.0"
+  },
+  "dictionary": {
+    "source": "kaikki.org Urdu Wiktionary extract",
+    "licence": "CC-BY-SA-3.0/GFDL",
+    "url": "https://kaikki.org/dictionary/Urdu/kaikki.org-dictionary-Urdu.jsonl.gz"
+  },
+  "tagger": {
+    "source": "Stanza (Apache-2.0) with its Urdu default model, trained on UD Urdu-UDTB",
+    "licence": "Apache-2.0 (code); CC BY-NC-SA 4.0 (UD Urdu-UDTB model data)",
+    "note": "Used at build time only; the pack ships no model files."
+  },
+  "sentences": {
+    "source": "Tatoeba urd_sentences_detailed.tsv",
+    "licence": "CC-BY 2.0 FR",
+    "url": "https://downloads.tatoeba.org/exports/per_language/urd/urd_sentences_detailed.tsv.bz2",
+    "contributor_usernames": [
+      "ABChessel",
+      "Adeelpk",
+      "Akmal_Butt",
+      "Balamax",
+      "Faizyrooma4",
+      "Faizyrooma44",
+      "FakharShafi",
+      "FiorixF1",
+      "IlyasSahi",
+      "Khattak",
+      "Poliglotski",
+      "RadiumCat",
+      "Roomba_Unit",
+      "\\N",
+      "abdul_rehman_2050",
+      "atitarev",
+      "basim14",
+      "eeyinn",
+      "jafar_atayee",
+      "janTuki",
+      "jungnet",
+      "nabeel_tahir",
+      "nusrat",
+      "sabretou",
+      "shobi97",
+      "tariquehussaing"
+    ]
+  },
+  "audio": {
+    "source": "Tatoeba sentences_with_audio.tsv",
+    "licences": "per clip; recorders listed per licence",
+    "recorders": {}
+  },
+  "written_sentences": {
+    "source": "written for this pack (tools/generated_sentences.tsv); marked \"src\": \"gen\"",
+    "licence": "CC-BY-SA-4.0",
+    "count": 2277,
+    "note": "Written where Tatoeba has fewer than two usable sentences for a word; machine-written, not native-reviewed; no audio."
+  },
+  "dictionary_hindi_twin": {
+    "source": "kaikki.org Hindi Wiktionary extract, entries with an Urdu spelling (glosses and romanisation for Urdu words the Urdu extract lacks)",
+    "licence": "CC-BY-SA-3.0/GFDL",
+    "url": "https://kaikki.org/dictionary/Hindi/kaikki.org-dictionary-Hindi.jsonl.gz"
+  }
+}

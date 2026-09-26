@@ -1,0 +1,187 @@
+# Tatoeba sentences dropped after a hand review (2026-09-26): ungrammatical, misspelt,
+# non-standard (Punjabi-influenced "میں نے جانا ہے", wrong agreement), or mistranslated.
+# One sentence per line as the pack shows it (text_norm); "#" starts a comment.
+# Loaded by the ur spec (Urdu._TextDrop); matched on the normalised text, never on ids.
+بی رنگ سبز خیالات شدت سے سوتی ہیں۔  # Colorless green ideas sleep furiously.
+آگ میں ۱۳ زندگیاں ضائع ہو گئی۔  # The fire took 13 lives.
+ٹام نے مریم کو ایک نوٹ پکرایا۔  # Tom handed a note to Mary.
+مجھے امتہان سے پہلے ایک انٹرویو دینا پڑے گا۔  # I have to have an interview before taking the examination.
+برائے مہربانی، یہاں دستخط کرے۔  # Sign here, please.
+ہم رات بارہ بجے تک باتیں کرتے رہیں۔  # We talked on the phone until midnight.
+تمہیں اس قسم کی باتیں بچوں کے سامنے نہیں کرنی چائیے۔  # You shouldn't say that kind of thing when children are around.
+ممکن ہے کہ وہ آجائے گی۔  # She'll probably come.
+آج کل کے زمانے میں کمپیوتر کی معلومات ہونا فائدہ مند ہے۔  # It is an advantage today to have a knowledge of computers.
+اس نے جو بتاہا تھا وہ جھوٹ نکل آیا۔  # What he said turned out to be a lie.
+کیوں نہ ہم اسے ملنے چلے؟  # Why don't we drop by to see her?
+یہ بچے ہمیشہ بے چین رہتیں ہیں۔  # These kids are always restless.
+تم سارے کہاں رہتے ہوں؟  # Where do you all live?
+اس میں کافی خامیاں ہے۔  # She has many faults.
+برائے مہربانی، دھیان سے فیصلہ کی جیے گا۔  # Please choose wisely.
+تین بڑے آدمیوں نے اس پہ حملہ کیا اور اس کے پیسے چڑا لیے۔  # Three big men attacked him and stole his money.
+میں نے تمہیں ایک لمبی ای میل بھیجنی ہے بہت جلد۔  # I need to send you a long email soon!
+بلے کے ساتھ ساتھ کل گیندیں بھی چوری ہو گئی۔  # The bat was stolen yesterday, along with the balls.
+جانوروں کو کھانا نہ ڈالے۔  # Don't feed the animals.
+میں نے اس کاروبار سے اپنے ہاتھ صاف کر لیے ہے۔  # I washed my hands of the whole business.
+میں ریڈیو کبھی کبھی سنتا ہوں۔  # I almost never listen to the radio.
+ترجمہ کیا معیار بہتر ہو گیا ہے۔  # The quality of translation has improved.
+میں اتنی اونچی چھلانگ کیسے لگاؤ؟  # How can I jump so high?
+وہ لڑکی رونے شروع ہو گئی۔  # The girl broke into tears.
+میری امی مجھ سے ابو کی طرح کافی ناراض ہے۔  # My mother was no less angry with me than my father.
+صفحہ نمبر دس سے رجوع کرے۔  # Please refer to page ten.
+برائے مہربانی زیادہ تیز نہ چلے۔  # Please don't walk too fast.
+یاد دکھو، عزت ہی سب کچھ ہے۔  # Remember, respect is everything.
+میرے چار بچے ہے۔  # I have four children.
+میں دوبارہ کب آؤ؟  # When should I come again?
+اس نے نظریں جھکا لی۔  # She looked away.
+جہاذ پہاڑ کے اوپر سے گزرا۔  # The plane flew over the mountain.
+قیامت آ چکی ہے۔  # The day of judgment has arrived.
+میں نے بھی جانا ہے۔  # I'd like to go, too.
+اس نے دروازہ کو دھکا دے کر بند کیا۔  # She pushed the door shut.
+تم نے صرف اس بٹن کو دبانا ہے۔  # You have only to push this button.
+ان کے تین بچے ہے۔  # They have three children.
+مجھے اس آلہ کے لیے بیٹریاں چاہیے۔  # I would like batteries for this device.
+ان کی کتنی بہنیں ہے؟  # How many sisters does he have?
+تمہارے گھر والے کیسے ہے؟  # How's it going with your family?
+پارٹی پہ صرف چھہ لوگ تھے۔  # There were only six people at the party.
+ہیرایامہ صاحب بہت اچھے استاد ہے۔  # Mr. Hirayama is a very good teacher.
+لاتوں کے بھوت باتوں سے نہیں مانتے۔  # No language is understood by the one who understands the rod.
+سانپ کا کاٹا رسی سے بھی ڈرے۔  # They were even scared of a rope bitten by the snake.
+آپ کے پاس یہ جوتے میرے سائز میں ہے؟  # Do you have these shoes in my size?
+ٹام انگریزی سے بھی زیادہ بڑی فرانسیسی بولتا ہے۔  # Tom speaks French worse than English.
+امی رات کا کھانا پکا رہی ہے۔  # Mother is preparing supper.
+میرے علاوہ باقی کسی بھی ممبر کو اس کی بات پہ یقین نہیں ہے۔  # Every member but me believes what he says.
+میرے علاوہ باقی کسی بھی ممبر کو اس کی بات پہ بھروسہ نہیں ہے۔  # Every member but me believes what he says.
+ہمیں کبھی کبھی احساس ہوتا ہے کہ یہ کتنا ضروری ہے۔  # We hardly realize how important it is.
+یہ محترمہ لی ہے، سوزن کی والدہ، لندن میں۔  # It is Mrs. Lee, Susan's mother, in London.
+میں گھر پہنچتےساتھ ہی سو گیا۔  # I went to sleep as soon as I got home.
+برائے مہربانی تھوڑا انتظار فرما لے۔ وہ ابھی تک پہنچے نہیں ہے۔  # Just wait a little please. He hasn't arrived yet.
+مجھ پر بھروسہ کرے۔  # Believe you me.
+تمہارے خاندان میں کتنے لوگ ہے؟  # How many people are there in your family?
+تمہارے خاندان میں کتنے افراد ہے؟  # How many people are there in your family?
+کیوٹو میں کافی پرانے مندر ہے۔  # There are many old temples in Kyoto.
+مجھے ایک اور گھڑی دکھائے۔  # Show me another watch.
+دو بچے باڑ کے اوپر بیٹھے ہے۔  # Two children are sitting on top of the fence.
+پتہ نہیں وہ آئں گے کہ نہیں۔  # I wonder if he will come.
+ایک دریا قصبے کو دو حصوں میں تقسیم کرتی ہے۔  # A river divides the town.
+میں نے اس کے دس ڈالر دینے ہے۔  # I owe ten dollars to her.
+تم بس دھیان رکھنا کہ یہ ٹوٹے نا۔  # You must take care not to break it.
+اس نے اپنی بیٹی کو پھل اور سبزیاں بھیجی۔  # He sent fruit and vegetables to his daughter.
+انہوں نے اپنی بیٹی کو پھل اور سبزیاں بھیجی۔  # He sent fruit and vegetables to his daughter.
+بیلجیم فرانس جتنا برا نہیں۔  # Belgium is not as big as France.
+اس کے انگریزی میں ۹۰ فیصد آئے ہے۔  # He got 90% in English.
+دنیا میں کچھ چیزیں ہے جو پیسوں سے نہیں خریدی جا سکتی۔  # There are some things money can't buy.
+اس معاملے میں آپ غلط ہے۔  # You're wrong in this case.
+کوئی بھی طلبہ سکول کے لیے لیٹ نہیں تھا۔  # None of the students were late for school.
+میری بیوی ایک اچھے باورچی کے علاوہ سب کچھ ہے۔  # My wife is anything but a good cook.
+کیا آپ پولکے والے ہیں؟  # Are you a policeman?
+انگریزی پوری دنیا میں پڑھای جاتی ہے۔  # English is studied all over the world.
+اس نے اپنے کمرے میں نظر دہرائی۔  # She looked about in her room.
+وہ انگریزی جرمن لہجہ میں بولتا ہے۔  # He speaks English with a German accent.
+مجھے فلمیں پسند ہے۔  # I love movies.
+وہ کہ رہے ہے کہ اس کی پیدائش جرمنی میں ہوئی۔  # They say that he was born in Germany.
+سچائی کہ ہی جیت ہوتی ہے۔  # Truth alone triumphs.
+میں نہیں جانتا اگر میرے پاس وقت ہوا تو۔  # I don't know if I have the time.
+وہ کھیلوں میں کافی بڑی ہے۔  # She is bad at sports.
+کمرے سیاہ ہے۔  # The room is dark.
+آؤ ٹام کا شکریہ ادا کرے۔  # Let's thank Tom.
+میں نے اس سے پہلے کبھی اتنا حسین منظر نہیں دکھا۔  # Never have I seen such a beautiful scene.
+ٹام اور مریم کے بیج میں کچھ چل رہا ہے۔  # There's something going on between Tom and Mary.
+ہمارا دفتر عمارت کے شمال جانب ہے۔  # Our office is on the northern side of the building.
+تم رات کو سو سکے تھے۔  # Did you get any sleep at all last night?
+ٹام کو ہر وقت کچھ نا کچھ چاہئہے ہوتا ہے۔  # Tom always wants something.
+اگر تم اسے پوچھو گے تو وہ آئی گی۔  # She will come if you ask her.
+ٹام اپنی رائے کو اظہار کرنے میں کبھی بھی خوش نہیں تھا۔  # Tom never felt comfortable expressing his own opinion.
+آپ سنائے، بال بچے کیسے ہیں؟  # So, tell me, how are the kids?
+بہت بڑا دن گزرا آج۔  # I've had a lousy day.
+اس نے اس کو کچھ پیسے مانگے۔  # She asked him for some money.
+میں نے اس کو دیکھ کر پہچانا۔  # Having seen him before, I recognized him.
+آپ کو موٹر سائکل کب ملی؟  # When did you get a motorcycle?
+ٹام ناشتہ پکھا رہا ہے۔  # Tom's cooking breakfast.
+خود غرض خود لیے جیتے ہیں۔  # The selfish live for themselves alone.
+ہم نے اپنے فرضوں کو پورا کیا۔  # We fulfill our obligations.
+بارش شروع ہو گئی جب گیم منسوخ کیا گیا۔  # It was raining and the game was called off.
+بہت لوگ گرمیوں کے دوران غیر ملک میں چھٹی لے کر گھومتے ہیں۔  # Many young people go abroad during summer vacation.
+ٹام اور میری نے کہا کے وہ حسد محسوس کر رہے ہیں۔  # Tom and Mary said they're jealous.
+میری مجھے کبھی بھی یہ نہیں بتائے گی کے وہ کسے ڈیٹ کر رہی ہے۔  # Mary won't tell me who she's dating.
+ٹوم نے قسم کھائی کہ وہ اس کو کرنے پر راضی نیہں ہوا۔  # Tom swore he didn't agree to do that.
+چیزیں اتنی تیزی سے بدل رہے ہیں کہ مجھے در ہوتا ہے۔  # Things are changing so fast it scares me.
+سب کو یہ خیال بری لگتی ہے۔  # Everybody hates this idea.
+وہ تھوڑی دیر تک پہنچ جائگی۔  # She will be here in no time.
+ٹھیک، تم جیت گے۔  # OK, you win.
+ٹھیک ہی، آپ جیت گے۔  # OK, you win.
+میں اس خط لکھنے پر متفق ہو گیا۔  # I agreed to write that letter.
+اگر تو زیادہ کھائگا، تو نے موٹا بنیےگا۔  # If you eat too much, you'll become fat.
+میں کم از کم تم سے گلے ملا سکتا ہوں؟  # Can I at least hug you?
+آپ اپنے ساتھ کیا کروگے؟  # What are you going to do with yourself?
+وہ ایک قابل اعتماد رسائی ہے۔  # That's a reliable approach.
+اب مجھے آپ سے کچھ اصولوں کا جائزہ کرنے کا وقت آ گیا ہے۔  # Now it's time for me to discuss a few rules with you.
+تو پھر آپ مجھ سے بالکل کیا کروانے چاہتے ہیں؟  # Exactly what would you have me do, then?
+چیزوں کو جلد میں مت کرو۔  # Don't rush things.
+تمیں کوئی حساب بھی ہے، اس پر کتنا کام کیا گیا ہے؟  # Do you have any idea how much work has gone into this?
+تمیں کوئی حساب بھی ہے، اس پر کتنی محنت کی گئی ہے؟  # Do you have any idea how much work has gone into this?
+البتہ کامیابی کا امکان کم ہے، ہم اسے آزماتے ہیں۔  # Although there's little chance of success, let's try it.
+البتہ کامیابی کا امکان کم ہے، ہم اسے آزمائیں گے۔  # Although there's little chance of success, let's try it.
+مجھے لگا کہ حالت بدلےگا۔  # I thought things would change.
+کیا مین تجھے پسند بھی ہوں؟  # Do you even like me?
+وہ کہ کر کیا میں پاگل لگتا ہوں؟  # Does that make me sound like a crazy person?
+کیا مین پاگل جیسے سنائے دیتا ہوں؟  # Does that make me sound like a crazy person?
+آپ کیا پینے چاہتے ہیں، جناب؟  # What would you like to drink, sir?
+تم اتنے اداس کیوں لگ رہا ہو؟  # Why do you look so gloomy?
+ٹوم نے دروازہ کھولا، الببتہ میں نے اسے نہ کرنے کا کہا۔  # Tom opened the door even though I told him not to.
+ٹوم نہیں مدد کر سکتا ہے۔  # Tom can't help.
+مجھے پتا ہے کہ اس میں میری کوئی تعلق نہیں ہے۔  # I know this is none of my business.
+لڑکیوں مین ٹوم مقبول ہے۔  # Tom is popular with girls.
+ٹوم قدرتی محول کا آگاہ ہے۔  # Tom is environmentally conscious.
+ٹوم کنفرسنس میں حاضر تھا۔  # Tom attended a conference.
+آپ کام دوبارہ کب شروع کروگے؟  # When do you start to work again?
+وہ دروازے سے نکلا اور کبھی واپس نہیں لوٹ آیا۔  # He walked out the door and never came back.
+میں نے اس امکان کو بھی دھیان دیا ہے۔  # I've already considered that possibility.
+ٹوم نے مئری کو پڑوس میں مدد لینے کے لیے بھیجا۔  # Tom sent Mary next door to get help.
+گاڑی احاطہ میں کتنی گاڑیاں ہیں؟  # How many cars are there in the parking lot?
+میری نظروں سے دفعہ ہو جاؤ۔  # Get out of my sight.
+باہر سے وہ بالکل خوش لکتے تھے۔  # On the outside, they seemed perfectly happy.
+وہ ایک قابل اثر جوان لڑکی ہے۔  # She's a young, impressionable teenager.
+مجھے کسی تفصیل سے اندازہ نہیں ہے۔  # I don't have any details.
+میں ہمیشہ ناشتے میں روٹی کھاؤنگی۔  # I always eat bread for breakfast.
+کیا ہم عدم میں سے کچھ بنا سکتے ہیں؟  # Can we create something out of nothing?
+تو پھر آپ نے یہ آخر کیسے کیا؟  # But when how did you finally do it?
+ٹیکنالوجی اچھا تو لگنا ہی چاہیے۔  # You've got to love technology.
+ٹام کی مدد کے بغیر میں نے یہ کر سکا۔  # I was able to do that without Tom's help.
+اپنے جوش کوٹھنڈا کرنے کی کوشش کرو۔  # Try to calm down.
+مین اعتراف کرتا ہوں، کہ اس نے مجھے متاثر کیا ہے۔  # I admit that it influenced me.
+وہ اپنے شوہر کا وفاداری سے پیار کرتی ہے۔  # She loves her husband faithfully.
+میں روزانہ ان سے قبائلی سیکھتا ہوں۔  # I learn Kabyle from them everyday.
+میں ہر ہفتے صبح اتوار کو تین گھنٹے کام کرتی ہوں۔  # I work for three hours every Sunday morning.
+اگر تم کال کرنا چاہتے ہو تو مجھے دوپہر کو کر لے نا۔  # If you want to, call me this afternoon.
+آپ کو اس قسم کی باتیں بچوں کے سامنے نہیں کرنی چائیے۔  # You shouldn't say that kind of thing when children are around.
+تم نے اس گھڑی کی مرمت کروانی ہے؟  # Do you want this watch mended?
+بچے کی پیدائش کے بعد تمحیں اپنا کام کم کر دینا چاہیے۔  # After the birth of your child, you should make your work part-time.
+وہ یہ کہ ہی نیں سکتا۔  # He cannot have said so.
+آپ کے گھر والے کیسے ہے؟  # How's it going with your family?
+امی کھانا پکا رہی ہے۔  # Mother is preparing supper.
+برائے مہربانی تھوڑا انتظار فرما لے۔ وہ ابھی تک آئے نہیں ہے۔  # Just wait a little please. He hasn't arrived yet.
+کیا تم نے سب کچھ ٹھیک سے کیا ہے؟  # Have you ever done anything right?
+کیا آپ اکیلے ہے یا کسی کے ساتھ ہے؟  # Are you by yourself or with someone?
+آپ کو پتا ہے کیوں ٹام باسٹن کے دفتر کو بھیج گیا؟  # Do you know the reason Tom was sent to the Boston office?
+میں اج رات کو اسے فون کروں گا۔  # I will call her tonight.
+تمہارا سر ابھی تک دکھ کر رہا ہے؟  # Does your head still hurt?
+آپ اتنے اداس کیوں نظر آ رہے ہو؟  # Why do you look so gloomy?
+آپ کام دوبارہ کب شروع کرو گے؟  # When do you start to work again?
+میں ہمیشہ ناشتے میں روٹی کھاؤں گی۔  # I always eat bread for breakfast.
+آپ نے اس گھڑی کی مرمت کروانی ہے؟  # Do you want this watch mended?
+تیرا سر ابھی تک دکھ کر رہا ہے؟  # Does your head still hurt?
+میں ان کو کب دیکھ سکتا ہوں۔  # When can I see them?
+ٹام کی مدد کے بغیر میں نے یہ کر سکی۔  # I was able to do that without Tom's help.
+آپ مجھے پسند نہیں رھے ہو۔  # I no longer like you.
+مجھے دھمکنا مت۔ میں کچھ نہیں بولوں گا۔  # Don't threaten me. I won't say anything.
+اس عمارت کے لفٹ اکثر خراب ہوتے ہیں۔  # The elevators in this building are often out of order.
+اس عمارت میں جو لفٹ ہیں، اکثر خراب ہوتے ہیں۔  # The elevators in this building are often out of order.
+میں ہار ماننے سے مرنا چاہوں گا۔  # I'd rather die than give up. (unidiomatic: کے بجائے ... پسند کروں گا)
+مین ہار ماننے سے مرنا مناسب سمجھتا ہوں۔  # I'd rather die than give up. (مین for میں)
+# --- policy: side-taking or disrespect with neutral words (not text errors) ---
+ایک پادری کو اس چیز کے بارے میں کیا پتا؟  # What the hell does a priest know about that? (mocks clergy)
+انسانیت سب سے بڑا مذہب ہے۔  # Humanity is the greatest religion. (ranks religion)
+پاکستان ایک جمہوری ملک ہے۔  # Pakistan is a democratic country. (political claim about a state)
+ہم جمہوریت پر یقین رکھتے ہیں۔  # We believe in democracy. (civic opinion)
+# --- Tatoeba English ungrammatical (QA 2026-09-26 round 3) ---
+تمہارے لیے ٹھیک ہوگا کہ میں ایسے کروں؟
