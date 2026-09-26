@@ -145,7 +145,11 @@
     "w1944",
     "w2001"
   ],
-  "typing": null,
+  "typing": {
+    "caseSensitive": false,
+    "accents": "lenient",
+    "strictFromLevel": null
+  },
   "showPron": true,
   "hasLessons": false,
   "spaced": true,

@@ -11,6 +11,17 @@ Residuals from the v1 build and QA. The rules already in place are in
 - `check.sh`'s stale-build guard fails until `index.html` and `sw.js` are
   committed. The repo has no commits yet.
 
+## Typed production
+- `typing.accents: lenient` (PACK_SCHEMA.md) folds harakat, tatweel and
+  ZWNJ; it does not fold ہ (heh) against ھ (do-chashmi heh, the aspiration
+  marker in بھ/ٹھ/تھ/دھ etc.), even though ur.py's own corpus-matching
+  `fold()` normalises several heh variants for lookup (that's matching, not
+  the typing engine, and only covers word-initial/post-vowel positions, not
+  the medial aspirate digraphs). A learner who mixes up ہ/ھ is marked
+  wrong. Not hacked into the engine here (no per-language typing fold hook
+  exists); worth a schema-level fold if other Arabic-script packs hit the
+  same complaint.
+
 ## Passages
 - The passages were authored against this word list. `--check` reports 0
   errors, and `pack/passages.json` is built.

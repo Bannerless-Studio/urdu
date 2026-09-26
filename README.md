@@ -185,8 +185,11 @@ automated QA pass. They have not had a native-speaker review.
 
   A small per-token table fixes source errors inside compounds too (gunā,
   baʿd, dah).
-- **Drills.** Typing drills are off (`typing: null`). Recall and cloze use
-  multiple choice.
+- **Drills.** Typed production is on: `typing: {caseSensitive: false,
+  accents: lenient, strictFromLevel: null}`. Lenient accents fold harakat,
+  tatweel and ZWNJ, none of which ordinary Urdu writing includes, at every
+  level. Lenient does not fold ہ against ھ (do-chashmi heh), so those are
+  typed as written; see `TODO.md`.
 
 ## Urdu rules (summary; details in `langs/ur.py`)
 
