@@ -101,3 +101,14 @@ Residuals from the v1 build and QA. The rules already in place are in
   zabar).
 - Line height 2.6 for Noto Nastaliq Urdu still needs a visual check in the
   built page, to confirm descenders don't clip in cards and passages.
+
+## Live check residuals (2026-09-26, 8/9 PASS on f4dd858)
+- Engine: word MC options show the option number flush against the Urdu word under RTL
+  (`.num` margin resolves on the outer side of a dir=ltr span) — engine fix in progress
+  (branch engine-rtl-spacing), republish after.
+- Engine: Today plan lists "Listen N items" although no Urdu voice exists and 0 Listen
+  items are served — same fix round.
+- Words search does not match Urdu text inside English glosses (a query "کا/کی/کے" finds
+  nothing because those are gloss fragments, not headwords). By design for now.
+- ٹیک does not find ٹھیک: ھ is never folded (documented tradeoff in the engine fold).
+- No lam-alif primer unit; the only لا example is والا (ligature intact under tint).
