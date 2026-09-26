@@ -47,16 +47,32 @@ Residuals from the v1 build and QA. The rules already in place are in
   senses differ: اور "more" (ایک اور, the pack has only "and"), سونا "gold"
   read as a noun where the pack has the verb, موثر and وسیع read as nouns.
   Two entries per lemma need either a 20% token share or a core change.
-- گانا is one entry, the verb "to sing; song". A separate noun entry needs a
-  core change to the one-entry-per-lemma gate (`core/words.py`).
+- گانا is now two entries, noun "song" and verb "to sing" (v1.1, 2026-09-26):
+  `core/words.py` gained `LanguageSpec.second_entry_overlap_exempt`, a per-language
+  hand list of lemmas whose second POS entry is admitted despite weak automatic
+  evidence (a low dictionary-sense score or high translation overlap with the first
+  entry: "to sing a song" keeps "song" in most translations of "to sing", and a
+  forced word's own sense often scores 0 for lack of bag evidence) once
+  `SECOND_ENTRY_SHARE` already shows real, independent corpus support for both POS
+  (گانا was 50/50). A true same-sense signal (shared gloss stem, same POS group, a
+  nominalised adjective) is never exempted. `ur.py`'s old `MERGED_POS` link-only
+  workaround is gone; `گانا` is the exempt lemma.
+- Kin closed set audited (v1.1, 2026-09-26): ماں باپ بھائی بہن بیٹا بیٹی دادا دادی
+  نانی چچا چچی شوہر بیوی were already in the pack; نانا was restored (forced A1,
+  matching نانی). ماموں ممانی خالہ خالو پھوپھی remain absent: the Hindi twin has
+  none of them either except مामा (Hindi A2), so there is no twin level to force
+  them at, and the forced mechanism only ever places a word at A1 (`assign_levels`:
+  every forced key goes to the first band). Restoring them would need either a
+  forced-level mechanism beyond A1, or enough natural corpus frequency to rank into
+  the pool on their own.
 - Passage text ships verbatim (`passages.py` has no text-normalising hook). After a
   headword respelling, grep `tools/passages_src.json` for the old spelling (done for
   پولس and گندہ on 2026-09-26).
-- At the 2,000 cap, restoring the neutral religious and civic words pushed
-  out نانا, رومال, کمبل, گلاس and ورزش. نانی stays. رومال came back when
-  the stative پھنسا رہا stopped counting for پھنسانا, which then fell below the
-  cut. Its only support was a causative پھنسا دیا. `keep_keys` cannot keep it,
-  because a word ranked outside the candidate pool gets no record (core).
+- At the 2,000 cap, restoring نانا and the گانا noun entry (v1.1, 2026-09-26) pushed
+  out رومال and پنیر (both B1, neither closed-set). کمبل, گلاس and ورزش were already
+  out before this round and stay out. `keep_keys` cannot bring back a word ranked
+  outside the candidate pool, because it gets no record (core); only `forced` (A1
+  only) can.
 - چینی "Chinese" left the pack once the sugar sense stopped counting for it.
   It could come back as a second entry.
 
