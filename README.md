@@ -153,6 +153,10 @@ Self-check stats:
 The passages and questions are machine-written by Claude and checked by the
 automated QA pass. They have not had a native-speaker review.
 
+On Today, a passage's spaced re-read (after 7 days) becomes a listening
+pass when the device can play every sentence, with text hidden and some
+questions audio-only.
+
 ## Script and display
 
 - **Direction and font.** Urdu is right to left. `pack/pack.json` sets `rtl:
