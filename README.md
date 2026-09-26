@@ -6,7 +6,7 @@ romanisation, and at least two example sentences with English translations.
 The Read tab adds 60 short reading passages with comprehension questions
 (see "Reading passages" below).
 
-**Live:** https://ishmum123.github.io/urdu/
+**Live:** https://bannerless-studio.github.io/urdu/
 
 **Script primer.** A "حروفِ تہجی" stage runs before A1 and teaches the Urdu
 alphabet: 40 units in 8 sets, including ٹ ڈ ڑ, nūn ghunna ں, do-chashmī he ھ
@@ -18,7 +18,7 @@ Progress. macOS and most desktop browsers ship no Urdu voice, so the primer is
 text-only (`tts: false`).
 
 This repo holds the Urdu data pack and the Urdu data files its build reads.
-[`vocab-engine`](https://github.com/ishmum123/vocab-engine) is a git submodule
+[`vocab-engine`](https://github.com/Bannerless-Studio/vocab-engine) is a git submodule
 at `engine/`. The engine holds the shared UI, the drill logic and the shared
 pack builder, `engine/tools/packbuilder`. The builder's Urdu rules live in
 `engine/tools/packbuilder/langs/ur.py`.
