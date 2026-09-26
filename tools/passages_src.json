@@ -69,8 +69,8 @@
      "I don't have a car, so I go to the office by train."
     ],
     [
-     "دوپہر کو میں اپنے دوستوں کے ساتھ کھانا کھاتا ہوں۔",
-     "At noon I eat with my friends."
+     "دوپہر کو میں اپنے دوستوں کے ساتھ روٹی کھاتا ہوں۔",
+     "At noon I eat bread with my friends."
     ],
     [
      "شام کو میں گھر واپس آ جاتا ہوں۔",
@@ -131,8 +131,8 @@
      "sentence": 2
     },
     {
-     "q": "احمد دوپہر کا کھانا دوستوں کے ساتھ کھاتا ہے۔",
-     "en": "Ahmed has lunch with his friends.",
+     "q": "احمد دوپہر کو دوستوں کے ساتھ روٹی کھاتا ہے۔",
+     "en": "Ahmed eats bread with his friends at noon.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -207,8 +207,8 @@
      "Zainab is four and spends the whole day with the cat."
     ],
     [
-     "جمعہ کو سب دریا کے پاس جا کر کھانا کھاتے ہیں۔",
-     "On Fridays they all go to the river and eat there."
+     "جمعہ کو سب دریا کے پاس جا کر روٹی کھاتے ہیں۔",
+     "On Fridays they all go to the river and eat bread there."
     ]
    ],
    "questions": [
@@ -270,8 +270,8 @@
      "sentence": 6
     },
     {
-     "q": "جمعہ کو خاندان کہاں کھانا کھاتا ہے؟",
-     "en": "Where does the family eat on Fridays?",
+     "q": "جمعہ کو خاندان کہاں روٹی کھاتا ہے؟",
+     "en": "Where does the family eat bread on Fridays?",
      "type": "mc",
      "options": [
       "گھر میں",
@@ -434,8 +434,8 @@
      "Do you have time tomorrow evening?"
     ],
     [
-     "ہم کل شام نئی فلم دیکھ سکتے ہیں اور پھر ساتھ کھانا کھا سکتے ہیں۔",
-     "We can see the new film tomorrow evening and then eat together."
+     "ہم کل شام نئی فلم دیکھ سکتے ہیں اور پھر ساتھ کچھ کھا سکتے ہیں۔",
+     "We can see the new film tomorrow evening and then eat something together."
     ],
     [
      "میں کل صبح کلاس سے پہلے تمہیں فون کروں گی۔",
@@ -636,7 +636,7 @@
    ],
    "sentences": [
     [
-     "آج اتوار ہے اور عمران اپنی بیوی کے ساتھ ایک ہوٹل میں کھانا کھانے جاتا ہے۔",
+     "آج اتوار ہے اور عمران اپنی بیوی کے ساتھ ایک ہوٹل میں کھانے جاتا ہے۔",
      "Today is Sunday and Imran goes to eat at a restaurant with his wife."
     ],
     [
@@ -1238,8 +1238,8 @@
      "Some people were sitting under the trees and some were singing."
     ],
     [
-     "علی اور حسن نے ایک بڑے درخت کے نیچے بیٹھ کر کھانا کھایا۔",
-     "Ali and Hassan sat under a big tree and ate."
+     "علی اور حسن نے ایک بڑے درخت کے نیچے بیٹھ کر کچھ کھایا۔",
+     "Ali and Hassan sat under a big tree and ate something."
     ],
     [
      "پھر بارش شروع ہو گئی۔",
@@ -1276,7 +1276,7 @@
      "sentence": 3
     },
     {
-     "q": "علی اور حسن نے کہاں بیٹھ کر کھانا کھایا؟",
+     "q": "علی اور حسن نے کہاں بیٹھ کر کچھ کھایا؟",
      "en": "Where did Ali and Hassan sit and eat?",
      "type": "mc",
      "options": [
@@ -1807,8 +1807,8 @@
      "Bilal said: \"I'm at a friend's house; we're doing classwork.\""
     ],
     [
-     "«ٹھیک ہے، لیکن رات کو دیر سے مت آنا۔ کیا تم نے کھانا کھایا؟»",
-     "\"All right, but don't come home late at night. Have you eaten?\""
+     "«ٹھیک ہے، لیکن رات کو دیر سے مت آنا۔ کیا تم نے کچھ کھایا؟»",
+     "\"All right, but don't come home late at night. Have you eaten anything?\""
     ],
     [
      "«جی، ہم نے روٹی اور گوشت کھایا ہے۔»",
@@ -1853,8 +1853,8 @@
      "sentence": 2
     },
     {
-     "q": "بلال نے ابھی تک کھانا نہیں کھایا۔",
-     "en": "Bilal hasn't eaten yet.",
+     "q": "بلال نے ابھی تک کچھ نہیں کھایا۔",
+     "en": "Bilal hasn't eaten anything yet.",
      "type": "tf",
      "options": null,
      "answer": false,
@@ -4883,8 +4883,8 @@
      "His father's health hasn't been good since last year, and he has to see the doctor every month."
     ],
     [
-     "بلال اکلوتا بیٹا ہے، اس لیے اسے ڈر ہے کہ اس کے جانے کے بعد ان کا خیال کون رکھے گا۔",
-     "Bilal is an only son, so he worries about who will look after them once he leaves."
+     "بلال کا کوئی بھائی بہن نہیں ہے، اس لیے اسے ڈر ہے کہ اس کے جانے کے بعد ان کا خیال کون رکھے گا۔",
+     "Bilal has no siblings, so he worries about who will look after them once he leaves."
     ],
     [
      "اس کی بیوی کا خیال ہے کہ انہیں یہ موقع ضائع نہیں کرنا چاہیے۔",
@@ -4945,7 +4945,8 @@
      ],
      "answer": 3,
      "words": [
-      "اکلوتا"
+      "بھائی",
+      "بہن"
      ],
      "sentence": 5
     },
@@ -5328,8 +5329,8 @@
      "At night there were more stars in the sky than I had ever seen in the city."
     ],
     [
-     "ابا بہت خاموش تھے، اور واپسی پر انہوں نے کہا کہ وہ اپنا بڑھاپا گاؤں میں گزارنا چاہتے ہیں۔",
-     "Father was very quiet, and on the way back he said he wants to spend his old age in the village."
+     "ابا بہت خاموش تھے، اور واپسی پر انہوں نے کہا کہ وہ بوڑھے ہو کر گاؤں میں رہنا چاہتے ہیں۔",
+     "Father was very quiet, and on the way back he said he wants to live in the village when he is old."
     ]
    ],
    "questions": [
@@ -5392,8 +5393,8 @@
      "sentence": 8
     },
     {
-     "q": "ابا بڑھاپے میں کہاں رہنا چاہتے ہیں؟",
-     "en": "Where does Father want to live in old age?",
+     "q": "ابا بوڑھے ہو کر کہاں رہنا چاہتے ہیں؟",
+     "en": "Where does Father want to live when he is old?",
      "type": "mc",
      "options": [
       "لاہور میں",
@@ -5403,7 +5404,7 @@
      ],
      "answer": 1,
      "words": [
-      "بڑھاپا",
+      "بوڑھا",
       "گاؤں"
      ],
      "sentence": 12

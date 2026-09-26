@@ -4,7 +4,10 @@
 # particles, ہونا/سکنا and six light verbs - are in
 # engine/tools/packbuilder/langs/ur.py). Written in the builder's matching
 # spelling: no harakat. Hand-picked everyday vocabulary; not derived from any
-# exam list.
+# exam list. A word may carry @LEVEL to ship above A1 (kin closed set, v1.2,
+# 2026-09-26): ماموں ممانی خالہ خالو پھوپھی are everyday kin words, forced
+# in like چچا/نانا, but placed at A2 instead of A1 (ماموں has a Hindi twin at
+# A2; the others follow it - see urdu/TODO.md kin closed set note).
 
 [NOUN]
 ہوا گھر اسکول کتاب پانی روٹی کھانا چائے دودھ پھل سیب گوشت چاول میز کرسی دروازہ کھڑکی کمرہ
@@ -14,6 +17,7 @@
 فلم فون بلی کتا درخت پھول کپڑا جوتا تصویر راستہ خط چابی بیگ دریا پہاڑ
 ناشتہ دوپہر سالگرہ پڑوسی لڑکا لڑکی شوہر بیوی دفتر چیز بات
 امی ابو چچا چچی نانی نانا سبزی سالن حلوہ تیل اردو دیر عجائب رنگ
+ماموں@A2 ممانی@A2 خالہ@A2 خالو@A2 پھوپھی@A2
 
 [VERB]
 کرنا جانا آنا دینا لینا کہنا بولنا دیکھنا سننا کھانا پینا سونا اٹھنا بیٹھنا لکھنا پڑھنا

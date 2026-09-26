@@ -3,6 +3,7 @@
 # where they disagree or neither has one. One "lemma m|f|-" per line; "-" = unmarked
 # (no (m)/(f) tag, no کا/کی agreement check). Hand-set from standard Urdu usage.
 پولیس f
+پھوپھی f
 پروگرام m
 ابو m
 معلومات f

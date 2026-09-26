@@ -59,7 +59,7 @@
   "written_sentences": {
     "source": "written for this pack (tools/generated_sentences.tsv); marked \"src\": \"gen\"",
     "licence": "CC-BY-SA-4.0",
-    "count": 2276,
+    "count": 2273,
     "note": "Written where Tatoeba has fewer than two usable sentences for a word; machine-written, not native-reviewed; no audio."
   },
   "dictionary_hindi_twin": {
