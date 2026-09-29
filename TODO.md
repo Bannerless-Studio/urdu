@@ -10,6 +10,7 @@ Residuals from the v1 build and QA. The rules already in place are in
   and check with `PACKBUILDER_PATH=../vocab-engine/tools`.
 - `check.sh`'s stale-build guard fails until `index.html` and `sw.js` are
   committed. The repo has no commits yet.
+- Republish 09e90bc: sentence spans (16830/16897 linked words placed); inflected forms now cloze targets.
 
 ## Typed production
 - RESOLVED (engine `122d88a`). `typing.accents: lenient` now folds ھ
