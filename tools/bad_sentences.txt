@@ -185,3 +185,4 @@
 ہم جمہوریت پر یقین رکھتے ہیں۔  # We believe in democracy. (civic opinion)
 # --- Tatoeba English ungrammatical (QA 2026-09-26 round 3) ---
 تمہارے لیے ٹھیک ہوگا کہ میں ایسے کروں؟
+وہ ہنس مارے۔  # They burst out laughing. (non-standard for ہنس پڑے; links مارنا "to hit") 2026-09-30

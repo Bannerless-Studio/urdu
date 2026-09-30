@@ -11,6 +11,7 @@ Residuals from the v1 build and QA. The rules already in place are in
 - `check.sh`'s stale-build guard fails until `index.html` and `sw.js` are
   committed. The repo has no commits yet.
 - Republish 09e90bc: sentence spans (16830/16897 linked words placed); inflected forms now cloze targets.
+- Republish ef44c6e: شراب, زہر A2→B1; مارنا "to hit, to beat" B1→A1 (quota: سیاست A1→A2, احاطہ B1→A2); deleted override keys آباد|adj, اترانا|verb, بائیں|adj, جلدی|adj, عدم|noun, عربی|noun, پھنسانا|verb, پیدل|adj; set-counter and no-voice planner fixes
 
 ## Typed production
 - RESOLVED (engine `122d88a`). `typing.accents: lenient` now folds ھ

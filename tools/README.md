@@ -179,6 +179,11 @@ ones (~150 in this pass), so every word keeps at least two sentences.
   Pakistan framing). Neutral vocabulary stays: مذہب, مذہبی, دینی, جمہوریت,
   جمہوری, قیامت and پادری are pack words. The hand drop list removes
   sentences that rank religions or make political claims.
+- **Word-level gloss ceiling** (engine `lower_level_gloss_re`, since engine
+  ef44c6e): a word whose gloss names violence, sex, drugs or alcohol cannot sit
+  below B1. شراب "alcohol" and زہر "poison" moved A2 to B1; مارنا is glossed
+  "to hit, to beat" (the "to kill" sense dropped) and returns to A1. The fixed
+  level quotas pushed سیاست A1 to A2 and pulled احاطہ B1 to A2.
 
 ## Reading passages (`passages_src.json`, `langs/ur.py`)
 
