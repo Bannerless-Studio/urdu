@@ -141,3 +141,7 @@ Residuals from the v1 build and QA. The rules already in place are in
   nothing because those are gloss fragments, not headwords). By design for now.
 - ٹیک does not find ٹھیک: ھ is never folded (documented tradeoff in the engine fold).
 - No lam-alif primer unit; the only لا example is والا (ligature intact under tint).
+
+## Republish a1a290b (2026-10-08, port wave 3)
+- Republish a1a290b: typed modes, day-aware scheduling, reading rotation, goals, pairs (script units keep their Review share), frequency tiers, Progress v2, redesigned tabs, session estimates. Pack diff vs b8517a8: every word gains `ft` (A1 [100,440,60] A2 [0,525,175] B1 [0,420,280] ambient/core/peripheral); pack.json gains exactly the port flag block + `eta`; sentences, passages, script, attribution identical. `eta` measured with `tests/eta_checks.js --pack pack --calibrate --sessions 400` (tools/eta.json, curve + knownCurve; out-of-sample gate seeds 8/9/10 PASS 4/4); check.sh now runs `packbuilder enrich --check`.
+- Migration proof: rollback hash b8517a8f548aa78441845b97b245721cd90140cd; previous live md5 index 39a51e697bb81899ab9b87e2fd0ea88d, sw c4b377f5bf5606af8dac08800431e9d9. Storage: new fields day/sn/t/u/f/p/pm/pv/pause/read.done s,ls/today.tw on first use (script records gain t/u, never p); boot writes nothing; previous build ef44c6e/aa00571 carries them (migration [port], primer learned).

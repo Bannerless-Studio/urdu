@@ -4,7 +4,8 @@
 #      (engine/tools/packbuilder/qa/check.py with the Urdu spec)
 #   2. engine/tools/validate_pack.py - engine's schema, referential-integrity,
 #      and generated-.js-in-sync checks
-#   3. stale-build guard (engine/tools/check_site.sh) - rebuilds index.html and sw.js
+#   3. packbuilder enrich --check - the shipped ft tiers, port flag block and eta equal the enrich output
+#   4. stale-build guard (engine/tools/check_site.sh) - rebuilds index.html and sw.js
 #      to a scratch dir and byte-compares them against the committed files, and checks
 #      both are tracked by git and committed, so a forgotten `./build.sh` or a page
 #      published without its sw.js is caught here rather than shipping stale.
@@ -18,6 +19,10 @@ PYTHONPATH="${PACKBUILDER_PATH:-engine/tools}" python3 -m packbuilder check --la
 echo
 echo "== engine/tools/validate_pack.py =="
 python3 engine/tools/validate_pack.py pack
+
+echo
+echo "== packbuilder enrich --check (ft tiers, port flag block, eta) =="
+PYTHONPATH="${PACKBUILDER_PATH:-engine/tools}" python3 -m packbuilder enrich --lang ur --repo . --check
 
 echo
 echo "== stale-build guard =="
