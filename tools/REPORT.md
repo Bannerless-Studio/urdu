@@ -119,8 +119,8 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1144, 'adj': 339, 'verb
   62 ملنا [verb] to meet; to be found, to get (مجھے ملا: I got)
   63 وقت [noun] time (m)
   64 رکھنا [verb] to keep, to put; to have
-  65 بات [noun] thing said, matter; talk (f)
-  66 آ جانا [verb] to come, to arrive
+  65 بات [noun] talk, matter; what is said (f)
+  66 آ جانا [verb] to arrive, to come (over)
   67 پھر [adv] then; again
   68 بڑا [adj] big, large; older
   69 بنانا [verb] to make
@@ -135,7 +135,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1144, 'adj': 339, 'verb
   78 انتظار کرنا [verb] to wait
   79 نام [noun] name (m)
   80 دو [num] two
-  81 چاہیے [verb] should, ought to; (is) needed
+  81 چاہیے [verb] to need, to want (مجھے پانی چاہیے); should, ought to
   82 تمام [det] all, whole
   83 اچھا [adj] good; OK, I see
   84 دن [noun] day (m)
@@ -150,7 +150,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1144, 'adj': 339, 'verb
   93 سمجھنا [verb] to understand; to consider
   94 صاحب [noun] sir, Mr.; gentleman (m)
   95 کوشش کرنا [verb] to try
-  96 بننا [verb] to be made; to become
+  96 بننا [verb] to become; to be made
   97 آج [adv] today
   98 جاننا [verb] to know
   99 دوسرا [adj] other, another; second
@@ -158,4 +158,10 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1144, 'adj': 339, 'verb
 ```
 
 <!-- manual:begin -->
+### Gloss and tier QA pass (2026-10-14, seed 505)
+
+- Part A: all 2000 glosses read; 303 fixes in tools/gloss_overrides.json (229 B1-common sense first or sense reworded, 13 explanation-first/untypeable primary, 11 wrong form/register or foreign wording, 50 duplicate A1/A2 glosses disambiguated). True-synonym duplicates left to the engine's syn handling.
+- Part B: tools/tiers_overrides.json, 109 moves: spoken basics out of peripheral (numbers, days, months, colours, family, food, classroom; 83), corpus artefacts and duplicate forms out of core (24), 2 ambient to core.
+- sample --seed 505: 60/60 primary senses and POS correct; 339 of 342 links correct (wrong: تو pronoun linked as the particle, کیا linked as کرنا, مسکرا کر linked as کرنا), 57/60 sentences fully correct; one example wrong (آخر کار linked as کار "car").
+- Not from this pass: a rebuild on the pinned engine re-links 34 sentences (extra function-word links) and 23 passages against the committed pack.
 <!-- manual:end -->
