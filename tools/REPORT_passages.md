@@ -10,7 +10,7 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 66-84 (median 78.0); ws_words 66-84; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 44, tf 55
-- **A2**: 30 passages; words/passage 102-136 (median 119.0); ws_words 102-136; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 76, tf 74
+- **A2**: 30 passages; words/passage 104-136 (median 119.0); ws_words 104-136; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 76, tf 74
 - **B1**: 30 passages; words/passage 153-193 (median 179.0); ws_words 153-193; coverage min 1.000, median 1.000 (rule >= 0.93); linked min 1.000; questions mc 90, tf 60
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
@@ -79,9 +79,9 @@ tokens of the passage text, the count the app shows (report only).
 | p0062 | A2 | ہوائی اڈے پر | 118 | 118 | 1.000 | 1.000 | - | - |
 | p0063 | A2 | اسکول میں کھیلوں کا دن | 130 | 130 | 1.000 | 1.000 | - | - |
 | p0064 | A2 | شہر میں تیز بارش | 120 | 120 | 1.000 | 1.000 | - | - |
-| p0065 | A2 | کزن کے نام پیغام | 102 | 102 | 1.000 | 1.000 | - | B1: مٹھائی |
+| p0065 | A2 | کزن کے نام پیغام | 104 | 104 | 1.000 | 1.000 | - | B1: مٹھائی |
 | p0066 | A2 | ایک دکاندار سے بات چیت | 136 | 136 | 1.000 | 1.000 | - | - |
-| p0067 | A2 | پہاڑ کی چڑھائی | 129 | 129 | 1.000 | 1.000 | - | B1: اڑنا |
+| p0067 | A2 | پہاڑ کی چڑھائی | 132 | 132 | 1.000 | 1.000 | - | B1: اڑنا |
 | p0068 | A2 | جلے ہوئے چاول | 134 | 134 | 1.000 | 1.000 | - | B1: دھواں, ہنسنا |
 | p0069 | A2 | لائبریری کے قاعدے | 119 | 119 | 1.000 | 1.000 | - | B1: لائبریری, منع |
 | p0070 | A2 | گاؤں میں گھوڑے پر | 113 | 113 | 1.000 | 1.000 | - | B1: ابتدا |
