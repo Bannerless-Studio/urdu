@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 66-84 (median 78.0); ws_words 66-84; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 44, tf 55
-- **A2**: 20 passages; words/passage 107-136 (median 117.5); ws_words 107-136; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 46, tf 54
-- **B1**: 20 passages; words/passage 169-193 (median 186.0); ws_words 169-193; coverage min 1.000, median 1.000 (rule >= 0.93); linked min 1.000; questions mc 60, tf 40
+- **A2**: 30 passages; words/passage 102-136 (median 119.0); ws_words 102-136; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 76, tf 74
+- **B1**: 30 passages; words/passage 153-193 (median 179.0); ws_words 153-193; coverage min 1.000, median 1.000 (rule >= 0.93); linked min 1.000; questions mc 90, tf 60
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -75,11 +75,37 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | ایک نئے ہوٹل کے بارے میں میری رائے | 175 | 175 | 1.000 | 1.000 | - | - |
 | p0059 | B1 | بڑی عمر میں نئی زبان | 184 | 184 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | دس سال بعد کے نام خط | 191 | 191 | 1.000 | 1.000 | - | - |
+| p0061 | A2 | پرس کھو گیا | 114 | 114 | 1.000 | 1.000 | - | B1: پرس |
+| p0062 | A2 | ہوائی اڈے پر | 118 | 118 | 1.000 | 1.000 | - | - |
+| p0063 | A2 | اسکول میں کھیلوں کا دن | 130 | 130 | 1.000 | 1.000 | - | - |
+| p0064 | A2 | شہر میں تیز بارش | 120 | 120 | 1.000 | 1.000 | - | - |
+| p0065 | A2 | کزن کے نام پیغام | 102 | 102 | 1.000 | 1.000 | - | B1: مٹھائی |
+| p0066 | A2 | ایک دکاندار سے بات چیت | 136 | 136 | 1.000 | 1.000 | - | - |
+| p0067 | A2 | پہاڑ کی چڑھائی | 129 | 129 | 1.000 | 1.000 | - | B1: اڑنا |
+| p0068 | A2 | جلے ہوئے چاول | 134 | 134 | 1.000 | 1.000 | - | B1: دھواں, ہنسنا |
+| p0069 | A2 | لائبریری کے قاعدے | 119 | 119 | 1.000 | 1.000 | - | B1: لائبریری, منع |
+| p0070 | A2 | گاؤں میں گھوڑے پر | 113 | 113 | 1.000 | 1.000 | - | B1: ابتدا |
+| p0071 | B1 | گاؤں کا سالانہ میلہ | 172 | 172 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | ایک سائنسدان سے ملاقات | 156 | 156 | 1.000 | 1.000 | - | - |
+| p0073 | B1 | ویزے کی درخواست | 159 | 159 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | بجلی کی خرابی | 173 | 173 | 1.000 | 1.000 | - | - |
+| p0075 | B1 | دادی کی کہاوت | 172 | 172 | 1.000 | 1.000 | - | - |
+| p0076 | B1 | اچھی خوراک | 159 | 159 | 1.000 | 1.000 | - | - |
+| p0077 | B1 | گھر کی مرمت | 172 | 172 | 1.000 | 1.000 | - | - |
+| p0078 | B1 | سمندر کے کنارے ایک دن | 153 | 153 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | کتاب کلب کی پہلی میٹنگ | 167 | 167 | 1.000 | 1.000 | - | - |
+| p0080 | B1 | قلعے کی سیر | 165 | 165 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
 the budget rule above is unchanged):
 
 - p0042: title 'شکایت': out of pack
+- p0061: title 'پرس': پرس B1
+- p0062: title 'اڈے': out of pack
+- p0065: title 'کزن': out of pack
+- p0066: title 'دکاندار': out of pack; title 'چیت': out of pack
+- p0067: title 'چڑھائی': out of pack
+- p0069: title 'لائبریری': لائبریری B1; title 'قاعدے': out of pack
 
 <!-- manual section: kept across runs -->
