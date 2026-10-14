@@ -72,7 +72,7 @@
     "licence": "CC-BY-4.0",
     "url": "https://www.letsreadasia.org/",
     "note": "Sentences are split out of the book text, Urdu and English realigned sentence by sentence; typographic quotes became plain, nothing else was changed.",
-    "count": 302,
+    "count": 405,
     "stories": [
       {
         "id": "03acc022-ea8f-479b-910a-1a2670f710d2",
@@ -84,12 +84,15 @@
         "illustrators": [
           "Ruchi Shah"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/03acc022-ea8f-479b-910a-1a2670f710d2"
+        "url": "https://www.letsreadasia.org/book/03acc022-ea8f-479b-910a-1a2670f710d2",
+        "original_url": "https://storyweaver.org.in"
       },
       {
         "id": "06c0abb9-2e5d-42dc-9c2f-65c5e1b225a2",
@@ -101,12 +104,13 @@
         "illustrators": [
           "Deepa Balsavar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/06c0abb9-2e5d-42dc-9c2f-65c5e1b225a2"
+        "url": "https://www.letsreadasia.org/book/06c0abb9-2e5d-42dc-9c2f-65c5e1b225a2",
+        "original_url": "https://storyweaver.org.in/stories/1067-naughty-dog"
       },
       {
         "id": "077182d4-fd29-4caa-8e7a-9c0b69101e20",
@@ -118,12 +122,36 @@
         "illustrators": [
           "Sou Kimsan"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Esha",
+          "Saad",
+          "Hassan Asim",
+          "Sumayya Sharif"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/077182d4-fd29-4caa-8e7a-9c0b69101e20"
+        "url": "https://www.letsreadasia.org/book/077182d4-fd29-4caa-8e7a-9c0b69101e20",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "0c7f54c9-69b4-4871-aca0-fefe5177d807",
+        "title": "میں بھوت ہوں",
+        "english_title": "It's a Ghost!",
+        "authors": [
+          "Chandan Yadav"
+        ],
+        "illustrators": [
+          "Kaustubh Kamat"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "contributors": [],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/0c7f54c9-69b4-4871-aca0-fefe5177d807",
+        "original_url": "https://storyweaver.org.in/stories/35413-bhoot"
       },
       {
         "id": "0f3a3ddc-f216-4ba5-9160-5ad0a1d75403",
@@ -135,12 +163,13 @@
         "illustrators": [
           "Lavanya Karthik"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/0f3a3ddc-f216-4ba5-9160-5ad0a1d75403"
+        "url": "https://www.letsreadasia.org/book/0f3a3ddc-f216-4ba5-9160-5ad0a1d75403",
+        "original_url": "https://storyweaver.org.in/stories/4314-how-do-aeroplanes-fly"
       },
       {
         "id": "11425486-7803-4cac-9b1a-32ba849f04a8",
@@ -152,12 +181,15 @@
         "illustrators": [
           "Angie & Upesh"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/11425486-7803-4cac-9b1a-32ba849f04a8"
+        "url": "https://www.letsreadasia.org/book/11425486-7803-4cac-9b1a-32ba849f04a8",
+        "original_url": "https://storyweaver.org.in/stories/946-too-much-noise"
       },
       {
         "id": "119b4dd2-658a-4a2d-abdd-7ce123da2e30",
@@ -173,12 +205,31 @@
           "Keo Phunphalla",
           "Sao Sreymao"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/119b4dd2-658a-4a2d-abdd-7ce123da2e30"
+        "url": "https://www.letsreadasia.org/book/119b4dd2-658a-4a2d-abdd-7ce123da2e30",
+        "original_url": "https://storyweaver.org.in/stories/36315-neak-berk-bor-vey-kmeng"
+      },
+      {
+        "id": "1231408d-45ed-4545-9e16-376905e263c5",
+        "title": "میرے خیالات کہاں جاتے ہیں؟",
+        "english_title": "Where Do My Thoughts Go?",
+        "authors": [
+          "Sherein Bansal"
+        ],
+        "illustrators": [
+          "Priyanka Kumar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/1231408d-45ed-4545-9e16-376905e263c5",
+        "original_url": "https://storyweaver.org.in/stories/26021-where-do-my-thoughts-go"
       },
       {
         "id": "153c9f0f-ecb9-4d57-b54c-69b378c76ce9",
@@ -188,12 +239,18 @@
           "Mini Shrinivasan"
         ],
         "illustrators": [],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/153c9f0f-ecb9-4d57-b54c-69b378c76ce9"
+        "url": "https://www.letsreadasia.org/book/153c9f0f-ecb9-4d57-b54c-69b378c76ce9",
+        "signers": [
+          "Sobita Paudel"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/959-i-am-not-afraid"
       },
       {
         "id": "17f89305-f515-44d1-9631-7caa6c79cbc8",
@@ -205,30 +262,119 @@
         "illustrators": [
           "Angie & Upesh"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/17f89305-f515-44d1-9631-7caa6c79cbc8"
+        "url": "https://www.letsreadasia.org/book/17f89305-f515-44d1-9631-7caa6c79cbc8",
+        "signers": [
+          "Hira Maharjan"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/40-listen-to-my-body"
       },
       {
-        "id": "2251e070-8238-45d5-919d-61c51f45cb99",
-        "title": "بیگم بکری کا گھر",
-        "english_title": "Miss Goat's House",
+        "id": "18f9651f-4a3a-4c2e-8648-564b1ae3965f",
+        "title": "گِلہری سکول جاتی ہے",
+        "english_title": "Squirrel Goes to School",
         "authors": [
-          "Sommor Pangyavong",
-          "Nyumba ya Binti Mbuzi"
+          "Dỗ Thái Thanh"
         ],
         "illustrators": [
-          "Oloth Senthichak"
+          "Dỗ Thái Thanh"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/2251e070-8238-45d5-919d-61c51f45cb99"
+        "url": "https://www.letsreadasia.org/book/18f9651f-4a3a-4c2e-8648-564b1ae3965f",
+        "original_url": "https://storyweaver.org.in/stories/31013-soc-con-di-hoc"
+      },
+      {
+        "id": "1956ac71-c414-4c94-a6fd-43dd15355f4b",
+        "title": "گھر میں چوہا",
+        "english_title": "Mouse in the House",
+        "authors": [
+          "Sowmya Rajendran"
+        ],
+        "illustrators": [
+          "Tanaya Vyas"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Ali Model School"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/1956ac71-c414-4c94-a6fd-43dd15355f4b",
+        "original_url": "https://storyweaver.org.in/stories/876-mouse-in-the-house"
+      },
+      {
+        "id": "1dfcb3df-5148-4df7-8b8c-98ae0cbb7ead",
+        "title": "رامیہ کے تارے",
+        "english_title": "Ramya's Stars",
+        "authors": [
+          "Mala Ashok"
+        ],
+        "illustrators": [
+          "Helga Parekh"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Ali Model School"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/1dfcb3df-5148-4df7-8b8c-98ae0cbb7ead",
+        "original_url": "https://storyweaver.org.in/stories/189-ramya-s-stars"
+      },
+      {
+        "id": "1f1439ae-2d66-451b-9cbb-6e3f03d56743",
+        "title": "مینڈک کی تاروں بھری خواہش",
+        "english_title": "Frog's Starry Wish",
+        "authors": [
+          "Sheesh Pal"
+        ],
+        "illustrators": [
+          "Proiti Roy"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "contributors": [],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/1f1439ae-2d66-451b-9cbb-6e3f03d56743",
+        "original_url": "https://storyweaver.org.in/stories/32804-mendhak-ka-taaron-bhara-sapana"
+      },
+      {
+        "id": "1f598f04-0479-4670-847d-bc54754c0b56",
+        "title": "ندا اورپرویز",
+        "english_title": "Nina and Peter",
+        "authors": [
+          "Tandi Jackson"
+        ],
+        "illustrators": [
+          "Michael Mape"
+        ],
+        "publisher": [
+          "Bilum Books"
+        ],
+        "contributors": [
+          "fatima zia"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/1f598f04-0479-4670-847d-bc54754c0b56",
+        "narrators": [
+          "Denise Boland"
+        ],
+        "original_url": "http://bilumbooks.com/"
       },
       {
         "id": "236317a9-edcb-45d4-a338-aa3d44aa66d7",
@@ -240,12 +386,16 @@
         "illustrators": [
           "Deepa Balsavar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/236317a9-edcb-45d4-a338-aa3d44aa66d7"
+        "url": "https://www.letsreadasia.org/book/236317a9-edcb-45d4-a338-aa3d44aa66d7",
+        "signers": [
+          "Shradha Bhusal"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/1057-clean-cat"
       },
       {
         "id": "23d8e9dc-12db-41a0-8670-795a036a1083",
@@ -253,12 +403,18 @@
         "english_title": "Why Can't We Glow Like Fireflies?",
         "authors": [],
         "illustrators": [],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Esha",
+          "Saad",
+          "Hassan Asim",
+          "Sumayya Sharif"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/23d8e9dc-12db-41a0-8670-795a036a1083"
+        "url": "https://www.letsreadasia.org/book/23d8e9dc-12db-41a0-8670-795a036a1083",
+        "original_url": "https://storyweaver.org.in/stories/3905-why-can-t-we-glow-like-fireflies"
       },
       {
         "id": "24ed8569-ef02-4c9b-9a0f-ed99b03c9909",
@@ -270,29 +426,19 @@
         "illustrators": [
           "Horn Samon"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/24ed8569-ef02-4c9b-9a0f-ed99b03c9909"
-      },
-      {
-        "id": "25365e32-823a-4fd2-89db-a705c9050662",
-        "title": "کیا آپ نے سنا؟",
-        "english_title": "Did You Hear?",
-        "authors": [
-          "Sejal Mehta"
-        ],
-        "illustrators": [
-          "Rohan Chakravarty"
-        ],
-        "translators": [],
-        "publisher": [
-          "Pratham Books"
+        "contributors": [
+          "Mahwish Javed Khan",
+          "Ali Trust"
         ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/25365e32-823a-4fd2-89db-a705c9050662"
+        "url": "https://www.letsreadasia.org/book/24ed8569-ef02-4c9b-9a0f-ed99b03c9909",
+        "signers": [
+          "Sobita Paudel"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "27204a55-b83b-45c6-8b7d-90e9a6435556",
@@ -304,12 +450,15 @@
         "illustrators": [
           "Iddi Marumba"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/27204a55-b83b-45c6-8b7d-90e9a6435556"
+        "url": "https://www.letsreadasia.org/book/27204a55-b83b-45c6-8b7d-90e9a6435556",
+        "original_url": "https://storyweaver.org.in/stories/54373-baiskeli-ya-chaku"
       },
       {
         "id": "28072b38-edf0-4e2e-af55-59c7acc0f21e",
@@ -321,12 +470,15 @@
         "illustrators": [
           "Kavita Singh Kale"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Saba Aslam"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/28072b38-edf0-4e2e-af55-59c7acc0f21e"
+        "url": "https://www.letsreadasia.org/book/28072b38-edf0-4e2e-af55-59c7acc0f21e",
+        "original_url": "https://storyweaver.org.in/stories/26727-welcome-to-the-forest"
       },
       {
         "id": "294002ed-a00d-4f73-9165-0a741d0f9042",
@@ -347,12 +499,16 @@
           "Jithin  Jacob",
           "Archana Sreenivasan"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/294002ed-a00d-4f73-9165-0a741d0f9042"
+        "url": "https://www.letsreadasia.org/book/294002ed-a00d-4f73-9165-0a741d0f9042",
+        "signers": [
+          "Hira Maharjan"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/5982-how-do-you-feel"
       },
       {
         "id": "2aadbae0-143f-4408-9319-439c47c8cbf4",
@@ -364,12 +520,15 @@
         "illustrators": [
           "Santosh Pujari"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Mahwish Javed Khan"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/2aadbae0-143f-4408-9319-439c47c8cbf4"
+        "url": "https://www.letsreadasia.org/book/2aadbae0-143f-4408-9319-439c47c8cbf4",
+        "original_url": "https://storyweaver.org.in/stories/758-going-to-buy-a-book"
       },
       {
         "id": "2c8abbd0-12e6-4d5c-881f-f5fb868a7285",
@@ -381,12 +540,13 @@
         "illustrators": [
           "Siyasanga Madyibi"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/2c8abbd0-12e6-4d5c-881f-f5fb868a7285"
+        "url": "https://www.letsreadasia.org/book/2c8abbd0-12e6-4d5c-881f-f5fb868a7285",
+        "original_url": "https://storyweaver.org.in/stories/60283-toro-ya-khutso-ya-go-makatsa"
       },
       {
         "id": "32434f30-95d5-4949-a921-807a293f40fa",
@@ -398,12 +558,13 @@
         "illustrators": [
           "Deepa Balsavar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/32434f30-95d5-4949-a921-807a293f40fa"
+        "url": "https://www.letsreadasia.org/book/32434f30-95d5-4949-a921-807a293f40fa",
+        "original_url": "https://storyweaver.org.in/stories/1052-busy-ants"
       },
       {
         "id": "350c4c16-f25a-4651-954a-2b0de2119138",
@@ -415,12 +576,15 @@
         "illustrators": [
           "Wiehan de Jager"
         ],
-        "translators": [],
         "publisher": [
           "African Storybook Initiative"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/350c4c16-f25a-4651-954a-2b0de2119138"
+        "url": "https://www.letsreadasia.org/book/350c4c16-f25a-4651-954a-2b0de2119138",
+        "original_url": "https://storyweaver.org.in/stories/3266-king-of-birds"
       },
       {
         "id": "35180baa-0f65-49fd-897e-05b3647d2205",
@@ -432,12 +596,15 @@
         "illustrators": [
           "Soumya Menon"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/35180baa-0f65-49fd-897e-05b3647d2205"
+        "url": "https://www.letsreadasia.org/book/35180baa-0f65-49fd-897e-05b3647d2205",
+        "original_url": "https://storyweaver.org.in/stories/49-my-fish-no-my-fish"
       },
       {
         "id": "354f4db6-5d54-4e23-affe-1c6d527044c8",
@@ -449,30 +616,15 @@
         "illustrators": [
           "Michael Mape"
         ],
-        "translators": [],
         "publisher": [
           "Bilum Books"
         ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/354f4db6-5d54-4e23-affe-1c6d527044c8"
-      },
-      {
-        "id": "357fb454-41ad-41c4-b8d4-8b113674430e",
-        "title": "شب بخیر ٹنکو!",
-        "english_title": "Goodnight, Tinku!",
-        "authors": [
-          "Preethi Nambiar"
-        ],
-        "illustrators": [
-          "Sonal Goyal",
-          "Sumit Sakhuja"
-        ],
-        "translators": [],
-        "publisher": [
-          "Pratham Books"
+        "contributors": [
+          "fatima zia"
         ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/357fb454-41ad-41c4-b8d4-8b113674430e"
+        "url": "https://www.letsreadasia.org/book/354f4db6-5d54-4e23-affe-1c6d527044c8",
+        "original_url": "http://bilumbooks.com/"
       },
       {
         "id": "363e35eb-8a08-4fb9-bf79-ca1232ec483c",
@@ -482,12 +634,13 @@
         "illustrators": [
           "ASM Tanvir Hassan Raju"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/363e35eb-8a08-4fb9-bf79-ca1232ec483c"
+        "url": "https://www.letsreadasia.org/book/363e35eb-8a08-4fb9-bf79-ca1232ec483c",
+        "original_url": "https://storyweaver.org.in/stories/37413-harano-ball"
       },
       {
         "id": "3655e739-23b8-41a7-b53e-649482ac171a",
@@ -497,12 +650,13 @@
           "Deepanjana Pal"
         ],
         "illustrators": [],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/3655e739-23b8-41a7-b53e-649482ac171a"
+        "url": "https://www.letsreadasia.org/book/3655e739-23b8-41a7-b53e-649482ac171a",
+        "original_url": "https://storyweaver.org.in/stories/24620-a-book-for-puchku"
       },
       {
         "id": "38f30a42-ff86-4c69-90e8-9bbfdc66c771",
@@ -514,12 +668,13 @@
         "illustrators": [
           "Isaac Sikhakhane"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/38f30a42-ff86-4c69-90e8-9bbfdc66c771"
+        "url": "https://www.letsreadasia.org/book/38f30a42-ff86-4c69-90e8-9bbfdc66c771",
+        "original_url": "https://storyweaver.org.in/stories/39546-kulahleka-ebumnyameni"
       },
       {
         "id": "3980fe4b-0510-4840-a29f-b63345ba1355",
@@ -534,12 +689,15 @@
           "Soeurm Kakada",
           "Ven Che"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/3980fe4b-0510-4840-a29f-b63345ba1355"
+        "url": "https://www.letsreadasia.org/book/3980fe4b-0510-4840-a29f-b63345ba1355",
+        "original_url": "https://storyweaver.org.in/stories/39541-botse-botse-o-nyaka-go-nyalwa"
       },
       {
         "id": "39db6bc5-76aa-438f-88ca-d0238b611bb4",
@@ -551,12 +709,58 @@
         "illustrators": [
           "Horn Samon"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Esha",
+          "Saad",
+          "Hassan Asim",
+          "Sumayya Sharif"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/39db6bc5-76aa-438f-88ca-d0238b611bb4"
+        "url": "https://www.letsreadasia.org/book/39db6bc5-76aa-438f-88ca-d0238b611bb4",
+        "original_url": "https://www.letsreadasia.org"
+      },
+      {
+        "id": "3b2c644f-681d-4717-9197-677c4e048b96",
+        "title": "جنگل میں تحقیق",
+        "english_title": "Jungle Brew",
+        "authors": [
+          "Tanya Luther Agarwal"
+        ],
+        "illustrators": [
+          "Sanjay Sarkar"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "saleha dogar"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3b2c644f-681d-4717-9197-677c4e048b96",
+        "original_url": "https://storyweaver.org.in/stories/140-jungle-brew"
+      },
+      {
+        "id": "3c25d074-8b1e-454f-9a5b-18d3a3cd4a79",
+        "title": "وہ دن جب مچھلیوں کی بارش ہوئی",
+        "english_title": "The Day It Rained Fish",
+        "authors": [
+          "Ramendra Kumar"
+        ],
+        "illustrators": [
+          "Delwyn Remedios"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "fatima zia"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3c25d074-8b1e-454f-9a5b-18d3a3cd4a79",
+        "original_url": "https://storyweaver.org.in/stories/2711-the-day-it-rained-fish"
       },
       {
         "id": "3d91a90d-82cf-4219-bdbd-d682874e3df7",
@@ -568,12 +772,13 @@
         "illustrators": [
           "Lê Thị Anh Thư"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/3d91a90d-82cf-4219-bdbd-d682874e3df7"
+        "url": "https://www.letsreadasia.org/book/3d91a90d-82cf-4219-bdbd-d682874e3df7",
+        "original_url": "https://storyweaver.org.in/stories/32698-nha-co-dong-nguoi-thi-sao"
       },
       {
         "id": "3f7bb0b5-2b94-4bcc-b75c-8339322b207e",
@@ -584,12 +789,18 @@
           "Shantdas Manandhar"
         ],
         "illustrators": [],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/3f7bb0b5-2b94-4bcc-b75c-8339322b207e"
+        "url": "https://www.letsreadasia.org/book/3f7bb0b5-2b94-4bcc-b75c-8339322b207e",
+        "signers": [
+          "Rabita Deula"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/41978-the-corn-is-yummy-very-yummy"
       },
       {
         "id": "406c9c8e-4b46-489d-acf2-eec5a747031a",
@@ -601,29 +812,58 @@
         "illustrators": [
           "Promina Shrestha"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/406c9c8e-4b46-489d-acf2-eec5a747031a"
+        "url": "https://www.letsreadasia.org/book/406c9c8e-4b46-489d-acf2-eec5a747031a",
+        "original_url": "https://storyweaver.org.in/stories/41752-munee-paatee-karaaye"
       },
       {
-        "id": "439bea6b-01d4-4080-a2b2-2fe1607b9f58",
-        "title": "وہ لڑکی جو ہنسی نہ روک سکی",
-        "english_title": "The Girl Who Could Not Stop Laughing",
+        "id": "47d37e82-8f2c-48aa-a15d-a56d9cb322c9",
+        "title": "بزدل ریل گاڑی",
+        "english_title": "The Timid Train",
         "authors": [
-          "Meera Ganapathi"
+          "Bharati Jagannathan"
         ],
         "illustrators": [
-          "ROSH"
+          "Preeti Krishnamurthy"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Saba Aslam",
+          "Mahwish Javed Khan"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/439bea6b-01d4-4080-a2b2-2fe1607b9f58"
+        "url": "https://www.letsreadasia.org/book/47d37e82-8f2c-48aa-a15d-a56d9cb322c9",
+        "original_url": "https://storyweaver.org.in/stories/209-the-timid-train"
+      },
+      {
+        "id": "49038ad3-8156-429a-a3d2-0b73bd316eb1",
+        "title": "سب کھاتے ہیں",
+        "english_title": "Everyone Eats",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Chhoun Sambath"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "contributors": [
+          "Saba Aslam",
+          "Mahwish Javed Khan"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/49038ad3-8156-429a-a3d2-0b73bd316eb1",
+        "signers": [
+          "Dinesh Maharjan"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "4a2477bf-e68f-445b-9ca3-3c0fd823904f",
@@ -635,12 +875,35 @@
         "illustrators": [
           "Shrujana Shridhar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/4a2477bf-e68f-445b-9ca3-3c0fd823904f"
+        "url": "https://www.letsreadasia.org/book/4a2477bf-e68f-445b-9ca3-3c0fd823904f",
+        "original_url": "https://storyweaver.org.in/stories/25395-chiu-s-power"
+      },
+      {
+        "id": "4c2022a3-d8d2-42b0-bfed-3287c878c28d",
+        "title": "چیں چیں کرتی چڑیا، ٹپ ٹپ کرتا  پانی",
+        "english_title": "Cheep Cheep Drip Drip",
+        "authors": [
+          "Lubaina Bandukwala"
+        ],
+        "illustrators": [
+          "Zainab Tambawalla"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Ali Trust"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/4c2022a3-d8d2-42b0-bfed-3287c878c28d",
+        "original_url": "https://storyweaver.org.in/stories/153-cheep-cheep-drip-drip"
       },
       {
         "id": "4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e",
@@ -652,12 +915,18 @@
         "illustrators": [
           "Lom Phireak"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Mahwish Javed Khan"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e"
+        "url": "https://www.letsreadasia.org/book/4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e",
+        "signers": [
+          "Siddhartha K.C"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "4cc380b3-9c18-4619-ab94-7bf38deaeec1",
@@ -669,12 +938,18 @@
         "illustrators": [
           "El Huyno"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Mahwish Javed Khan"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/4cc380b3-9c18-4619-ab94-7bf38deaeec1"
+        "url": "https://www.letsreadasia.org/book/4cc380b3-9c18-4619-ab94-7bf38deaeec1",
+        "narrators": [
+          "Kyle Barker"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "4e241cdd-1506-4362-a0c4-070f628d9ccc",
@@ -686,12 +961,18 @@
         "illustrators": [
           "Sorn Srey Nuch"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/4e241cdd-1506-4362-a0c4-070f628d9ccc"
+        "url": "https://www.letsreadasia.org/book/4e241cdd-1506-4362-a0c4-070f628d9ccc",
+        "signers": [
+          "Garima Bhattarai"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "4e6b15e9-79a6-4102-89ac-afe0e7d411f7",
@@ -703,12 +984,13 @@
         "illustrators": [
           "Suvidha Mistry"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/4e6b15e9-79a6-4102-89ac-afe0e7d411f7"
+        "url": "https://www.letsreadasia.org/book/4e6b15e9-79a6-4102-89ac-afe0e7d411f7",
+        "original_url": "https://storyweaver.org.in/stories/2621-my-best-friend"
       },
       {
         "id": "533025b9-71d1-4d73-8ecd-7ff69dbfc52d",
@@ -720,12 +1002,15 @@
         "illustrators": [
           "Tanvee Nabar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/533025b9-71d1-4d73-8ecd-7ff69dbfc52d"
+        "url": "https://www.letsreadasia.org/book/533025b9-71d1-4d73-8ecd-7ff69dbfc52d",
+        "original_url": "https://storyweaver.org.in/"
       },
       {
         "id": "566f8149-bd04-4d5b-9a89-43bd13d5e372",
@@ -737,12 +1022,15 @@
         "illustrators": [
           "Meth Phearum"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/566f8149-bd04-4d5b-9a89-43bd13d5e372"
+        "url": "https://www.letsreadasia.org/book/566f8149-bd04-4d5b-9a89-43bd13d5e372",
+        "original_url": "https://reader.letsreadasia.org/"
       },
       {
         "id": "5934e53c-9feb-484d-b46c-0a5da91fa54d",
@@ -754,12 +1042,15 @@
         "illustrators": [
           "Vongsavanh Damlongsouk"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Mohammad Nadeem"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/5934e53c-9feb-484d-b46c-0a5da91fa54d"
+        "url": "https://www.letsreadasia.org/book/5934e53c-9feb-484d-b46c-0a5da91fa54d",
+        "original_url": "https://data.booksie.org/room-to-read/37239-cicada-s-song.pdf"
       },
       {
         "id": "5eda9d84-cbdd-4d48-84ab-94c1a82e049f",
@@ -771,12 +1062,13 @@
         "illustrators": [
           "Khiev Sothina"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/5eda9d84-cbdd-4d48-84ab-94c1a82e049f"
+        "url": "https://www.letsreadasia.org/book/5eda9d84-cbdd-4d48-84ab-94c1a82e049f",
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "5ef90033-5d9c-4021-9bc5-1f293681c957",
@@ -788,12 +1080,18 @@
         "illustrators": [
           "Rohan Chakravarty"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Humaima Alam Khan",
+          "Hayyan Ahmad",
+          "Adeena Rahim",
+          "Muhammad Abdullah"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/5ef90033-5d9c-4021-9bc5-1f293681c957"
+        "url": "https://www.letsreadasia.org/book/5ef90033-5d9c-4021-9bc5-1f293681c957",
+        "original_url": "https://storyweaver.org.in/stories/21618-wild-cat-wild-cat"
       },
       {
         "id": "5f40175f-e2fd-4b0b-b7b9-8579ffbd267a",
@@ -805,12 +1103,13 @@
         "illustrators": [
           "Rajeev Verma 'Banjara'"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/5f40175f-e2fd-4b0b-b7b9-8579ffbd267a"
+        "url": "https://www.letsreadasia.org/book/5f40175f-e2fd-4b0b-b7b9-8579ffbd267a",
+        "original_url": "https://storyweaver.org.in/stories/376-my-friends"
       },
       {
         "id": "613f1735-2505-4fbd-a4d4-fc323c563be4",
@@ -822,12 +1121,16 @@
         "illustrators": [
           "Shanta Hitang"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/613f1735-2505-4fbd-a4d4-fc323c563be4"
+        "url": "https://www.letsreadasia.org/book/613f1735-2505-4fbd-a4d4-fc323c563be4",
+        "signers": [
+          "Lasata Maharjan"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/54711-nima-khusi-chainana"
       },
       {
         "id": "61c58caa-084d-49e4-9e63-8939095eeb5c",
@@ -839,12 +1142,15 @@
         "illustrators": [
           "Nguyễn Thị Ngọc Bích"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/61c58caa-084d-49e4-9e63-8939095eeb5c"
+        "url": "https://www.letsreadasia.org/book/61c58caa-084d-49e4-9e63-8939095eeb5c",
+        "original_url": "https://storyweaver.org.in/stories/35044-vu-mua-cua-bong"
       },
       {
         "id": "622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e",
@@ -854,12 +1160,35 @@
           "All Children Reading - Cambodia"
         ],
         "illustrators": [],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e"
+        "url": "https://www.letsreadasia.org/book/622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e",
+        "original_url": "https://www.letsreadasia.org/"
+      },
+      {
+        "id": "62948223-6b7a-402a-8d47-4591cc803eeb",
+        "title": "میں واضح طورپردیکھ سکتا ہوں",
+        "english_title": "I Can See Clearly",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Sin Thuokna"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "contributors": [
+          "fatima zia"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/62948223-6b7a-402a-8d47-4591cc803eeb",
+        "original_url": "https://www.letsreadasia.org/"
       },
       {
         "id": "62aacdf3-48ab-43d3-9e26-8901d6f0b29d",
@@ -871,12 +1200,16 @@
         "illustrators": [
           "Meas SovannaraI"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/62aacdf3-48ab-43d3-9e26-8901d6f0b29d"
+        "url": "https://www.letsreadasia.org/book/62aacdf3-48ab-43d3-9e26-8901d6f0b29d",
+        "signers": [
+          "Kumar Regmi"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "6430f048-6e31-4fbe-8e40-daab5e573b0b",
@@ -888,12 +1221,18 @@
         "illustrators": [
           "Krishnagopal Shreshtha"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/6430f048-6e31-4fbe-8e40-daab5e573b0b"
+        "url": "https://www.letsreadasia.org/book/6430f048-6e31-4fbe-8e40-daab5e573b0b",
+        "signers": [
+          "Lasata Maharjan"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/41753-dakide-u-na-ama"
       },
       {
         "id": "660159e8-5d8b-4e2b-9c34-cf2066564451",
@@ -905,12 +1244,18 @@
         "illustrators": [
           "Ajanta Guhathakurta"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Humaima Alam Khan",
+          "Hayyan Ahmad",
+          "Adeena Rahim",
+          "Muhammad Abdullah"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/660159e8-5d8b-4e2b-9c34-cf2066564451"
+        "url": "https://www.letsreadasia.org/book/660159e8-5d8b-4e2b-9c34-cf2066564451",
+        "original_url": "https://storyweaver.org.in/stories/360-the-auto-that-flew"
       },
       {
         "id": "69590c7e-b6a7-45f5-869d-5d53939928e4",
@@ -922,12 +1267,16 @@
         "illustrators": [
           "Sandhya Prabhat"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Saba Aslam",
+          "Mahwish Javed Khan"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/69590c7e-b6a7-45f5-869d-5d53939928e4"
+        "url": "https://www.letsreadasia.org/book/69590c7e-b6a7-45f5-869d-5d53939928e4",
+        "original_url": "https://storyweaver.org.in/stories/10823-i-spy"
       },
       {
         "id": "6ba4bdbd-c23c-44fc-8b52-763e45024d2a",
@@ -939,12 +1288,33 @@
         "illustrators": [
           "David Chisha"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/6ba4bdbd-c23c-44fc-8b52-763e45024d2a"
+        "url": "https://www.letsreadasia.org/book/6ba4bdbd-c23c-44fc-8b52-763e45024d2a",
+        "original_url": "https://storyweaver.org.in/stories/41036-citende-cipati"
+      },
+      {
+        "id": "6eaa8139-b985-4a8b-8ade-d55608d12682",
+        "title": "کھیل کا وقت",
+        "english_title": "Playtime",
+        "authors": [
+          "Sanjiv Jaiswal 'Sanjay'"
+        ],
+        "illustrators": [
+          "Ajit Narayan"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Ghulam Dastageer"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/6eaa8139-b985-4a8b-8ade-d55608d12682",
+        "original_url": "https://storyweaver.org.in/stories/375-playtime"
       },
       {
         "id": "6f832364-3457-4a12-86f6-1b9afcb5758a",
@@ -956,12 +1326,15 @@
         "illustrators": [
           "Ntibile Zonke o hweditše"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/6f832364-3457-4a12-86f6-1b9afcb5758a"
+        "url": "https://www.letsreadasia.org/book/6f832364-3457-4a12-86f6-1b9afcb5758a",
+        "original_url": "https://storyweaver.org.in/stories/54236-kalafo-ya-terekere"
       },
       {
         "id": "6ffc7e85-95b9-464a-8cd0-0532be2697cf",
@@ -973,12 +1346,15 @@
         "illustrators": [
           "Hari Kumar Nair"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/6ffc7e85-95b9-464a-8cd0-0532be2697cf"
+        "url": "https://www.letsreadasia.org/book/6ffc7e85-95b9-464a-8cd0-0532be2697cf",
+        "original_url": "https://storyweaver.org.in/stories/880-what-if"
       },
       {
         "id": "71d14e0a-025a-4cd3-a182-710dac694d14",
@@ -990,46 +1366,22 @@
         "illustrators": [
           "Ounla Santhi"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/71d14e0a-025a-4cd3-a182-710dac694d14"
-      },
-      {
-        "id": "75438ef8-989c-44f8-b7df-1ac261871626",
-        "title": "ننھے رنگ ساز",
-        "english_title": "Little Painters",
-        "authors": [
-          "Cheryl Rao"
-        ],
-        "illustrators": [
-          "Tanvi Bhat"
-        ],
-        "translators": [],
-        "publisher": [
-          "Pratham Books"
+        "contributors": [
+          "fatima zia"
         ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/75438ef8-989c-44f8-b7df-1ac261871626"
-      },
-      {
-        "id": "7a21239e-0ad9-43d5-ad73-d69a93a41b43",
-        "title": "بہنا! بہنا! گرج کہاں سے آتی ہے؟",
-        "english_title": "Sister! Sister! Where Does Thunder Come From?",
-        "authors": [
-          "Roopa Pai"
+        "url": "https://www.letsreadasia.org/book/71d14e0a-025a-4cd3-a182-710dac694d14",
+        "editors": [
+          "Sengmany Souphanthalop",
+          "Onchanh Phetchantharath",
+          "Pakian Luangxaysana"
         ],
-        "illustrators": [
-          "Greystroke"
-        ],
-        "translators": [],
-        "publisher": [
-          "Pratham Books"
-        ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/7a21239e-0ad9-43d5-ad73-d69a93a41b43"
+        "designers": [
+          "Nivong Sengsakoun"
+        ]
       },
       {
         "id": "7b9e4977-59f4-4bf3-8803-83178016680b",
@@ -1041,12 +1393,16 @@
         "illustrators": [
           "Yusuf Ali Noton"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/7b9e4977-59f4-4bf3-8803-83178016680b"
+        "url": "https://www.letsreadasia.org/book/7b9e4977-59f4-4bf3-8803-83178016680b",
+        "signers": [
+          "Shradha Bhusal"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/37745-rimir-lal-boi"
       },
       {
         "id": "7ec7d529-36b5-4f59-a7c2-e4624e019110",
@@ -1058,12 +1414,38 @@
         "illustrators": [
           "Ajanta Guhathakurta"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/7ec7d529-36b5-4f59-a7c2-e4624e019110"
+        "url": "https://www.letsreadasia.org/book/7ec7d529-36b5-4f59-a7c2-e4624e019110",
+        "signers": [
+          "Garima Bhattarai"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/35373-rang"
+      },
+      {
+        "id": "7ed9b92a-b738-41e9-9c8e-597b712769b2",
+        "title": "بنٹی اور ببلو",
+        "english_title": "Bunty and Bubbly",
+        "authors": [
+          "Sorit Gupto"
+        ],
+        "illustrators": [
+          "Sorit Gupto"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Mahwish Javed Khan"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7ed9b92a-b738-41e9-9c8e-597b712769b2",
+        "original_url": "https://storyweaver.org.in/stories/202-bunty-and-bubbly"
       },
       {
         "id": "82224b4b-2060-4681-80fc-b8468197ddfb",
@@ -1075,12 +1457,13 @@
         "illustrators": [
           "Sukhada Rahalkar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/82224b4b-2060-4681-80fc-b8468197ddfb"
+        "url": "https://www.letsreadasia.org/book/82224b4b-2060-4681-80fc-b8468197ddfb",
+        "original_url": "https://storyweaver.org.in/stories/356-lost-and-found"
       },
       {
         "id": "83d808ac-5a01-4ade-b6d2-e2d57441972a",
@@ -1096,12 +1479,15 @@
           "Touch Kaosal",
           "Chan Sophom"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/83d808ac-5a01-4ade-b6d2-e2d57441972a"
+        "url": "https://www.letsreadasia.org/book/83d808ac-5a01-4ade-b6d2-e2d57441972a",
+        "original_url": "https://storyweaver.org.in/stories/34434-bangkuoy-ning-tokker"
       },
       {
         "id": "86060c23-7e53-4c80-a8b2-128137d1f428",
@@ -1113,12 +1499,13 @@
         "illustrators": [
           "Angie & Upesh"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/86060c23-7e53-4c80-a8b2-128137d1f428"
+        "url": "https://www.letsreadasia.org/book/86060c23-7e53-4c80-a8b2-128137d1f428",
+        "original_url": "https://storyweaver.org.in/stories/957-topsy-turvy"
       },
       {
         "id": "8709efd4-2609-4274-bfb2-c8a6836bf4f4",
@@ -1131,12 +1518,15 @@
         "illustrators": [
           "Priya Kuriyan"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Mahwish Javed Khan"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/8709efd4-2609-4274-bfb2-c8a6836bf4f4"
+        "url": "https://www.letsreadasia.org/book/8709efd4-2609-4274-bfb2-c8a6836bf4f4",
+        "original_url": "https://digitallibrary.io/book/peacocks-and-pakodas/"
       },
       {
         "id": "8792f912-6792-4bb7-9db3-49c22a6d2ca1",
@@ -1148,12 +1538,13 @@
         "illustrators": [
           "Priya Kuriyan"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/8792f912-6792-4bb7-9db3-49c22a6d2ca1"
+        "url": "https://www.letsreadasia.org/book/8792f912-6792-4bb7-9db3-49c22a6d2ca1",
+        "original_url": "https://storyweaver.org.in/stories/1281-it-s-all-the-cat-s-fault"
       },
       {
         "id": "8d0fcbcb-535e-499f-aa7d-ca6cb12b55d9",
@@ -1165,29 +1556,15 @@
         "illustrators": [
           "Padmanabh"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/8d0fcbcb-535e-499f-aa7d-ca6cb12b55d9"
-      },
-      {
-        "id": "8e3024bc-974d-4e19-83d2-2430d0288d22",
-        "title": "گاؤں کی رہبر",
-        "english_title": "The Village Leader",
-        "authors": [
-          "Alyson Curro"
-        ],
-        "illustrators": [
-          "Nan Hom Noon"
-        ],
-        "translators": [],
-        "publisher": [
-          "The Asia Foundation - Let's Read"
+        "contributors": [
+          "Ali Model School"
         ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/8e3024bc-974d-4e19-83d2-2430d0288d22"
+        "url": "https://www.letsreadasia.org/book/8d0fcbcb-535e-499f-aa7d-ca6cb12b55d9",
+        "original_url": "https://storyweaver.org.in/"
       },
       {
         "id": "914051b9-2faa-4cf5-835d-f19f9e03721a",
@@ -1199,12 +1576,61 @@
         "illustrators": [
           "Bandana Tulachan"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/914051b9-2faa-4cf5-835d-f19f9e03721a"
+        "url": "https://www.letsreadasia.org/book/914051b9-2faa-4cf5-835d-f19f9e03721a",
+        "signers": [
+          "Dinesh Maharjan"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/54706-muna-r-milan-ko-khel"
+      },
+      {
+        "id": "92ac487e-df8c-41b2-912c-d91a5e2d4884",
+        "title": "گوبی کا شور مچانے والا دوست",
+        "english_title": "Goby's Noisy Best Friend",
+        "authors": [
+          "Sheila Dhir"
+        ],
+        "illustrators": [
+          "Anjora Noronha"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Ali Model School"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/92ac487e-df8c-41b2-912c-d91a5e2d4884",
+        "original_url": "https://storyweaver.org.in/stories/26391-goby-s-noisy-best-friend"
+      },
+      {
+        "id": "93cee343-46b0-4980-8431-fa27d21e9ff8",
+        "title": "ٹوپی فروش",
+        "english_title": "The Hat Seller",
+        "authors": [
+          "Ananta Prasad Wagle"
+        ],
+        "illustrators": [
+          "Promina Shrestha"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "contributors": [
+          "fatima zia"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/93cee343-46b0-4980-8431-fa27d21e9ff8",
+        "signers": [
+          "Dinesh Maharjan"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/43662-topivala"
       },
       {
         "id": "956e85a6-ee7e-4e23-9187-a03bba3e337e",
@@ -1214,12 +1640,41 @@
           "Sukanya Sinha"
         ],
         "illustrators": [],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Mahwish Javed Khan",
+          "Murad Tariq",
+          "Anum Zafarullah",
+          "Muhammad Nadeem"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/956e85a6-ee7e-4e23-9187-a03bba3e337e"
+        "url": "https://www.letsreadasia.org/book/956e85a6-ee7e-4e23-9187-a03bba3e337e",
+        "original_url": "https://storyweaver.org.in/stories/28266-how-heavy-is-heavy"
+      },
+      {
+        "id": "98453150-721f-4c40-94bb-041235dea1d6",
+        "title": "یہ . . . یہ سب",
+        "english_title": "This...These",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Be Chharya"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "contributors": [
+          "Ali Trust"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/98453150-721f-4c40-94bb-041235dea1d6",
+        "signers": [
+          "Kumar Regmi"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "9e5d4c37-1d8a-473d-8ba6-19bd939554c3",
@@ -1231,12 +1686,13 @@
         "illustrators": [
           "Megha Vishwanath"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/9e5d4c37-1d8a-473d-8ba6-19bd939554c3"
+        "url": "https://www.letsreadasia.org/book/9e5d4c37-1d8a-473d-8ba6-19bd939554c3",
+        "original_url": "https://storyweaver.org.in/stories/2171-kaushik-the-kind-detective"
       },
       {
         "id": "9f9c33c2-e0f2-4cd3-915e-a02639ff511e",
@@ -1248,12 +1704,15 @@
         "illustrators": [
           "Chandana Bandara Samarakoon"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/9f9c33c2-e0f2-4cd3-915e-a02639ff511e"
+        "url": "https://www.letsreadasia.org/book/9f9c33c2-e0f2-4cd3-915e-a02639ff511e",
+        "original_url": "https://storyweaver.org.in/stories/38446-nathaip-payanam"
       },
       {
         "id": "a32f05e5-e57c-4389-af27-4d352a8838c8",
@@ -1267,12 +1726,31 @@
         "illustrators": [
           "Rajiv Eipe"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/a32f05e5-e57c-4389-af27-4d352a8838c8"
+        "url": "https://www.letsreadasia.org/book/a32f05e5-e57c-4389-af27-4d352a8838c8",
+        "original_url": "https://storyweaver.org.in/stories/15176-sing-in-the-rain"
+      },
+      {
+        "id": "a812b4f0-1346-4e3b-8d71-6ca903540b4c",
+        "title": "کون جیتے گا؟",
+        "english_title": "Who Will Win?",
+        "authors": [
+          "Ramya Nawaratne"
+        ],
+        "illustrators": [
+          "Manavee Chadrasena"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "contributors": [],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/a812b4f0-1346-4e3b-8d71-6ca903540b4c",
+        "original_url": "https://storyweaver.org.in/stories/39615-who-will-win"
       },
       {
         "id": "a8ddb9bb-cc6e-4c6a-a0a0-a0e66c58b31f",
@@ -1284,12 +1762,18 @@
         "illustrators": [
           "Thanuja Dilhani"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Mohammad Nadeem"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/a8ddb9bb-cc6e-4c6a-a0a0-a0e66c58b31f"
+        "url": "https://www.letsreadasia.org/book/a8ddb9bb-cc6e-4c6a-a0a0-a0e66c58b31f",
+        "signers": [
+          "Sagar K.C."
+        ],
+        "original_url": "https://storyweaver.org.in/stories/39688-the-lost-duckling"
       },
       {
         "id": "a8e5d0a3-ded8-4e84-ba98-43fb8aae8b11",
@@ -1301,12 +1785,35 @@
         "illustrators": [
           "Promina Shrestha"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Mohammad Nadeem"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/a8e5d0a3-ded8-4e84-ba98-43fb8aae8b11"
+        "url": "https://www.letsreadasia.org/book/a8e5d0a3-ded8-4e84-ba98-43fb8aae8b11",
+        "original_url": "https://storyweaver.org.in/stories/41935-tikatike-kira"
+      },
+      {
+        "id": "ac671f41-6067-436d-9f1a-1dff4c4cdb5b",
+        "title": "ماں تم کہاں ہو؟",
+        "english_title": "Where is My Mother?",
+        "authors": [
+          "Hemalatha Kanagalingam"
+        ],
+        "illustrators": [
+          "R. C. Pradeep Kumar"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "contributors": [
+          "Saba Aslam"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/ac671f41-6067-436d-9f1a-1dff4c4cdb5b",
+        "original_url": "https://storyweaver.org.in/stories/38722-where-is-my-mother"
       },
       {
         "id": "aec37435-15b8-4381-b91d-3e28049c3159",
@@ -1318,12 +1825,37 @@
         "illustrators": [
           "Huynh Thi Kim Lien"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/aec37435-15b8-4381-b91d-3e28049c3159"
+        "url": "https://www.letsreadasia.org/book/aec37435-15b8-4381-b91d-3e28049c3159",
+        "original_url": "https://storyweaver.org.in/stories/31900-suyt-em-be-dang-ngu"
+      },
+      {
+        "id": "b12f7909-12f1-46e9-aec2-a04906c125a0",
+        "title": "سونوُ اور ثنا",
+        "english_title": "Sani and Suri",
+        "authors": [
+          "Shilpi Pradhan"
+        ],
+        "illustrators": [
+          "Yuvaka Srestha"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "contributors": [
+          "fatima zia",
+          "Ghulam Dastageer"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/b12f7909-12f1-46e9-aec2-a04906c125a0",
+        "signers": [
+          "Samyukta Shrestha"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/55297-sani-aur-suri"
       },
       {
         "id": "b29e4b6e-2050-4241-8902-608f02ed15eb",
@@ -1335,12 +1867,35 @@
         "illustrators": [
           "Manobendro Golder"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/b29e4b6e-2050-4241-8902-608f02ed15eb"
+        "url": "https://www.letsreadasia.org/book/b29e4b6e-2050-4241-8902-608f02ed15eb",
+        "original_url": "https://storyweaver.org.in/stories/37794-chhora-dadur-galpo"
+      },
+      {
+        "id": "b7fb96b7-967c-4533-a2f8-f8d833b4abd8",
+        "title": "برائےمہربانی مُسکرائیں!",
+        "english_title": "Smile Please!",
+        "authors": [
+          "Sanjiv Jaiswal 'Sanjay'"
+        ],
+        "illustrators": [
+          "Ajit Narayan"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "fatima zia"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/b7fb96b7-967c-4533-a2f8-f8d833b4abd8",
+        "original_url": "https://storyweaver.org.in/stories/2-smile-please"
       },
       {
         "id": "ba4b009d-9f33-4310-a4b2-14501620bc2b",
@@ -1352,12 +1907,15 @@
         "illustrators": [
           "Ajit Narayan"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/ba4b009d-9f33-4310-a4b2-14501620bc2b"
+        "url": "https://www.letsreadasia.org/book/ba4b009d-9f33-4310-a4b2-14501620bc2b",
+        "original_url": "https://storyweaver.org.in/stories/696-rain-rain"
       },
       {
         "id": "bb8cc629-6476-4237-b55b-c9721628a5bd",
@@ -1369,29 +1927,15 @@
         "illustrators": [
           "Iddi Marumba"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/bb8cc629-6476-4237-b55b-c9721628a5bd"
-      },
-      {
-        "id": "bbb0f8b0-2049-4c01-a2e8-c2c70c91d83f",
-        "title": "بہنا ، بہنا مجھے بتائیں چیزیں اوپر کی طرف کیوں نہیں گرتیں؟",
-        "english_title": "Sister, Sister, Why Don't Things Fall Up?",
-        "authors": [
-          "Roopa Pai"
-        ],
-        "illustrators": [
-          "Greystroke"
-        ],
-        "translators": [],
-        "publisher": [
-          "Pratham Books"
+        "contributors": [
+          "Ali Model School"
         ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/bbb0f8b0-2049-4c01-a2e8-c2c70c91d83f"
+        "url": "https://www.letsreadasia.org/book/bb8cc629-6476-4237-b55b-c9721628a5bd",
+        "original_url": "https://storyweaver.org.in/stories/45092-tina-and-stars"
       },
       {
         "id": "bfe83db0-0254-43fb-86d6-74388c1feb5a",
@@ -1403,12 +1947,15 @@
         "illustrators": [
           "Vusi Malindi"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/bfe83db0-0254-43fb-86d6-74388c1feb5a"
+        "url": "https://www.letsreadasia.org/book/bfe83db0-0254-43fb-86d6-74388c1feb5a",
+        "original_url": "https://storyweaver.org.in/stories/32346-akwatiwa-lokwacabanisa-inja-nelikati"
       },
       {
         "id": "c391f38f-8813-441a-aba5-a7f9a79b10c9",
@@ -1420,12 +1967,62 @@
         "illustrators": [
           "Parismita"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/c391f38f-8813-441a-aba5-a7f9a79b10c9"
+        "url": "https://www.letsreadasia.org/book/c391f38f-8813-441a-aba5-a7f9a79b10c9",
+        "signers": [
+          "Kumar Regmi"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/7-fat-king-thin-dog"
+      },
+      {
+        "id": "c624d6bb-3a49-46bf-8d01-7950a1640f54",
+        "title": "غوطہ خوری",
+        "english_title": "Dive!",
+        "authors": [
+          "Rajiv Eipe"
+        ],
+        "illustrators": [
+          "Rajiv Eipe"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Nargis Kazmi",
+          "Mahwish Javed Khan",
+          "Mohammad Nadeem"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c624d6bb-3a49-46bf-8d01-7950a1640f54",
+        "narrators": [
+          "Hayden Leadford"
+        ],
+        "original_url": "https://storyweaver.org.in/"
+      },
+      {
+        "id": "c6d4ff76-784e-4ab4-be85-2f37f3b7f4cb",
+        "title": "یہ کس کی آواز ہے؟",
+        "english_title": "Whose Voice is This?",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Hin Koemyean"
+        ],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "contributors": [],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c6d4ff76-784e-4ab4-be85-2f37f3b7f4cb",
+        "signers": [
+          "Kumar Regmi"
+        ],
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "c9ef2c01-f9c0-470e-8ac4-c1ff0da4283b",
@@ -1437,12 +2034,15 @@
         "illustrators": [
           "Ruchi Shah"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/c9ef2c01-f9c0-470e-8ac4-c1ff0da4283b"
+        "url": "https://www.letsreadasia.org/book/c9ef2c01-f9c0-470e-8ac4-c1ff0da4283b",
+        "original_url": "https://storyweaver.org.in/stories/254-curly-and-straight"
       },
       {
         "id": "cd8d312b-4697-40de-a898-2367df3053c6",
@@ -1454,29 +2054,13 @@
         "illustrators": [
           "Nivong Sengsakoun"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/cd8d312b-4697-40de-a898-2367df3053c6"
-      },
-      {
-        "id": "cef31d60-7bd0-4a0d-b526-92331b48dc13",
-        "title": "زائرین)مہمان)",
-        "english_title": "The Visitors",
-        "authors": [
-          "Tandi Jackson"
-        ],
-        "illustrators": [
-          "Michael Mape"
-        ],
-        "translators": [],
-        "publisher": [
-          "Bilum Books"
-        ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/cef31d60-7bd0-4a0d-b526-92331b48dc13"
+        "url": "https://www.letsreadasia.org/book/cd8d312b-4697-40de-a898-2367df3053c6",
+        "original_url": "https://storyweaver.org.in/stories/35064-muakhaimkhong-bountang"
       },
       {
         "id": "d06c8d67-e1ae-4b3c-9181-0649a85ff678",
@@ -1488,12 +2072,15 @@
         "illustrators": [
           "Huynh Vu Tuong"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ghulam Dastageer"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d06c8d67-e1ae-4b3c-9181-0649a85ff678"
+        "url": "https://www.letsreadasia.org/book/d06c8d67-e1ae-4b3c-9181-0649a85ff678",
+        "original_url": "https://storyweaver.org.in/stories/22889-hide-and-seek"
       },
       {
         "id": "d1c6d64d-fba0-425a-b732-16d0dc2b8be8",
@@ -1505,12 +2092,15 @@
         "illustrators": [
           "James Woolley"
         ],
-        "translators": [],
         "publisher": [
           "Book Dash"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d1c6d64d-fba0-425a-b732-16d0dc2b8be8"
+        "url": "https://www.letsreadasia.org/book/d1c6d64d-fba0-425a-b732-16d0dc2b8be8",
+        "original_url": "http://bookdash.org/whose-button-is-this-by-james-woolley-paul-kennedy-and-louise-gale/"
       },
       {
         "id": "d2b842c3-ac15-4ff5-b332-13a84b35c8cf",
@@ -1522,12 +2112,20 @@
         "illustrators": [
           "Aphisith Souphavongtay"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Mahwish Javed Khan",
+          "Fatima Zia",
+          "Mohammad Nadeem"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d2b842c3-ac15-4ff5-b332-13a84b35c8cf"
+        "url": "https://www.letsreadasia.org/book/d2b842c3-ac15-4ff5-b332-13a84b35c8cf",
+        "signers": [
+          "Sobita Paudel"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/34929-nin-hian-nungkheuong"
       },
       {
         "id": "d2ce7fd4-76d3-4867-805d-1692e49f960b",
@@ -1539,29 +2137,15 @@
         "illustrators": [
           "Shabani Hamidu"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d2ce7fd4-76d3-4867-805d-1692e49f960b"
-      },
-      {
-        "id": "d2d36c90-707b-493a-83a0-cada650c560c",
-        "title": "ہم یہ کرسکتےہیں",
-        "english_title": "We Can Do It",
-        "authors": [
-          "Room to Read"
-        ],
-        "illustrators": [
-          "Ounla Santhi"
-        ],
-        "translators": [],
-        "publisher": [
-          "Room to Read"
+        "contributors": [
+          "Mohammad Nadeem"
         ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d2d36c90-707b-493a-83a0-cada650c560c"
+        "url": "https://www.letsreadasia.org/book/d2ce7fd4-76d3-4867-805d-1692e49f960b",
+        "original_url": "https://digitallibrary.io/book/the-peacock-who-wished-to-fly/"
       },
       {
         "id": "d41c7482-c0c3-43e5-b98b-8aac1023b2dd",
@@ -1573,12 +2157,15 @@
         "illustrators": [
           "Khiev Sothina"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d41c7482-c0c3-43e5-b98b-8aac1023b2dd"
+        "url": "https://www.letsreadasia.org/book/d41c7482-c0c3-43e5-b98b-8aac1023b2dd",
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "d41fe97e-ce3a-402c-b360-a78ad94d2d9e",
@@ -1590,12 +2177,13 @@
         "illustrators": [
           "Greystroke"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d41fe97e-ce3a-402c-b360-a78ad94d2d9e"
+        "url": "https://www.letsreadasia.org/book/d41fe97e-ce3a-402c-b360-a78ad94d2d9e",
+        "original_url": "https://storyweaver.org.in/stories/187-sister-sister-why-is-the-sky-so-blue"
       },
       {
         "id": "d539c9ba-b7e8-41a6-bd01-76a452f0ef9c",
@@ -1607,12 +2195,37 @@
         "illustrators": [
           "Aruna Keerthi Gamage"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d539c9ba-b7e8-41a6-bd01-76a452f0ef9c"
+        "url": "https://www.letsreadasia.org/book/d539c9ba-b7e8-41a6-bd01-76a452f0ef9c",
+        "original_url": "https://storyweaver.org.in/stories/39523-apuru-gamana"
+      },
+      {
+        "id": "d75336f1-1bf2-4014-99c7-3915b04474b0",
+        "title": "ہیری ناچنا چاہتی ہے",
+        "english_title": "Hippo Wants to Dance",
+        "authors": [
+          "Megan Andrews",
+          "Marisa Steyn",
+          "Sam Beckbessinger"
+        ],
+        "illustrators": [
+          "Megan Andrews"
+        ],
+        "publisher": [
+          "Book Dash"
+        ],
+        "contributors": [
+          "fatima zia"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d75336f1-1bf2-4014-99c7-3915b04474b0",
+        "original_url": "http://bookdash.org/"
       },
       {
         "id": "d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2",
@@ -1624,12 +2237,13 @@
         "illustrators": [
           "Deepa Balsavar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2"
+        "url": "https://www.letsreadasia.org/book/d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2",
+        "original_url": "https://storyweaver.org.in/stories/1062-noisy-crows"
       },
       {
         "id": "d855be45-2bce-4a33-8079-5b518dfc011d",
@@ -1641,12 +2255,15 @@
         "illustrators": [
           "Michael Sagikwa"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/d855be45-2bce-4a33-8079-5b518dfc011d"
+        "url": "https://www.letsreadasia.org/book/d855be45-2bce-4a33-8079-5b518dfc011d",
+        "original_url": "https://storyweaver.org.in/stories/40960-the-adventure-of-clever-rabbit"
       },
       {
         "id": "db1f7bfe-7d08-49c8-b414-7552cd3dc988",
@@ -1658,12 +2275,15 @@
         "illustrators": [
           "Moses Dhladhla"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/db1f7bfe-7d08-49c8-b414-7552cd3dc988"
+        "url": "https://www.letsreadasia.org/book/db1f7bfe-7d08-49c8-b414-7552cd3dc988",
+        "original_url": "https://storyweaver.org.in/stories/39543-paluni-ya-ledile-e-timetse"
       },
       {
         "id": "dd67e3d7-c61d-4a9a-9a81-9610ebb95c2c",
@@ -1675,12 +2295,15 @@
         "illustrators": [
           "Soumya Menon"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/dd67e3d7-c61d-4a9a-9a81-9610ebb95c2c"
+        "url": "https://www.letsreadasia.org/book/dd67e3d7-c61d-4a9a-9a81-9610ebb95c2c",
+        "original_url": "https://storyweaver.org.in/stories/25707-spider-spider"
       },
       {
         "id": "de6e1fc6-c498-44bf-8e22-4a88cf374975",
@@ -1692,12 +2315,19 @@
         "illustrators": [
           "Meng Sok Pheng"
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Muhammad Tayyab",
+          "Izza Ahmad",
+          "Muhammad Hassaan",
+          "Abeeha Fatima",
+          "Ghulam Dastageer"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/de6e1fc6-c498-44bf-8e22-4a88cf374975"
+        "url": "https://www.letsreadasia.org/book/de6e1fc6-c498-44bf-8e22-4a88cf374975",
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "e185bf12-c047-4e25-a011-072c69f0d697",
@@ -1710,12 +2340,15 @@
         "illustrators": [
           "Santosh Pujari"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/e185bf12-c047-4e25-a011-072c69f0d697"
+        "url": "https://www.letsreadasia.org/book/e185bf12-c047-4e25-a011-072c69f0d697",
+        "original_url": "https://storyweaver.org.in/"
       },
       {
         "id": "e71ca190-d79a-49af-800c-85766719db01",
@@ -1729,12 +2362,18 @@
           "Prum Kunthearo",
           "សេង វិសុទ្ធ "
         ],
-        "translators": [],
         "publisher": [
           "The Asia Foundation - Let's Read"
         ],
+        "contributors": [
+          "Humaima Alam Khan",
+          "Hayyan Ahmad",
+          "Adeena Rahim",
+          "Muhammad Abdullah"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/e71ca190-d79a-49af-800c-85766719db01"
+        "url": "https://www.letsreadasia.org/book/e71ca190-d79a-49af-800c-85766719db01",
+        "original_url": "https://www.letsreadasia.org"
       },
       {
         "id": "e77f6524-d9df-47b7-8f63-5029c07aa819",
@@ -1742,12 +2381,15 @@
         "english_title": "Koria the Crow",
         "authors": [],
         "illustrators": [],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/e77f6524-d9df-47b7-8f63-5029c07aa819"
+        "url": "https://www.letsreadasia.org/book/e77f6524-d9df-47b7-8f63-5029c07aa819",
+        "original_url": "https://storyweaver.org.in/stories/23085-koria-the-crow"
       },
       {
         "id": "e7ec9d05-0b85-4585-8af2-3fe1206c115f",
@@ -1759,12 +2401,15 @@
         "illustrators": [
           "Lê Thị Bích Khoa"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
+        "contributors": [
+          "fatima zia"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/e7ec9d05-0b85-4585-8af2-3fe1206c115f"
+        "url": "https://www.letsreadasia.org/book/e7ec9d05-0b85-4585-8af2-3fe1206c115f",
+        "original_url": "https://storyweaver.org.in/stories/33549-giac-mo-bien-xanh"
       },
       {
         "id": "e9e60936-bae2-431b-9771-2b21ee2aaa03",
@@ -1776,12 +2421,19 @@
         "illustrators": [
           "Lavanya Karthik"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Mahwish Javed Khan",
+          "Ali Trust"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/e9e60936-bae2-431b-9771-2b21ee2aaa03"
+        "url": "https://www.letsreadasia.org/book/e9e60936-bae2-431b-9771-2b21ee2aaa03",
+        "signers": [
+          "Sobita Paudel"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/16411-too-big-too-small"
       },
       {
         "id": "f04cf5e0-f9e5-40e2-bda9-c1a0b17ca2c5",
@@ -1793,29 +2445,18 @@
         "illustrators": [
           "Chathurika Jayasooriya"
         ],
-        "translators": [],
         "publisher": [
           "Room to Read"
         ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/f04cf5e0-f9e5-40e2-bda9-c1a0b17ca2c5"
-      },
-      {
-        "id": "f06d1d75-c522-48c8-bfb8-7d156fc26f1a",
-        "title": "ایک میٹھا سیب",
-        "english_title": "A Sweet Apple",
-        "authors": [
-          "Kedar Shrestha"
-        ],
-        "illustrators": [
-          "Binita Buddhacharya"
-        ],
-        "translators": [],
-        "publisher": [
-          "Room to Read"
+        "contributors": [
+          "Ali Model School"
         ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/f06d1d75-c522-48c8-bfb8-7d156fc26f1a"
+        "url": "https://www.letsreadasia.org/book/f04cf5e0-f9e5-40e2-bda9-c1a0b17ca2c5",
+        "signers": [
+          "Siddhartha K.C"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/39539-paata-apurui"
       },
       {
         "id": "fc128891-40d2-4da8-927d-22bb234c0db6",
@@ -1827,12 +2468,13 @@
         "illustrators": [
           "Rohit Karandadi"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/fc128891-40d2-4da8-927d-22bb234c0db6"
+        "url": "https://www.letsreadasia.org/book/fc128891-40d2-4da8-927d-22bb234c0db6",
+        "original_url": "https://storyweaver.org.in/stories/26650-the-magic-block"
       },
       {
         "id": "fd2be528-0af3-4d28-acd1-b6f05efa3164",
@@ -1844,12 +2486,15 @@
         "illustrators": [
           "Deval Maniar"
         ],
-        "translators": [],
         "publisher": [
           "Pratham Books"
         ],
+        "contributors": [
+          "Ali Model School"
+        ],
         "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/fd2be528-0af3-4d28-acd1-b6f05efa3164"
+        "url": "https://www.letsreadasia.org/book/fd2be528-0af3-4d28-acd1-b6f05efa3164",
+        "original_url": "https://storyweaver.org.in/"
       }
     ]
   },

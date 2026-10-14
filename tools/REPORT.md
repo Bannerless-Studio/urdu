@@ -41,17 +41,17 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1144, 'adj': 339, 'verb
 
 ## Sentences
 
-- Final sentences: **3,319**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
-- Sentence ids (`tools/sentence_ids_v1.json`): 3,319 kept, 0 new, 0 retired.
-- Word coverage: 0 = 0, 1 = 11, 2 = 1989.
+- Final sentences: **3,422**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,243 kept, 179 new (s3320, s3321, s3322, s3323, s3324, s3325, s3326, s3327, s3328, s3329, s3330, s3331, s3332, s3333, s3334, s3335, s3336, s3337, s3338, s3339), 76 retired.
+- Word coverage: 0 = 0, 1 = 9, 2 = 1991.
 - `tools/bad_sentences.txt`: 1 entries matched no corpus row: 'یہ بچے ہمیشہ بے چین رہتیں ہیں۔'.
-- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 4,512. Rejected for a content lemma outside pack/top-3000: 949.
-- Primary word level of each sentence: {'B1': 1259, 'A2': 1202, 'A1': 858}.
+- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 4,618. Rejected for a content lemma outside pack/top-3000: 997.
+- Primary word level of each sentence: {'B1': 1290, 'A2': 1234, 'A1': 898}.
 - Token-length distribution of the final set:
 
 | tokens | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 26 | 231 | 893 | 961 | 668 | 261 | 98 | 70 | 53 | 29 | 16 | 13 |
+| sentences | 24 | 229 | 907 | 978 | 681 | 276 | 114 | 78 | 57 | 35 | 24 | 19 |
 
 ## Top 100 by rank (lemma [pos] gloss)
 

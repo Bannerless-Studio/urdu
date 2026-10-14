@@ -80,8 +80,7 @@ sentence with their English edition, marked `"src": "story"` with `"st"` (the
 book) in `pack/sentences.json`; each book is credited in
 `pack/attribution.json` and in the page footer. They are human-written, not
 reviewed by a native speaker by us, and only ship when every filter in
-`tools/README.md` passes. A word never gets more than four sentences, and
-picks past the second come from books only.
+`tools/README.md` passes. A word has at most four picked examples (a sentence shared with other words may link more).
 
 Urdu Tatoeba text has many non-standard spellings; every Tatoeba sentence
 that reaches the shipped set has been normalised, filtered and hand
