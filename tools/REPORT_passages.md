@@ -9,9 +9,9 @@ a pack lemma can go unlinked when the tagger reads it with another POS).
 words = the builder's word count (the band rule); ws_words = whitespace-separated
 tokens of the passage text, the count the app shows (report only).
 
-- **A1**: 20 passages; words/passage 66-84 (median 78.0); ws_words 66-84; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 44, tf 55
-- **A2**: 30 passages; words/passage 104-136 (median 119.0); ws_words 104-136; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 76, tf 74
-- **B1**: 30 passages; words/passage 153-193 (median 179.0); ws_words 153-193; coverage min 1.000, median 1.000 (rule >= 0.93); linked min 1.000; questions mc 90, tf 60
+- **A1**: 25 passages; words/passage 60-84 (median 78); ws_words 60-84; coverage min 0.950, median 1.000 (rule >= 0.95); linked min 0.950; questions mc 52, tf 69
+- **A2**: 38 passages; words/passage 101-136 (median 117.5); ws_words 93-136; coverage min 0.957, median 1.000 (rule >= 0.95); linked min 0.957; questions mc 94, tf 96
+- **B1**: 37 passages; words/passage 152-200 (median 180); ws_words 149-200; coverage min 0.954, median 1.000 (rule >= 0.93); linked min 0.954; questions mc 107, tf 78
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -95,6 +95,26 @@ tokens of the passage text, the count the app shows (report only).
 | p0078 | B1 | سمندر کے کنارے ایک دن | 153 | 153 | 1.000 | 1.000 | - | - |
 | p0079 | B1 | کتاب کلب کی پہلی میٹنگ | 167 | 167 | 1.000 | 1.000 | - | - |
 | p0080 | B1 | قلعے کی سیر | 165 | 165 | 1.000 | 1.000 | - | - |
+| p0081 | A1 | تین تحفے | 70 | 70 | 1.000 | 1.000 | - | A2: سکہ, ضرورت, پسند |
+| p0082 | A1 | آؤ مل کر گائیں | 71 | 70 | 1.000 | 1.000 | - | A2: بکری, گاؤں |
+| p0083 | A1 | مجھے معلوم ہے | 60 | 60 | 0.950 | 0.950 | بستہ x1 (not in pack: school bag), تفریق x1 (not in pack: subtraction), گننا x1 (not in pack: to count) | A2: جمع کرنا, کھیل |
+| p0084 | A1 | بلی کا بچہ کہاں ہے؟ | 65 | 65 | 0.954 | 0.954 | الماری x2 (not in pack: wardrobe), چارپائی x1 (not in pack: charpoy, rope bed) | A2: کے اوپر, کے پیچھے |
+| p0085 | A1 | بھاری کتنا بھاری ہوتا ہے؟ | 78 | 76 | 0.959 | 0.959 | نسبت x1 (not in pack: comparison (کی نسبت, compared to)), چنانچہ x1 (not in pack: so, therefore), ہاتھی x1 (not in pack: elephant) | A2: بھاری, پتھر, ہلکا |
+| p0086 | A2 | میں چیزیں بنا سکتا ہوں | 110 | 108 | 1.000 | 1.000 | - | B1: منع, موٹا |
+| p0087 | A2 | میں چڑھ سکتا ہوں | 107 | 93 | 0.977 | 0.977 | آواز دینا x1 (not in pack: to call out), رو x1 (not in pack: to cry (stem)) | B1: آہستہ, سیڑھی, ہنسنا |
+| p0088 | A2 | ٹوپی فروش | 116 | 111 | 0.980 | 0.980 | ناپنا x1 (not in pack: to measure, to fit), چنانچہ x1 (not in pack: so, therefore) | B1: بندر, تھیلا, ٹوپی |
+| p0089 | A2 | شور مچانے والے کوے | 131 | 131 | 0.962 | 0.962 | جھانکنا x1 (not in pack: to peep), لومڑی x1 (not in pack: fox), کائیں x1 (not in pack: caw (crow sound)), گھونسلہ x2 (not in pack: nest) | B1: اونچا, اڑنا, مچانا |
+| p0090 | A2 | کیا ہوتا اگر؟ | 101 | 99 | 0.969 | 0.969 | برش x1 (not in pack: brush), دوسہ x1 (not in pack: dosa, a South Indian pancake), غلبیت x1 (not in pack: overpowering (sleepiness)) | B1: متوجہ, گردن |
+| p0091 | A2 | کتاب خریدنے جانا | 117 | 114 | 0.972 | 0.972 | دار x1 (not in pack: holder, -keeper (دکان دار, shopkeeper)), سمجھ x1 (not in pack: understanding), مسکرایا x1 (not in pack: smiled) | B1: خاموشی, پریشانی, یوں |
+| p0092 | A2 | کتّے بمقابلہ بلّیاں | 107 | 96 | 0.957 | 0.957 | دلا x1 (not in pack: to free, to get rid of (نجات دلانا)), نجات x1 (not in pack: relief, getting rid of), پریشان x1 (not in pack: troublesome, worried), چیت x1 (not in pack: talk (بات چیت)) | B1: بھوکا, چوہا, کھانا کھانا |
+| p0093 | A2 | میری بہترین دوست | 135 | 132 | 0.984 | 0.984 | مزا x1 (not in pack: fun), چیخ x1 (not in pack: scream) | B1: شیشہ |
+| p0094 | B1 | تین تحفے | 152 | 149 | 0.993 | 0.993 | دانائی x1 (not in pack: wisdom) | - |
+| p0095 | B1 | جہاز کیسے اڑتے ہیں؟ | 200 | 200 | 0.985 | 0.985 | دھکیلنا x1 (not in pack: to push), پیٹرول x1 (not in pack: petrol, fuel), گیس x1 (not in pack: gas) | - |
+| p0096 | B1 | ساری غلطی بلّی کی تھی | 183 | 174 | 0.965 | 0.965 | پھاڑ x1 (not in pack: tear (stem of پھاڑنا)), پھاڑتا x1 (not in pack: tears (پھاڑنا, to tear)), چکن x2 (not in pack: chicken), کڑاہی x2 (not in pack: karahi, a curry) | - |
+| p0097 | B1 | چکو کی سائیکل | 154 | 152 | 0.977 | 0.977 | اوزار x1 (not in pack: tools), پریشان x1 (not in pack: troublesome, worried), ہتھوڑا x1 (not in pack: hammer) | - |
+| p0098 | B1 | کاشی کا عجیب خواب | 183 | 164 | 0.980 | 0.980 | ارے x1 (not in pack: oh! (interjection)), زدہ x1 (not in pack: -struck (خوف زدہ, frightened)), پلنگ x1 (not in pack: bed) | - |
+| p0099 | B1 | ٹوپی فروش اور بندر | 195 | 187 | 0.972 | 0.972 | بیدار x1 (not in pack: awake), سوچ x1 (not in pack: thought), پوٹلی x1 (not in pack: small bundle, bag), کر x1 (not in pack: having done (participle)), گری x1 (not in pack: fallen (fem. of گرا)) | - |
+| p0100 | B1 | کتابوں کی دکان | 158 | 155 | 0.954 | 0.954 | تذبذب x1 (not in pack: dilemma), خرید x1 (not in pack: buy (stem, in خریدوں)), سمجھ x1 (not in pack: understanding), شوق x1 (not in pack: liking, hobby), مطالعہ x1 (not in pack: reading, study), پتلی x1 (not in pack: thin (fem.)), چھوٹنا x1 (not in pack: to slip, to be left) | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
@@ -107,5 +127,12 @@ the budget rule above is unchanged):
 - p0066: title 'دکاندار': out of pack; title 'چیت': out of pack
 - p0067: title 'چڑھائی': out of pack
 - p0069: title 'لائبریری': لائبریری B1; title 'قاعدے': out of pack
+- p0081: title 'تحفے': تحفہ A2
+- p0083: title 'معلوم': معلوم A2; title 'ہے': معلوم ہونا A2
+- p0085: title 'بھاری': بھاری A2
+- p0088: title 'ٹوپی': ٹوپی B1; title 'فروش': out of pack
+- p0089: title 'مچانے': مچانا B1; title 'کوے': out of pack
+- p0092: title 'بمقابلہ': out of pack
+- p0099: title 'فروش': out of pack
 
 <!-- manual section: kept across runs -->

@@ -1852,5 +1852,312 @@
         "url": "https://www.letsreadasia.org/book/fd2be528-0af3-4d28-acd1-b6f05efa3164"
       }
     ]
+  },
+  "story_passages": {
+    "note": "Reading passages cut from these stories; Urdu text and English realigned, normalised typography only (tools/passages_src.json `story`).",
+    "count": 20,
+    "stories": [
+      {
+        "source": "Let's Read Asia",
+        "id": "02a243c6-ab8d-4598-8532-c8256a5819ae",
+        "title": "سارہ اور مریم: آئیں قدرت کے لیے ناچتے اور گاتے ہیں",
+        "english_title": "Chunu & Munu: Let's Sing and Dance for Nature!",
+        "url": "https://www.letsreadasia.org/book/02a243c6-ab8d-4598-8532-c8256a5819ae",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Shilpi Pradhan",
+          "Shantdas Manandhar"
+        ],
+        "illustrators": [
+          "Abin Shrestha"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "0f3a3ddc-f216-4ba5-9160-5ad0a1d75403",
+        "title": "جہاز کیسے اڑتے ہیں؟",
+        "english_title": "How do Airplanes Fly?",
+        "url": "https://www.letsreadasia.org/book/0f3a3ddc-f216-4ba5-9160-5ad0a1d75403",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Aditi Sarawagi"
+        ],
+        "illustrators": [
+          "Lavanya Karthik"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "27204a55-b83b-45c6-8b7d-90e9a6435556",
+        "title": "چکو کی سائیکل",
+        "english_title": "Chaku's Cycle",
+        "url": "https://www.letsreadasia.org/book/27204a55-b83b-45c6-8b7d-90e9a6435556",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Upendo Maria"
+        ],
+        "illustrators": [
+          "Iddi Marumba"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "2aadbae0-143f-4408-9319-439c47c8cbf4",
+        "title": "کتاب خریدنے جانا",
+        "english_title": "Going to Buy a Book",
+        "url": "https://www.letsreadasia.org/book/2aadbae0-143f-4408-9319-439c47c8cbf4",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Rukmini Banerji"
+        ],
+        "illustrators": [
+          "Santosh Pujari"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "2c8abbd0-12e6-4d5c-881f-f5fb868a7285",
+        "title": "کاشی کا عجیب خواب",
+        "english_title": "Khutso's Strange Dream",
+        "url": "https://www.letsreadasia.org/book/2c8abbd0-12e6-4d5c-881f-f5fb868a7285",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Rahab Makotla Mudau"
+        ],
+        "illustrators": [
+          "Siyasanga Madyibi"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e",
+        "title": "مجھے معلوم ہے",
+        "english_title": "I know",
+        "url": "https://www.letsreadasia.org/book/4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Lom Phireak"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "4e6b15e9-79a6-4102-89ac-afe0e7d411f7",
+        "title": "میری بہترین دوست",
+        "english_title": "My Best Friend",
+        "url": "https://www.letsreadasia.org/book/4e6b15e9-79a6-4102-89ac-afe0e7d411f7",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Anupa Lal"
+        ],
+        "illustrators": [
+          "Suvidha Mistry"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "533025b9-71d1-4d73-8ecd-7ff69dbfc52d",
+        "title": "میں چیزیں بنا سکتا ہوں",
+        "english_title": "I Can Make Things!",
+        "url": "https://www.letsreadasia.org/book/533025b9-71d1-4d73-8ecd-7ff69dbfc52d",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Mini Shrinivasan"
+        ],
+        "illustrators": [
+          "Tanvee Nabar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e",
+        "title": "بلی کا بچہ کہاں ہے؟",
+        "english_title": "Where is the kitten?",
+        "url": "https://www.letsreadasia.org/book/622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "6ffc7e85-95b9-464a-8cd0-0532be2697cf",
+        "title": "کیا ہوتا اگر؟",
+        "english_title": "What If?",
+        "url": "https://www.letsreadasia.org/book/6ffc7e85-95b9-464a-8cd0-0532be2697cf",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Hari Kumar Nair"
+        ],
+        "illustrators": [
+          "Hari Kumar Nair"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "7335f4a1-d30f-4df1-b64f-b5348702f74f",
+        "title": "تین تحفے",
+        "english_title": "Three Gifts",
+        "url": "https://www.letsreadasia.org/book/7335f4a1-d30f-4df1-b64f-b5348702f74f",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Wong Chew Wee"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "National Library Board, Singapore"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "8792f912-6792-4bb7-9db3-49c22a6d2ca1",
+        "title": "ساری غلطی بلّی کی تھی",
+        "english_title": "It's All the Cat's Fault!",
+        "url": "https://www.letsreadasia.org/book/8792f912-6792-4bb7-9db3-49c22a6d2ca1",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Anushka Ravishankar"
+        ],
+        "illustrators": [
+          "Priya Kuriyan"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "93cee343-46b0-4980-8431-fa27d21e9ff8",
+        "title": "ٹوپی فروش",
+        "english_title": "The Hat Seller",
+        "url": "https://www.letsreadasia.org/book/93cee343-46b0-4980-8431-fa27d21e9ff8",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Ananta Prasad Wagle"
+        ],
+        "illustrators": [
+          "Promina Shrestha"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "956e85a6-ee7e-4e23-9187-a03bba3e337e",
+        "title": "بھاری کتنا  بھاری  ہوتا ہے؟",
+        "english_title": "How Heavy is Heavy",
+        "url": "https://www.letsreadasia.org/book/956e85a6-ee7e-4e23-9187-a03bba3e337e",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Sukanya Sinha"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "bfe83db0-0254-43fb-86d6-74388c1feb5a",
+        "title": "کتّے بمقابلہ بلّیاں",
+        "english_title": "Dogs versus Cats",
+        "url": "https://www.letsreadasia.org/book/bfe83db0-0254-43fb-86d6-74388c1feb5a",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Nomkhosi Cynthia Thabethe"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2",
+        "title": "شور مچانے والے کوے",
+        "english_title": "Noisy Crows",
+        "url": "https://www.letsreadasia.org/book/d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      },
+      {
+        "source": "Let's Read Asia",
+        "id": "fd2be528-0af3-4d28-acd1-b6f05efa3164",
+        "title": "میں چڑھ سکتا ہوں",
+        "english_title": "I Can Climb!",
+        "url": "https://www.letsreadasia.org/book/fd2be528-0af3-4d28-acd1-b6f05efa3164",
+        "licence": "CC-BY-4.0",
+        "authors": [
+          "Mini Shrinivasan"
+        ],
+        "illustrators": [
+          "Deval Maniar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ]
+      }
+    ]
   }
 }

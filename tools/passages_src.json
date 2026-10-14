@@ -10139,6 +10139,2796 @@
      "sentence": 9
     }
    ]
+  },
+  {
+   "id": "p0081",
+   "lv": "A1",
+   "title": "تین تحفے",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "دوسری بیٹی اپنے سونے کے گھر میں رہنے لگی۔",
+     "The second daughter lived in her house of gold."
+    ],
+    [
+     "اسے بھی کسی قسم کے کام کرنے کی ضرورت نہ تھی، کیونکہ وہ سونے کے بدلے اپنی ضرورت کی تمام چیزیں خرید سکتی تھی۔",
+     "She too never worked a day since she could buy all the things she needed with the gold."
+    ],
+    [
+     "اس کی پسند کی چیزیں بڑھتی چلی گئیں یہاں تک کہ اس کا گھر مکمل طور پر ان چیزوں سے بھر گیا اور اس میں اتنی جگہ بھی نہ بچی کہ وہ اس میں چل پھر سکے۔",
+     "Her things grew and grew until there was no space for her to move around anymore!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "دوسری بیٹی کے گھر میں کیا تھا؟",
+     "en": "What was in the second daughter's house?",
+     "type": "mc",
+     "options": [
+      "بہت سے چاول",
+      "بہت سی کتابیں",
+      "بہت سا سونا",
+      "بہت سے پھول"
+     ],
+     "answer": 2,
+     "words": [
+      "سونا",
+      "گھر"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "دوسری بیٹی کو ہر روز کام کرنا پڑتا تھا۔",
+     "en": "The second daughter had to work every day.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "کام کرنا"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "اس کا گھر چیزوں سے بھر گیا۔",
+     "en": "Her house became full of things.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "گھر",
+      "چیز",
+      "بھرنا"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "گھر بھر گیا تو وہ کیا نہیں کر سکی؟",
+     "en": "When the house was full, what could she not do?",
+     "type": "mc",
+     "options": [
+      "چل پھر نہیں سکی",
+      "سو نہیں سکی",
+      "بات نہیں کر سکی",
+      "باہر نہیں جا سکی"
+     ],
+     "answer": 0,
+     "words": [
+      "چلنا",
+      "جگہ"
+     ],
+     "sentence": 2
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "7335f4a1-d30f-4df1-b64f-b5348702f74f",
+    "title": "تین تحفے",
+    "english_title": "Three Gifts",
+    "url": "https://www.letsreadasia.org/book/7335f4a1-d30f-4df1-b64f-b5348702f74f",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Wong Chew Wee"
+    ],
+    "illustrators": [],
+    "translators": [],
+    "publisher": [
+     "National Library Board, Singapore"
+    ]
+   }
+  },
+  {
+   "id": "p0082",
+   "lv": "A1",
+   "title": "آؤ مل کر گائیں",
+   "oop": {
+    "مریم": "name"
+   },
+   "names": [
+    "مریم"
+   ],
+   "sentences": [
+    [
+     "\"آؤ اپنے امّی اور ابو کے بارے میں گانا گائیں۔\" مریم جواب دیتی ہے۔ \"آؤ ہم ان دونوں کے لیے مل کر گانا گائیں۔\"",
+     "\"Let's sing a song about our mother and father!\" Maryam answers. \"Let's sing of them together!\""
+    ],
+    [
+     "\"آؤ مل کر اپنے دوستوں اور اپنے اساتذہ کے لیے گائیں!\"",
+     "\"Let's also sing about our friends! And our teachers!\""
+    ],
+    [
+     "\"اور اپنے گاؤں! اپنے ملک اور اپنے لوگوں کی زمین کے بارے میں مل کر گائیں۔\"",
+     "\"And our village! And our country! Let's sing about the land and our people!\""
+    ],
+    [
+     "\"ہم ہوا، پانی اور بارش کے لیے گانا گائیں گے۔ ہم بکریوں اور پھولوں کے لیے گانا گائیں گے۔\"",
+     "\"We will sing a song about air, about rain and water. We will sing a song about the goats and the flowers.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "وہ سب سے پہلے کن کے بارے میں گانا چاہتے ہیں؟",
+     "en": "Who do they first want to sing about?",
+     "type": "mc",
+     "options": [
+      "دوست اور استاد",
+      "گاؤں اور ملک",
+      "ہوا اور پانی",
+      "ماں اور باپ"
+     ],
+     "answer": 3,
+     "words": [
+      "امی",
+      "ابو"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "مریم گانا نہیں گانا چاہتی۔",
+     "en": "Maryam does not want to sing.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "گانا",
+      "جواب دینا"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "دوستوں کے ساتھ وہ کس کے لیے گانا چاہتے ہیں؟",
+     "en": "Who else do they want to sing for, along with friends?",
+     "type": "mc",
+     "options": [
+      "اپنے ڈاکٹر",
+      "اپنے استاد",
+      "اپنے ابو",
+      "اپنے پڑوسی"
+     ],
+     "answer": 1,
+     "words": [
+      "دوست",
+      "استاد"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "وہ اپنے ملک کے بارے میں گانا نہیں چاہتے۔",
+     "en": "They do not want to sing about their country.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ملک",
+      "گانا"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "وہ بارش اور پھولوں کے لیے بھی گانا گائیں گے۔",
+     "en": "They will also sing for the rain and the flowers.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "بارش",
+      "پھول"
+     ],
+     "sentence": 3
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "02a243c6-ab8d-4598-8532-c8256a5819ae",
+    "title": "سارہ اور مریم: آئیں قدرت کے لیے ناچتے اور گاتے ہیں",
+    "english_title": "Chunu & Munu: Let's Sing and Dance for Nature!",
+    "url": "https://www.letsreadasia.org/book/02a243c6-ab8d-4598-8532-c8256a5819ae",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Shilpi Pradhan",
+     "Shantdas Manandhar"
+    ],
+    "illustrators": [
+     "Abin Shrestha"
+    ],
+    "translators": [],
+    "publisher": [
+     "Room to Read"
+    ]
+   }
+  },
+  {
+   "id": "p0083",
+   "lv": "A1",
+   "title": "مجھے معلوم ہے",
+   "oop": {
+    "بستہ": "not in pack: school bag",
+    "تفریق": "not in pack: subtraction",
+    "گننا": "not in pack: to count"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "سب سے پہلے میں سکول جاتی ہوں۔",
+     "First, I go to school."
+    ],
+    [
+     "پھر میں کتاب کھولتی ہوں۔",
+     "Then I open a book."
+    ],
+    [
+     "میں سکول میں لکھنا سیکھتی ہوں۔",
+     "I learn to write."
+    ],
+    [
+     "پھر میں گنتی سیکھتی ہوں۔",
+     "Then I learn to count."
+    ],
+    [
+     "میں جمع کرنا سیکھتی ہوں۔",
+     "I learn to add."
+    ],
+    [
+     "میں تفریق کرنا بھی سیکھتی ہوں۔",
+     "Then I learn to subtract."
+    ],
+    [
+     "میں سکول کا بستہ بند کرنا سیکھتی ہوں۔",
+     "I learn to pack my backpack."
+    ],
+    [
+     "میں مختلف کھیل کھیلنا سیکھتی ہوں۔",
+     "I learn to play sports."
+    ],
+    [
+     "میں کتاب پڑھنا سیکھتی ہوں۔",
+     "I learn to read books."
+    ],
+    [
+     "میں تصویروں میں رنگ بھرنا سیکھتی ہوں۔",
+     "And I learn to color."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "وہ سب سے پہلے کیا کرتی ہے؟",
+     "en": "What does she do first of all?",
+     "type": "mc",
+     "options": [
+      "کتاب کھولتی ہے",
+      "اسکول جاتی ہے",
+      "لکھنا سیکھتی ہے",
+      "کھیل کھیلتی ہے"
+     ],
+     "answer": 1,
+     "words": [
+      "اسکول",
+      "جانا"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "وہ اسکول میں گاڑی چلانا سیکھتی ہے۔",
+     "en": "She learns to drive a car at school.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "اسکول",
+      "سیکھنا"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "وہ جمع کرنا سیکھتی ہے۔",
+     "en": "She learns to add.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "جمع کرنا",
+      "سیکھنا"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "وہ تصویروں میں کیا بھرنا سیکھتی ہے؟",
+     "en": "What does she learn to fill in pictures?",
+     "type": "mc",
+     "options": [
+      "پانی",
+      "دودھ",
+      "کھانا",
+      "رنگ"
+     ],
+     "answer": 3,
+     "words": [
+      "تصویر",
+      "رنگ",
+      "بھرنا"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "وہ کتاب پڑھنا بھی سیکھتی ہے۔",
+     "en": "She also learns to read a book.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "کتاب",
+      "پڑھنا"
+     ],
+     "sentence": 8
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e",
+    "title": "مجھے معلوم ہے",
+    "english_title": "I know",
+    "url": "https://www.letsreadasia.org/book/4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Komar Rien Komar Cheh"
+    ],
+    "illustrators": [
+     "Lom Phireak"
+    ],
+    "translators": [],
+    "publisher": [
+     "The Asia Foundation - Let's Read"
+    ]
+   }
+  },
+  {
+   "id": "p0084",
+   "lv": "A1",
+   "title": "بلی کا بچہ کہاں ہے؟",
+   "oop": {
+    "الماری": "not in pack: wardrobe",
+    "چارپائی": "not in pack: charpoy, rope bed"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "بلی کا بچہ کہاں ہے؟",
+     "Where is the kitten?"
+    ],
+    [
+     "بلی کا بچہ گھر کے پیچھے ہے۔",
+     "The kitten is behind the house."
+    ],
+    [
+     "بلی کا بچہ کہاں ہے؟",
+     "Where is the kitten?"
+    ],
+    [
+     "بلی کا بچہ الماری کے اوپر ہے۔",
+     "The kitten is on top of the wardrobe."
+    ],
+    [
+     "بلی کا بچہ کہاں ہے؟",
+     "Where is the kitten?"
+    ],
+    [
+     "بلی کا بچہ الماری کے نیچے ہے۔",
+     "The kitten is under the wardrobe."
+    ],
+    [
+     "بلی کا بچہ کہاں ہے؟",
+     "Where is the kitten?"
+    ],
+    [
+     "بلی کا بچہ کرسی کے ساتھ ہے۔",
+     "The kitten is next to the chair."
+    ],
+    [
+     "بلی کا بچہ کہاں ہے؟",
+     "Where is the kitten?"
+    ],
+    [
+     "بلی کا بچہ چارپائی کے نیچے ہے۔",
+     "The kitten is under the bed."
+    ],
+    [
+     "بلی کا بچہ کہاں ہے؟",
+     "Where is the kitten?"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "گھر کے سامنے ایک بلی کا بچہ ہے۔",
+     "en": "There is a kitten in front of the house.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "گھر",
+      "بچہ"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "الماری کے اوپر ایک چھوٹی بلی ہے۔",
+     "en": "There is a little cat on top of the wardrobe.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "کے اوپر"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "چارپائی کے نیچے کیا ہے؟",
+     "en": "What is under the bed?",
+     "type": "mc",
+     "options": [
+      "بلی کا بچہ",
+      "کتے کا بچہ",
+      "ایک کتاب",
+      "ایک کرسی"
+     ],
+     "answer": 0,
+     "words": [
+      "کے نیچے",
+      "بچہ"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "کرسی کے ساتھ ایک کتا ہے۔",
+     "en": "There is a dog next to the chair.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "کرسی",
+      "کے ساتھ"
+     ],
+     "sentence": 7
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e",
+    "title": "بلی کا بچہ کہاں ہے؟",
+    "english_title": "Where is the kitten?",
+    "url": "https://www.letsreadasia.org/book/622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "All Children Reading - Cambodia"
+    ],
+    "illustrators": [],
+    "translators": [],
+    "publisher": [
+     "The Asia Foundation - Let's Read"
+    ]
+   }
+  },
+  {
+   "id": "p0085",
+   "lv": "A1",
+   "title": "بھاری کتنا بھاری ہوتا ہے؟",
+   "oop": {
+    "نسبت": "not in pack: comparison (کی نسبت, compared to)",
+    "چنانچہ": "not in pack: so, therefore",
+    "ہاتھی": "not in pack: elephant"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "رکیں، کیا آپ نے ابھی یہ نہیں کہا تھا کہ پتھر بھاری ہے؟",
+     "Wait, didn't you just say that the stone was heavy?"
+    ],
+    [
+     "ہاں، اس کی وجہ یہ تھی کہ یہ پَر سے بھاری تھا!",
+     "Yes, that was because it was heavier than the feather!"
+    ],
+    [
+     "لیکن یہ ہاتھی سے بہت زیادہ ہلکا ہے۔",
+     "But it is MUCH lighter than an elephant."
+    ],
+    [
+     "چنانچہ کیا یہ بہتر نہ ہو گا کہ یہ نہ کہا جائے \"یہ بھاری ہے\" یا \"یہ ہلکا ہے۔\"",
+     "So maybe it is best not to say, \"This is heavy\" or \"This is light\"."
+    ],
+    [
+     "شاید یہ پوچھنا بہتر ہے: کیا یہ کِسی اور چیز کی نسبت زیادہ بھاری ہے؟",
+     "Maybe it is better to ask: Is this heaviER than something else?"
+    ],
+    [
+     "کیا یہ کسی اور چیز سے زیادہ ہلکا ہے؟",
+     "Is this lightER than something else?"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "پتھر کس چیز سے بھاری ہے؟",
+     "en": "What is the stone heavier than?",
+     "type": "mc",
+     "options": [
+      "ہاتھی سے",
+      "گھر سے",
+      "پَر سے",
+      "کتاب سے"
+     ],
+     "answer": 2,
+     "words": [
+      "بھاری"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "پتھر ہاتھی سے ہلکا ہے۔",
+     "en": "The stone is lighter than an elephant.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ہلکا"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "یہ کہنا بہتر ہے کہ ہر چیز بھاری ہے۔",
+     "en": "It is better to say that everything is heavy.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "بھاری",
+      "بہتر"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "ہم پوچھ سکتے ہیں کہ پتھر کسی اور چیز سے بھاری ہے یا نہیں۔",
+     "en": "We can ask whether the stone is heavier than something else.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "پوچھنا",
+      "بھاری"
+     ],
+     "sentence": 4
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "956e85a6-ee7e-4e23-9187-a03bba3e337e",
+    "title": "بھاری کتنا  بھاری  ہوتا ہے؟",
+    "english_title": "How Heavy is Heavy",
+    "url": "https://www.letsreadasia.org/book/956e85a6-ee7e-4e23-9187-a03bba3e337e",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Sukanya Sinha"
+    ],
+    "illustrators": [],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0086",
+   "lv": "A2",
+   "title": "میں چیزیں بنا سکتا ہوں",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "اب میں بڑا ہو گیا ہوں میں تصویریں اور دوسری بہت سی چیزیں بنا سکتا ہوں۔",
+     "I am a big boy now. I can draw and I can make things."
+    ],
+    [
+     "میں اپنی امّی کی تصویر بنا رہا ہوں وہ میرے سامنے آرام سے بیٹھی ہیں۔",
+     "I am drawing my mother. She sits calmly in front of me."
+    ],
+    [
+     "میں اپنی بہن کی تصویر بنا رہا ہوں، لیکن وہ ایک جگہ آرام سے نہیں بیٹھتی۔",
+     "I am drawing my sister, but she does not sit still in one place."
+    ],
+    [
+     "میں بہت ساری چیزیں بنا سکتا ہوں۔",
+     "I can make a lot of things."
+    ],
+    [
+     "لیکن مجھے دیوار پر کچھ بھی بنانے سے منع کیا گیا ہے۔",
+     "But I am told not to draw on the wall."
+    ],
+    [
+     "میں بہت سی چیزیں بنا سکتا ہوں۔",
+     "I can make many things."
+    ],
+    [
+     "میں بلّی بنا سکتا ہوں جو بہت موٹی ہے۔",
+     "I can draw a cat, and she is very fat."
+    ],
+    [
+     "میں نے مچھلی بنائی ہے وہ چھوٹی سی ہے۔",
+     "I drew a fish. It is small."
+    ],
+    [
+     "میں کاغذ کی کشتی، پرندے اور جہاز بنا سکتا ہوں۔",
+     "I can make paper boats, birds and planes."
+    ],
+    [
+     "میں گھر اور ریل گاڑی بناتا ہوں۔",
+     "I make houses and trains."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "اس کی بہن کیسی ہے؟",
+     "en": "What is his sister like?",
+     "type": "mc",
+     "options": [
+      "بہت خوش رہتی ہے",
+      "ہر وقت اسکول کی کتابیں پڑھتی ہے",
+      "کھیل رہی ہے",
+      "ایک جگہ بیٹھی نہیں رہتی"
+     ],
+     "answer": 3,
+     "words": [
+      "جگہ",
+      "بیٹھنا"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "وہ دیوار پر کچھ نہیں بنا سکتا۔",
+     "en": "He is not allowed to draw anything on the wall.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "دیوار",
+      "منع"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "وہ بلی کیسی ہے؟",
+     "en": "What is the cat like?",
+     "type": "mc",
+     "options": [
+      "بہت خوبصورت",
+      "بہت بھاری",
+      "بہت تیز",
+      "بہت اداس"
+     ],
+     "answer": 1,
+     "words": [
+      "موٹا",
+      "بلی"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "وہ مچھلی بہت بڑی ہے۔",
+     "en": "The fish is very big.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "مچھلی",
+      "چھوٹا"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "وہ کاغذ سے کیا بنا سکتا ہے؟",
+     "en": "What can he make out of paper?",
+     "type": "mc",
+     "options": [
+      "گھر اور ریل گاڑی",
+      "کرسی اور میز",
+      "کشتی اور جہاز",
+      "کتاب اور دروازہ"
+     ],
+     "answer": 2,
+     "words": [
+      "کاغذ",
+      "کشتی",
+      "جہاز"
+     ],
+     "sentence": 8
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "533025b9-71d1-4d73-8ecd-7ff69dbfc52d",
+    "title": "میں چیزیں بنا سکتا ہوں",
+    "english_title": "I Can Make Things!",
+    "url": "https://www.letsreadasia.org/book/533025b9-71d1-4d73-8ecd-7ff69dbfc52d",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Mini Shrinivasan"
+    ],
+    "illustrators": [
+     "Tanvee Nabar"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0087",
+   "lv": "A2",
+   "title": "میں چڑھ سکتا ہوں",
+   "oop": {
+    "آواز دینا": "not in pack: to call out",
+    "رو": "not in pack: to cry (stem)",
+    "پپو": "name"
+   },
+   "names": [
+    "پپُو"
+   ],
+   "sentences": [
+    [
+     "اب میں ایک بڑا بچہ ہوں۔",
+     "I am a big boy now."
+    ],
+    [
+     "اب میں سیڑھیاں چڑھ سکتا ہوں۔",
+     "I can climb up the steps."
+    ],
+    [
+     "لیکن میں نیچے نہیں اُتر سکتا۔",
+     "But I cannot climb down again."
+    ],
+    [
+     "میں کُرسی پر چڑھ سکتا ہوں۔",
+     "I can climb on a chair."
+    ],
+    [
+     "لیکن میں نیچے نہیں اُتر سکتا۔",
+     "But I cannot climb down again."
+    ],
+    [
+     "میں کُرسی پر چڑھ کر میز پر چڑھ سکتا ہوں۔",
+     "I climb on to the chair, and then on the table!"
+    ],
+    [
+     "لیکن پھر میں نیچے نہیں اُتر سکتا۔",
+     "But I cannot climb down again."
+    ],
+    [
+     "میں نے ابّو کو آواز دی: \"ابّو، ابّو\" ابو ہنستے ہوئے میری طرف آئے اور کہا: \"پپُو اب نیچے اُترنا بھی سیکھ لو\"",
+     "\"Papa! Papa!\" I shout. Papa laughs. \"Pappu, learn to climb down!\" he says."
+    ],
+    [
+     "میں ڈر رہا ہوں لیکن رو نہیں رہا۔",
+     "I am afraid. But I do not cry."
+    ],
+    [
+     "آہستہ سے میں میز سے کُرسی پر اُترا اور کُرسی سے زمین پر اُتر گیا۔",
+     "Slowly, I get down from the table, and down from the chair."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "وہ نیچے نہیں اتر سکتا۔",
+     "en": "He cannot get down.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "اترنا",
+      "نیچے"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ابو اس کی آواز سن کر کیا کرنے لگے؟",
+     "en": "What did Papa do when he heard him?",
+     "type": "mc",
+     "options": [
+      "ہنسنے",
+      "سونے",
+      "گانے",
+      "رونے"
+     ],
+     "answer": 0,
+     "words": [
+      "ہنسنا",
+      "ابو"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "وہ آہستہ آہستہ نیچے اترا۔",
+     "en": "He got down slowly.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "آہستہ",
+      "اترنا"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "وہ ڈر رہا ہے اور رو رہا ہے۔",
+     "en": "He is scared and he is crying.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ڈرنا"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "وہ کرسی پر چڑھ کر کس پر چڑھتا ہے؟",
+     "en": "After climbing the chair, what does he climb on?",
+     "type": "mc",
+     "options": [
+      "میز",
+      "دیوار",
+      "درخت",
+      "گھر"
+     ],
+     "answer": 0,
+     "words": [
+      "کرسی",
+      "میز",
+      "چڑھنا"
+     ],
+     "sentence": 5
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "fd2be528-0af3-4d28-acd1-b6f05efa3164",
+    "title": "میں چڑھ سکتا ہوں",
+    "english_title": "I Can Climb!",
+    "url": "https://www.letsreadasia.org/book/fd2be528-0af3-4d28-acd1-b6f05efa3164",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Mini Shrinivasan"
+    ],
+    "illustrators": [
+     "Deval Maniar"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0088",
+   "lv": "A2",
+   "title": "ٹوپی فروش",
+   "oop": {
+    "ناپنا": "not in pack: to measure, to fit",
+    "چنانچہ": "not in pack: so, therefore"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "ایک دن آدمی اپنی ٹوپیاں بیچنے کے لیے ایک گاؤں کی طرف جا رہا تھا۔",
+     "One day, a hat seller was travelling to a village to sell his hats."
+    ],
+    [
+     "کافی دیر چلنے کے بعد، وہ تھک گیا۔",
+     "After walking for a long time, he got tired."
+    ],
+    [
+     "چنانچہ وہ آرام کے لیے ایک درخت کے نیچے بیٹھ گیا۔",
+     "So he sat under a tree to rest."
+    ],
+    [
+     "وہ اتنا تھکا ہوا تھا کہ جلد ہی وہ سو گیا۔",
+     "He was so tired that he quickly fell asleep."
+    ],
+    [
+     "جب وہ سو گیا تو بندروں نے درخت سے نیچے اُس کی طرف دیکھا۔",
+     "While he slept, a group of monkeys looked down on him from the tree."
+    ],
+    [
+     "قریب سے دیکھنے کے لیے وہ درخت سے تھوڑا نیچے اُترے۔",
+     "They climbed down the tree to get a closer look."
+    ],
+    [
+     "اُسے سوتا دیکھ کر بندروں نے اُس کا تھیلا کھولا اور اُس میں دیکھنے لگے۔",
+     "They opened his bag and looked through it."
+    ],
+    [
+     "وہ تھیلے میں سے جلدی جلدی اپنے ناپ کی مختلف رنگوں کی ٹوپیاں ڈھونڈنے لگے۔",
+     "They were excited to find many hats of different colors, just their size."
+    ],
+    [
+     "اور جلد ہی سب بندروں نے ایک ایک ٹوپی پہن لی۔",
+     "Soon, each monkey was wearing one of the hats!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "وہ بہت چلنے کے بعد بھی نہیں تھکا۔",
+     "en": "He did not get tired even after walking a lot.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "تھکنا",
+      "چلنا"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "وہ آرام کرنے کے لیے کہاں بیٹھا؟",
+     "en": "Where did he sit to rest?",
+     "type": "mc",
+     "options": [
+      "دکان کے اندر",
+      "گاؤں کے باہر",
+      "درخت کے نیچے",
+      "گھر کے پاس"
+     ],
+     "answer": 2,
+     "words": [
+      "آرام",
+      "درخت"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "بندروں نے اس کے تھیلے کا کیا کیا؟",
+     "en": "What did the monkeys do to his bag?",
+     "type": "mc",
+     "options": [
+      "اسے گھر لے گئے",
+      "اس کے اندر دیکھنے لگے",
+      "اسے لے کر درخت پر چڑھ گئے",
+      "اسے پھینک دیا"
+     ],
+     "answer": 1,
+     "words": [
+      "تھیلا",
+      "دیکھنا"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "کچھ دیر بعد بندروں نے ٹوپیاں پہن لیں۔",
+     "en": "After a while the monkeys put on the hats.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "بندر",
+      "ٹوپی",
+      "پہننا"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "بندر درخت پر ہی بیٹھے رہے۔",
+     "en": "The monkeys just stayed sitting in the tree.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "اترنا",
+      "درخت"
+     ],
+     "sentence": 5
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "93cee343-46b0-4980-8431-fa27d21e9ff8",
+    "title": "ٹوپی فروش",
+    "english_title": "The Hat Seller",
+    "url": "https://www.letsreadasia.org/book/93cee343-46b0-4980-8431-fa27d21e9ff8",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Ananta Prasad Wagle"
+    ],
+    "illustrators": [
+     "Promina Shrestha"
+    ],
+    "translators": [],
+    "publisher": [
+     "Room to Read"
+    ]
+   }
+  },
+  {
+   "id": "p0089",
+   "lv": "A2",
+   "title": "شور مچانے والے کوے",
+   "oop": {
+    "جھانکنا": "not in pack: to peep",
+    "لومڑی": "not in pack: fox",
+    "کائیں": "not in pack: caw (crow sound)",
+    "گھونسلہ": "not in pack: nest"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "جب میرے بچے گھونسلے میں ہوتے ہیں، تو مجھے ان کی حفاظت کرنی ہوتی ہے۔",
+     "When my babies are in the nest, I have to be on guard."
+    ],
+    [
+     "آئیے میرے گھونسلے میں جھانکیں۔",
+     "Come peep into my nest."
+    ],
+    [
+     "دیکھیں میں نے کتنی خوبصورت چیزیں جمع کی ہیں۔",
+     "See the lovely things I have found."
+    ],
+    [
+     "مجھے ایک جہاز کی طرح، ہوا میں اونچا اڑنا پسند ہے۔",
+     "I love to fly up in the sky, like a plane."
+    ],
+    [
+     "میں درخت پر بیٹھتا اور مزیدار کھانے کے ٹکڑے ڈھونڈنے کے لئے یہاں وہاں دیکھتا ہوں۔",
+     "I sit on the tree and look around for some tasty bits of food."
+    ],
+    [
+     "میں اپنے دائیں دیکھتا ہوں۔",
+     "I look to my right."
+    ],
+    [
+     "میں اپنے بائیں دیکھتا ہوں۔",
+     "I look to my left."
+    ],
+    [
+     "مجھے مچھلی پسند ہے۔",
+     "I love fish."
+    ],
+    [
+     "جب میں اسے دیکھ لیتا ہوں تو، اسے اٹھانے کے لئے نیچے کی طرف جاتا ہوں۔",
+     "When I spot it, I fly down to pick it up."
+    ],
+    [
+     "اپنی کائیں کے ساتھ میں اپنے دوستوں کو بلاتا ہوں تاکہ وہ میرے ساتھ دعوت کریں۔",
+     "With my cawing I call my friends to share the feast with me."
+    ],
+    [
+     "کچھ لوگ مجھ پر چلاتے ہیں، \"دور ہو جاؤ، تم شور مچانے والے پرندے\"",
+     "Some people shout at me, \"Go away, you noisy bird.\""
+    ],
+    [
+     "جناب لومڑی کو میرا گانا بہت پسند ہے۔",
+     "Mr Fox likes my singing."
+    ],
+    [
+     "ایسا اس نے خود مجھے بتایا ہے۔",
+     "He told me so himself."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "اسے مچھلی پسند نہیں ہے۔",
+     "en": "He does not like fish.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "مچھلی",
+      "پسند ہونا"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "وہ اپنے دوستوں کو کیسے بلاتا ہے؟",
+     "en": "How does he call his friends?",
+     "type": "mc",
+     "options": [
+      "ہاتھ اٹھا کر",
+      "فون کر کے",
+      "گانا گا کر",
+      "اپنی آواز سے"
+     ],
+     "answer": 3,
+     "words": [
+      "دوست",
+      "بلانا"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "کچھ لوگ اس پر چلاتے ہیں۔",
+     "en": "Some people shout at him.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "لوگ",
+      "چلانا"
+     ],
+     "sentence": 10
+    },
+    {
+     "q": "لومڑی کو کس کا گانا پسند ہے؟",
+     "en": "Whose singing does the fox like?",
+     "type": "mc",
+     "options": [
+      "ایک بچے کا",
+      "ایک آدمی کا",
+      "ایک پرندے کا",
+      "ایک استاد کا"
+     ],
+     "answer": 2,
+     "words": [
+      "گانا"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "اسے پیدل چلنا پسند ہے۔",
+     "en": "He likes walking.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "اڑنا",
+      "پسند ہونا"
+     ],
+     "sentence": 3
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2",
+    "title": "شور مچانے والے کوے",
+    "english_title": "Noisy Crows",
+    "url": "https://www.letsreadasia.org/book/d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Kanchan Bannerjee"
+    ],
+    "illustrators": [
+     "Deepa Balsavar"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0090",
+   "lv": "A2",
+   "title": "کیا ہوتا اگر؟",
+   "oop": {
+    "برش": "not in pack: brush",
+    "دوسہ": "not in pack: dosa, a South Indian pancake",
+    "ساجد": "name",
+    "غلبیت": "not in pack: overpowering (sleepiness)"
+   },
+   "names": [
+    "ساجد"
+   ],
+   "sentences": [
+    [
+     "میرا نام ساجد ہے، میں دس سال کا ہوں۔",
+     "My name is Sajid, I am ten years old."
+    ],
+    [
+     "اگرچہ میں کمزور ہوں، لیکن بہادر ہوں۔",
+     "I am a little skinny, but very bold!"
+    ],
+    [
+     "اسکول جانا کوئی آسان کام نہیں ہے، کیونکہ اٹھتے وقت نیند کی غلبیت کی وجہ سے مجھے ایسا لگتا ہے کہ میں گِر نہ جاؤں۔",
+     "Going to school is no easy job. I am so sleepy when I get up that I feel I might fall."
+    ],
+    [
+     "برش کرتے وقت میری آنکھیں بند ہونے لگتی ہیں، اور امّی کو جلدی میں دوسہ بناتے ہوئے سنتا ہوں۔",
+     "My eyes close as I begin to brush, I hear Amma making dosas in a rush."
+    ],
+    [
+     "میرا دماغ اس طرف متوجہ ہو جاتا ہے، اور بہت سے خیالات میرے دماغ میں آنے لگتے ہیں۔",
+     "My mind slowly begins to wander away, And many, many ideas come into play."
+    ],
+    [
+     "کیا ہوتا اگر میری گردن دس گنا لمبی ہوتی؟",
+     "What if my neck was ten times as long?"
+    ],
+    [
+     "آدھی سکول میں، آدھی گھر میں، تو میرا تعلق کہاں سے ہوتا؟",
+     "Half in school, half at home, where would I belong?"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ساجد کتنے سال کا ہے؟",
+     "en": "How old is Sajid?",
+     "type": "mc",
+     "options": [
+      "دس سال کا",
+      "آٹھ سال کا",
+      "بارہ سال کا",
+      "پندرہ سال کا"
+     ],
+     "answer": 0,
+     "words": [
+      "سال"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "ساجد بہت مضبوط ہے۔",
+     "en": "Sajid is very strong.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "کمزور"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "اسکول جانا مشکل کیوں ہے؟",
+     "en": "Why is going to school hard?",
+     "type": "mc",
+     "options": [
+      "اسکول بہت دور ہے",
+      "اسے کتابیں پسند نہیں",
+      "اسے بھوک لگی ہوتی ہے",
+      "اسے بہت نیند آتی ہے"
+     ],
+     "answer": 3,
+     "words": [
+      "نیند",
+      "اسکول"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ساجد کے ابو صبح جلدی میں کھانا بنا رہے ہیں۔",
+     "en": "Sajid's father is making food in a rush in the morning.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "امی",
+      "جلدی",
+      "بنانا"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "ساجد کس کے بارے میں سوچتا ہے؟",
+     "en": "What does Sajid think about?",
+     "type": "mc",
+     "options": [
+      "اپنے نئے اسکول کے بارے میں",
+      "اپنی لمبی گردن کے بارے میں",
+      "اپنی امی کے بارے میں",
+      "اپنے دوستوں کے بارے میں"
+     ],
+     "answer": 1,
+     "words": [
+      "گردن",
+      "لمبا"
+     ],
+     "sentence": 5
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "6ffc7e85-95b9-464a-8cd0-0532be2697cf",
+    "title": "کیا ہوتا اگر؟",
+    "english_title": "What If?",
+    "url": "https://www.letsreadasia.org/book/6ffc7e85-95b9-464a-8cd0-0532be2697cf",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Hari Kumar Nair"
+    ],
+    "illustrators": [
+     "Hari Kumar Nair"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0091",
+   "lv": "A2",
+   "title": "کتاب خریدنے جانا",
+   "oop": {
+    "دار": "not in pack: holder, -keeper (دکان دار, shopkeeper)",
+    "سمجھ": "not in pack: understanding",
+    "مسکرایا": "not in pack: smiled"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "ہم کو سمجھ نہیں آ رہا تھا کہ کون سی کتاب خریدیں۔",
+     "We did not know which book to buy."
+    ],
+    [
+     "ہمیں پریشانی میں دیکھ کر دکان دار مسکرایا اور کہا \"آرام سے، پریشان مت ہو اور میرے ساتھ آؤ۔ یہ کتابیں جانوروں کے بارے میں ہیں اور وہ مشینوں کے۔ اُدھر جنگوں کے بارے میں بھی ہیں۔ تم جو چاہے لے لو۔\"",
+     "The man in the shop smiled at us. \"Relax, come with me,\" he said. \"These books are about animals. Those are about machines. Those over there are about wars. Take what you want.\""
+    ],
+    [
+     "میں نے کچھ کتابیں اُٹھائیں اور بھائی نے بھی۔",
+     "I picked up some books. My brother picked up some books."
+    ],
+    [
+     "میں زمین پر بیٹھ گئی اور بھائی کرسی پر۔",
+     "I sat on the floor. He sat on the chair."
+    ],
+    [
+     "اور ہم نے پڑھنا شروع کیا اور پھر پڑھتے ہی چلے گئے۔",
+     "And we read and we read and we read."
+    ],
+    [
+     "بہت ہی خاموشی تھی۔",
+     "It was very quiet."
+    ],
+    [
+     "کوئی آواز نہیں آ رہی تھی۔",
+     "There was no sound."
+    ],
+    [
+     "یُوں ہی گھنٹے گزر گئے اور آخر کار ہم نے جان لیا کہ ہم کو کون سی کتابیں خریدنی چاہئیں۔",
+     "Hours passed like that, and in the end we knew which books we should buy."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "دکان دار نے ان کو کون سی کتابیں دکھائیں؟",
+     "en": "Which books did the shopkeeper show them?",
+     "type": "mc",
+     "options": [
+      "پھولوں اور پرندوں اور درختوں کے بارے میں",
+      "جانوروں اور مشینوں کے بارے میں",
+      "کھیل اور کھانوں کے بارے میں",
+      "کپڑوں اور جوتوں کے بارے میں"
+     ],
+     "answer": 1,
+     "words": [
+      "جانور",
+      "مشین",
+      "کتاب"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "لڑکی زمین پر اور بھائی کرسی پر بیٹھا۔",
+     "en": "The girl sat on the floor and her brother on the chair.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "زمین",
+      "کرسی"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "دکان میں بہت شور تھا۔",
+     "en": "There was a lot of noise in the shop.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "خاموشی"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "انھوں نے کتنے وقت تک کتابیں پڑھیں؟",
+     "en": "For how long did they read the books?",
+     "type": "mc",
+     "options": [
+      "کچھ منٹوں تک",
+      "ایک دن تک",
+      "دو سال تک",
+      "کئی گھنٹوں تک"
+     ],
+     "answer": 3,
+     "words": [
+      "گھنٹہ",
+      "کتاب"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "وہ دونوں فیصلہ نہیں کر پا رہے تھے۔",
+     "en": "The two of them could not decide.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "خریدنا",
+      "کتاب"
+     ],
+     "sentence": 0
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "2aadbae0-143f-4408-9319-439c47c8cbf4",
+    "title": "کتاب خریدنے جانا",
+    "english_title": "Going to Buy a Book",
+    "url": "https://www.letsreadasia.org/book/2aadbae0-143f-4408-9319-439c47c8cbf4",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Rukmini Banerji"
+    ],
+    "illustrators": [
+     "Santosh Pujari"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0092",
+   "lv": "A2",
+   "title": "کتّے بمقابلہ بلّیاں",
+   "oop": {
+    "دلا": "not in pack: to free, to get rid of (نجات دلانا)",
+    "نجات": "not in pack: relief, getting rid of",
+    "پریشان": "not in pack: troublesome, worried",
+    "چیت": "not in pack: talk (بات چیت)"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "اگر بلی کہیں دور ہوتی تو کُتّا کھانا نہیں کھاتا تھا۔",
+     "If the cat was away, the dog would not eat."
+    ],
+    [
+     "اگر کُتّا کہیں دور ہوتا تو بلی کھانا نہیں کھاتی تھی۔",
+     "If the dog was away, the cat would not eat!"
+    ],
+    [
+     "ایک دن لوگوں کو احساس ہوا کہ بلی چوہوں کا شکار بہت اچھے طریقے سے کرتی ہے۔",
+     "One day, people realised that the cat was a great mouse catcher."
+    ],
+    [
+     "وہ بلی کو اپنے ساتھ گھر کے اندر لے جاتے ہیں تاکہ وہ پریشان کُن چوہوں سے ان کو نجات دلا سکے۔",
+     "They took the cat into the house to get rid of the pesky mice."
+    ],
+    [
+     "کُتّا بہت اُداس تھا۔",
+     "The dog was sad."
+    ],
+    [
+     "وہ اپنے آپ کو بارش میں اکیلا محسوس کر رہا تھا۔",
+     "He felt alone out in the rain."
+    ],
+    [
+     "اُس نے فیصلہ کیا کہ وہ اپنی پرانی دوست یعنی بلی کو بُلا کر اُس سے کچھ بات چیت کرے۔",
+     "He decided to call his old friend, the cat, for a talk."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "لوگوں کو بلی کے بارے میں کیا پتا چلا؟",
+     "en": "What did people find out about the cat?",
+     "type": "mc",
+     "options": [
+      "وہ چوہوں کو اچھی طرح پکڑتی ہے",
+      "وہ رات کو اکیلی گھر سے باہر جاتی ہے",
+      "وہ رات کو گاتی ہے",
+      "وہ مچھلی بہت کھاتی ہے"
+     ],
+     "answer": 0,
+     "words": [
+      "چوہا",
+      "بلی"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "بلی دور ہو تو کتا کچھ نہیں کھاتا۔",
+     "en": "If the cat is away, the dog eats nothing.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "کتا",
+      "دور"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "کتا بارش میں کیسا محسوس کر رہا تھا؟",
+     "en": "How was the dog feeling in the rain?",
+     "type": "mc",
+     "options": [
+      "خوش اور تھکا ہوا",
+      "غصے میں اور بھوکا",
+      "اداس اور اکیلا",
+      "بیمار اور ڈرا ہوا"
+     ],
+     "answer": 2,
+     "words": [
+      "اکیلا",
+      "بارش"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "لوگ بلی کو گھر سے باہر لے گئے۔",
+     "en": "People took the cat out of the house.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "بلی",
+      "گھر"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "کتا اپنی پرانی دوست سے بات کرنا چاہتا ہے۔",
+     "en": "The dog wants to talk to his old friend.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "دوست",
+      "بات"
+     ],
+     "sentence": 6
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "bfe83db0-0254-43fb-86d6-74388c1feb5a",
+    "title": "کتّے بمقابلہ بلّیاں",
+    "english_title": "Dogs versus Cats",
+    "url": "https://www.letsreadasia.org/book/bfe83db0-0254-43fb-86d6-74388c1feb5a",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Nomkhosi Cynthia Thabethe"
+    ],
+    "illustrators": [
+     "Vusi Malindi"
+    ],
+    "translators": [],
+    "publisher": [
+     "Room to Read"
+    ]
+   }
+  },
+  {
+   "id": "p0093",
+   "lv": "A2",
+   "title": "میری بہترین دوست",
+   "oop": {
+    "مزا": "not in pack: fun",
+    "چیخ": "not in pack: scream"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "میری ایک دوست ہے وہ میرے گھر میں رہتی ہے۔",
+     "I have a friend. She lives in my house."
+    ],
+    [
+     "جب میں خوش ہوتی ہوں تو وہ بھی خوش ہوتی ہے۔",
+     "When I am happy, so is she."
+    ],
+    [
+     "جب میں روتی ہوں وہ بھی روتی ہے۔",
+     "When I cry, she cries too."
+    ],
+    [
+     "لیکن میں اُس کی آواز نہیں سن سکتی، میری دوست شیشے کے اندر رہتی ہے۔",
+     "But I cannot hear her voice. My friend lives inside the mirror."
+    ],
+    [
+     "\"باہر آؤ\" میں نے اسے بلایا۔ \"ہم کھیلتے ہیں۔\" وہ باہر نہیں آئی۔",
+     "\"Come out,\" I tell her, \"we will play.\" She does not come out."
+    ],
+    [
+     "میں خوش نہیں ہوں، میں سونے جا رہی ہوں۔",
+     "I am not happy. I go to sleep."
+    ],
+    [
+     "وہ میرے خواب میں شیشے سے باہر آ جاتی ہے اور ہم مزا کرتے ہیں۔",
+     "She comes out of the mirror in my sleep! And we have fun."
+    ],
+    [
+     "ہم کھیلتے ہیں، ہم بھاگتے ہیں، ہم مل کر چیخیں مارتے ہیں۔",
+     "We play, we run, we shout and scream together."
+    ],
+    [
+     "جب میں اُس سے بات کرتی ہوں تو وہ بھی مجھ سے بات کرتی ہے۔",
+     "When I talk to her, she also talks to me."
+    ],
+    [
+     "اگلی صبح میری دوست واپس شیشے میں چلی جاتی ہے۔",
+     "In the morning, my friend will go back into the mirror."
+    ],
+    [
+     "مجھے یہ بات بُری نہیں لگتی۔",
+     "But I don't mind at all."
+    ],
+    [
+     "ہم دوبارہ میرے خوابوں میں کھیل لیں گے۔",
+     "We will play again in my dreams!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "اس کی دوست کہاں رہتی ہے؟",
+     "en": "Where does her friend live?",
+     "type": "mc",
+     "options": [
+      "اس کے سکول میں",
+      "درخت کے نیچے",
+      "گاؤں کے باہر",
+      "شیشے کے اندر"
+     ],
+     "answer": 3,
+     "words": [
+      "شیشہ",
+      "رہنا"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "جب وہ روتی ہے تو اس کی دوست بھی روتی ہے۔",
+     "en": "When she cries, her friend cries too.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "رونا"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "اس کی دوست بلانے پر باہر آ جاتی ہے۔",
+     "en": "Her friend comes out when she calls.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "باہر",
+      "بلانا"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "اس کی دوست کب شیشے سے باہر آتی ہے؟",
+     "en": "When does her friend come out of the mirror?",
+     "type": "mc",
+     "options": [
+      "جب وہ خوش ہوتی ہے",
+      "جب وہ سو جاتی ہے",
+      "جب وہ کھیلتی ہے",
+      "جب وہ رو رہی ہوتی ہے"
+     ],
+     "answer": 1,
+     "words": [
+      "خواب",
+      "باہر"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "صبح کو اس کی دوست دوبارہ شیشے کے اندر چلی جاتی ہے۔",
+     "en": "In the morning her friend goes back into the mirror.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "صبح",
+      "شیشہ"
+     ],
+     "sentence": 9
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "4e6b15e9-79a6-4102-89ac-afe0e7d411f7",
+    "title": "میری بہترین دوست",
+    "english_title": "My Best Friend",
+    "url": "https://www.letsreadasia.org/book/4e6b15e9-79a6-4102-89ac-afe0e7d411f7",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Anupa Lal"
+    ],
+    "illustrators": [
+     "Suvidha Mistry"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0094",
+   "lv": "B1",
+   "title": "تین تحفے",
+   "oop": {
+    "دانائی": "not in pack: wisdom"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "جب کہ اُس آدمی کی سب سے چھوٹی بیٹی روزانہ کتابوں کا مطالعہ کرتی۔",
+     "The youngest daughter read every day."
+    ],
+    [
+     "وہ روزانہ کچھ نئی چیز سیکھتی تھی جس سے اس کا علم بڑھتا گیا۔",
+     "She learned something new each day and her knowledge grew and grew!"
+    ],
+    [
+     "وہ لوگوں کے لئے بہت سے کام کرنے کے قابل ہوگئی، جس سے وہ اپنی خوراک اور ضرورت کی چیزیں خریدنے کے لئے مناسب پیسے کما لیتی تھی۔",
+     "She was able to do many things for the people, and earned enough money to buy the food and things she needed."
+    ],
+    [
+     "اصل میں اسے بہت سی چیزیں خریدنے کی ضرورت نہیں تھی کیونکہ اس نے کھانا پکانا سیکھ لیا تھا اور اپنے ہاتھوں سے چیزیں بناتی تھی۔",
+     "In fact, she didn't need to buy many things because she learnt to cook and made things with her hands."
+    ],
+    [
+     "اس کی دانائی اور کام کرنے کی صلاحیت کی خبریں ہر طرف پھیل گئیں اور دور دور سے لوگ اُس سے مشورہ اور مدد حاصل کرنے کے لئے آنے لگے، یہاں تک کہ اس کی بہنیں بھی۔",
+     "News of her wisdom and ability spread, and people came from all over the land to seek her advice and help, including her sisters."
+    ],
+    [
+     "وہ دوسروں کی مدد کرنے سے بہت خوش ہوتی تھی۔ لوگوں کی مدد کرنے کے لئے اُسے مزید مطالعہ کرنا پڑتا جس سے اس کی عقل میں مزید اضافہ ہوتا۔",
+     "She was more than happy to help others. To help people she had to read even more, and so her wisdom grew still more."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "وہ پیسے کیسے کماتی تھی؟",
+     "en": "How did she earn money?",
+     "type": "mc",
+     "options": [
+      "کتابیں بیچ کر",
+      "گھر کرائے پر دے کر",
+      "لوگوں کے کام کر کے",
+      "بازار میں کھانا بیچ کر"
+     ],
+     "answer": 2,
+     "words": [
+      "کام کرنا",
+      "پیسہ"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "وہ بہت سی چیزیں خود بنا لیتی تھی، اس لیے کم خریدتی تھی۔",
+     "en": "She made many things herself, so she bought little.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "بنانا",
+      "خریدنا"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "اس کی بہنیں اس کے پاس کیوں آئیں؟",
+     "en": "Why did her sisters come to her?",
+     "type": "mc",
+     "options": [
+      "مشورہ اور مدد لینے کے لیے",
+      "کتابیں بیچنے کے لیے",
+      "سونا مانگنے کے لیے",
+      "اس کا بڑا گھر دیکھنے اور سونا لینے کے لیے"
+     ],
+     "answer": 0,
+     "words": [
+      "مدد",
+      "بہن"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "اسے دوسروں کی مدد کرنا اچھا نہیں لگتا تھا۔",
+     "en": "She did not like helping others.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "مدد کرنا",
+      "خوش ہونا"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "کتابیں پڑھنے سے اس کا کیا بڑھتا گیا؟",
+     "en": "What kept growing as she read books?",
+     "type": "mc",
+     "options": [
+      "علم",
+      "وزن",
+      "سونا",
+      "گھر"
+     ],
+     "answer": 0,
+     "words": [
+      "علم",
+      "سیکھنا"
+     ],
+     "sentence": 1
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "7335f4a1-d30f-4df1-b64f-b5348702f74f",
+    "title": "تین تحفے",
+    "english_title": "Three Gifts",
+    "url": "https://www.letsreadasia.org/book/7335f4a1-d30f-4df1-b64f-b5348702f74f",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Wong Chew Wee"
+    ],
+    "illustrators": [],
+    "translators": [],
+    "publisher": [
+     "National Library Board, Singapore"
+    ]
+   }
+  },
+  {
+   "id": "p0095",
+   "lv": "B1",
+   "title": "جہاز کیسے اڑتے ہیں؟",
+   "oop": {
+    "دھکیلنا": "not in pack: to push",
+    "پیٹرول": "not in pack: petrol, fuel",
+    "گیس": "not in pack: gas"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "ہوائی جہاز بڑے اور بھاری ہوتے ہیں۔",
+     "Aeroplanes are huge and very heavy."
+    ],
+    [
+     "ان کے بھی پر ہوتے ہیں جو پرندوں کی طرح انہیں اڑنے میں مدد دیتے ہیں۔",
+     "Just like birds, aeroplanes have wings on both their sides which help them to fly."
+    ],
+    [
+     "ہوائی جہاز کے پروں کی شکل بھی پرندوں کی پروں کی طرح ہوتی ہے: اوپر سے مڑے ہوئے اور نیچے سے سیدھے، جو انہیں آسمان میں اونچا اڑنے میں مدد دیتے ہیں۔",
+     "The wings of the plane are shaped just like those of birds - curved on the top and flat on the bottom which helps them to fly high up in the sky."
+    ],
+    [
+     "پرندے اڑنے کے لیے اپنے پر مارتے ہیں، لیکن ہم نے کبھی کسی ہوائی جہاز کو اڑنے کے لیے پر مارتے نہیں دیکھا!",
+     "Birds flap their wings to fly, but of course we have never seen an aeroplane flapping its wings!"
+    ],
+    [
+     "پرندے اپنے پر مارتے ہیں تاکہ وہ ہوا کو استعمال کر سکیں اور خود کو اوپر لے جا سکیں۔",
+     "Birds flap their wings as they use the wind to push their body upwards."
+    ],
+    [
+     "جہاز بھی ہوا کی مدد سے اڑتے ہیں، لیکن یہ مشین اپنے اندر موجود انجن کا استعمال کرتی ہے تاکہ ہوا پیدا کرے جو جہاز کے نیچے سے گزرتی ہے۔",
+     "Aeroplanes also fly with the help of the force of the wind. This machine uses the engine inside its body to create wind that flows below the plane."
+    ],
+    [
+     "انجن ایک بہت طاقتور مشین ہے، جو ہوائی جہاز کے دماغ کی طرح کام کرتی ہے، جیسے پرندے اپنے دماغ کو اڑنے کے لیے استعمال کرتے ہیں۔",
+     "An engine is a very powerful machine. It works like the brain of the plane, just as birds use their brains to fly."
+    ],
+    [
+     "یہ انجن ہوائی جہاز کو زمین سے اٹھنے اور آگے بڑھنے میں مدد دیتا ہے۔",
+     "The engine helps the plane lift off the ground and move forward."
+    ],
+    [
+     "جب ہوائی جہاز کا انجن پیٹرول جلاتا ہے، تو تیز رفتار گرم گیسیں ہوا میں چھوڑتا ہے، جو ہوا کو پیچھے دھکیلتی ہیں اور ہوائی جہاز کو آگے لے جاتی ہیں۔",
+     "When the plane's engines burn fuel, they release hot gases at high speeds which push on the air behind the engine, moving the plane forward."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "پرندوں کی طرح جہاز کو اڑنے میں کیا مدد دیتا ہے؟",
+     "en": "What helps a plane fly, as it does a bird?",
+     "type": "mc",
+     "options": [
+      "نیچے لگے ہوئے پہیے",
+      "اوپر لگی ہوئی کھڑکیاں",
+      "دونوں طرف لگے ہوئے پر",
+      "آگے لگی ہوئی روشنی"
+     ],
+     "answer": 2,
+     "words": [
+      "پر",
+      "اڑنا"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "ہوائی جہاز اڑنے کے لیے پرندوں کی طرح پر مارتے ہیں۔",
+     "en": "Planes flap their wings to fly, like birds.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "جہاز",
+      "پر"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "انجن کو ہوائی جہاز کے کس حصے جیسا کہا گیا ہے؟",
+     "en": "What part of the plane is the engine compared to?",
+     "type": "mc",
+     "options": [
+      "پر",
+      "دماغ",
+      "دروازہ",
+      "پہیہ"
+     ],
+     "answer": 1,
+     "words": [
+      "انجن",
+      "دماغ"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "انجن پیٹرول جلا کر گرم گیس چھوڑتا ہے۔",
+     "en": "The engine burns petrol and releases hot gas.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "انجن",
+      "جلانا"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "ہوائی جہاز چھوٹے اور ہلکے نہیں ہوتے۔",
+     "en": "Planes are not small and light.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "بھاری",
+      "بڑا"
+     ],
+     "sentence": 0
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "0f3a3ddc-f216-4ba5-9160-5ad0a1d75403",
+    "title": "جہاز کیسے اڑتے ہیں؟",
+    "english_title": "How do Airplanes Fly?",
+    "url": "https://www.letsreadasia.org/book/0f3a3ddc-f216-4ba5-9160-5ad0a1d75403",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Aditi Sarawagi"
+    ],
+    "illustrators": [
+     "Lavanya Karthik"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0096",
+   "lv": "B1",
+   "title": "ساری غلطی بلّی کی تھی",
+   "oop": {
+    "پھاڑ": "not in pack: tear (stem of پھاڑنا)",
+    "پھاڑتا": "not in pack: tears (پھاڑنا, to tear)",
+    "چکن": "not in pack: chicken",
+    "کڑاہی": "not in pack: karahi, a curry"
+   },
+   "names": [
+    "علی"
+   ],
+   "sentences": [
+    [
+     "اگر وہ درخت پر نہ پھنس جاتی تو مجھے بھی سیڑھی نہ لے کر جانا پڑتی اس تک پہنچنے کے لئے۔",
+     "If she had not got stuck in the tree, I would not have had to take a ladder to reach her."
+    ],
+    [
+     "اگر میں اُوپر چڑھنے کے لیے سیڑھی نہ لے کر جاتا اور نہ پھر اس کی مرمت کرنا پڑتی، اور اگر مرمت نہ کرتا تو اندر سویا بچّہ بھی نہ جاگتا۔",
+     "If I had not taken the ladder to climb it, I would not have needed to fix it. If I had not needed to fix it, I wouldn't have woken up the baby."
+    ],
+    [
+     "اگر بچّہ نہ جاگتا تو نہ ہی میری ماں بھاگتی ہوئی باورچی خانے سے باہر آتی اور نہ ہی بندر اندر آ پاتا۔",
+     "If I had not woken up the baby, my mother would not have rushed out of the kitchen. If my mother had not rushed out of the kitchen, the monkey would not have got in."
+    ],
+    [
+     "اگر بندر اندر نہ جاتا تو وہ سارا کھانا نہ کھا لیتا۔",
+     "If the monkey had not got in, he would not have eaten up all the food."
+    ],
+    [
+     "اگر بندر نے سارا کھانا نہ کھایا ہوتا تو میرے ابو روٹی اور چکن کڑاہی چائے کی دکان سے نہ لینے جاتے۔",
+     "If he had not eaten up all the food, my father would not have bought rotis and chicken curry at the tea-shop."
+    ],
+    [
+     "اگر میرے ابو روٹی اور چکن کڑاہی چائے کی دکان سے نہ لاتے تو کُتّا بھی ان کے پیچھے نہ لگتا۔",
+     "If my father had not bought rotis and chicken curry at the tea-shop, the dog would not have followed him home."
+    ],
+    [
+     "اور اگر کُتّا بھی ان کے پیچھے نہ آتا تو میری بھی کتاب نہ پھاڑتا۔",
+     "If the dog had not followed him home, he would not have torn my book."
+    ],
+    [
+     "\"تو تم یہ کہہ رہے ہو کہ تمھارے گھر کا کام جو تمہاری کتاب میں تھا وہ کتّے نے پھاڑ دیا؟\"",
+     "So you are saying the dog tore up the homework in your book?"
+    ],
+    [
+     "جی ہاں، یہ ساری غلطی بلّی کی تھی!",
+     "Yes, it was all the cat's fault!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "بچہ کیوں جاگ گیا؟",
+     "en": "Why did the baby wake up?",
+     "type": "mc",
+     "options": [
+      "بلی کی آواز کی وجہ سے",
+      "ماں کی آواز کی وجہ سے",
+      "بندر کی آواز کی وجہ سے",
+      "سیڑھی کی مرمت کی وجہ سے"
+     ],
+     "answer": 3,
+     "words": [
+      "مرمت",
+      "بچہ"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "بچہ جاگا تو ماں باورچی خانے میں ہی رہی۔",
+     "en": "When the baby woke up, mother stayed in the kitchen.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ماں",
+      "بچہ"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "بندر اندر گیا تو اس نے کیا کیا؟",
+     "en": "What did the monkey do when he got in?",
+     "type": "mc",
+     "options": [
+      "بچے کو اٹھا کر باہر لے گیا",
+      "میز پر رکھی کتاب پھاڑ دی",
+      "گھر کا سارا کھانا ختم کر دیا",
+      "سیڑھی توڑ دی"
+     ],
+     "answer": 2,
+     "words": [
+      "بندر",
+      "کھانا"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "ابو کھانے کے لیے چائے کی دکان سے روٹی لینے گئے۔",
+     "en": "Father went to the tea shop to get bread for food.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ابو",
+      "دکان"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "کتا ابو کے پیچھے نہیں آیا۔",
+     "en": "The dog did not follow father.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "کتا",
+      "کے پیچھے"
+     ],
+     "sentence": 6
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "8792f912-6792-4bb7-9db3-49c22a6d2ca1",
+    "title": "ساری غلطی بلّی کی تھی",
+    "english_title": "It's All the Cat's Fault!",
+    "url": "https://www.letsreadasia.org/book/8792f912-6792-4bb7-9db3-49c22a6d2ca1",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Anushka Ravishankar"
+    ],
+    "illustrators": [
+     "Priya Kuriyan"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
+  },
+  {
+   "id": "p0097",
+   "lv": "B1",
+   "title": "چکو کی سائیکل",
+   "oop": {
+    "اوزار": "not in pack: tools",
+    "لیلی": "name",
+    "پریشان": "not in pack: troublesome, worried",
+    "چکو": "name",
+    "ہتھوڑا": "not in pack: hammer"
+   },
+   "names": [
+    "چکو",
+    "لیلیٰ"
+   ],
+   "sentences": [
+    [
+     "چکو اپنے دوستوں کے ساتھ کھیلنا پسند کرتا تھا۔",
+     "Chaku liked to play with his friends."
+    ],
+    [
+     "اسے لیلیٰ کی تین پہیوں والی سائیکل پسند تھی۔",
+     "He liked Lila's tricycle."
+    ],
+    [
+     "چکو نے خود اپنی سائیکل بنانے کا فیصلہ کیا۔",
+     "Chaku decided to make his own tricycle."
+    ],
+    [
+     "سب سے پہلے، چکو نے لکڑیاں تلاش کرنے کا کام کیا۔",
+     "Chaku looked for logs."
+    ],
+    [
+     "چکو نے سوچا کہ اس کام کے لیے کیل اور ہتھوڑا بھی چاہیے۔",
+     "Chaku thought he also needed nails and a hammer."
+    ],
+    [
+     "چکو مدد کے لیے اپنے چچا کے پاس گیا۔",
+     "Chaku went to his uncle for help."
+    ],
+    [
+     "چکو کے چچا نے اوزار دیتے وقت اسے احتیاط کرنے کا بھی کہا۔",
+     "Chaku's uncle gave him the tools. Uncle asked Chaku to be careful."
+    ],
+    [
+     "چکو سوچنے لگا کہ وہ اپنے لیے سائیکل کیسے بنائے۔",
+     "Chaku thought about how to build his tricycle."
+    ],
+    [
+     "چکو نے اپنی سائیکل بنانا شروع کر دی۔",
+     "Chaku started to build his tricycle."
+    ],
+    [
+     "کتنی پیاری سائیکل ہے!",
+     "What a lovely tricycle!"
+    ],
+    [
+     "مگر یہ ٹھیک سے نہیں چلتی۔",
+     "But it does not run properly."
+    ],
+    [
+     "چکو کو پریشان دیکھ کر، لیلیٰ نے اس کی مدد کا فیصلہ کیا۔",
+     "Lila saw Chaku's trouble. She decided to help."
+    ],
+    [
+     "دونوں نے مل کر ایک مضبوط سائیکل بنا لی۔",
+     "Together, they made a strong tricycle."
+    ],
+    [
+     "اب چَکُو کا جہاں جی چاہتا اپنی سائیکل پر سوار ہو کر چلا جاتا۔",
+     "Chaku rode his tricycle wherever he went."
+    ],
+    [
+     "لیکن اس کا پسندیدہ وقت وہ تھا جب وہ اور لیلیٰ ایک ساتھ چلاتے تھے۔",
+     "But his favorite time was when he and Lila cycled together."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "چکو کو کس کی سائیکل پسند تھی؟",
+     "en": "Whose tricycle did Chaku like?",
+     "type": "mc",
+     "options": [
+      "لیلیٰ کی",
+      "چچا کی",
+      "دوست کی",
+      "ابو کی"
+     ],
+     "answer": 0,
+     "words": [
+      "پسند ہونا",
+      "سائیکل"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "چکو کو سائیکل کے لیے ہتھوڑا اور کیل چاہیے تھے۔",
+     "en": "Chaku needed nails and a hammer for the tricycle.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "چاہیے",
+      "کیل"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "چکو مدد کے لیے کس کے پاس گیا؟",
+     "en": "Whom did Chaku go to for help?",
+     "type": "mc",
+     "options": [
+      "اپنے ماموں کے پاس",
+      "اپنے دادا کے پاس",
+      "اپنے استاد کے پاس",
+      "اپنے چچا کے پاس"
+     ],
+     "answer": 3,
+     "words": [
+      "مدد",
+      "چچا"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "اس کی پہلی سائیکل ٹھیک سے نہیں چلتی تھی۔",
+     "en": "His first tricycle did not run properly.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ٹھیک",
+      "چلنا"
+     ],
+     "sentence": 10
+    },
+    {
+     "q": "چکو کا پسندیدہ وقت کون سا تھا؟",
+     "en": "Which was Chaku's favourite time?",
+     "type": "mc",
+     "options": [
+      "جب وہ اکیلا سائیکل بناتا تھا",
+      "جب وہ لیلیٰ کے ساتھ سائیکل چلاتا تھا",
+      "جب وہ چچا کے ساتھ کھیلتا تھا",
+      "جب وہ اپنے دوستوں کے ساتھ باہر دوڑتا تھا"
+     ],
+     "answer": 1,
+     "words": [
+      "پسندیدہ",
+      "وقت"
+     ],
+     "sentence": 14
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "27204a55-b83b-45c6-8b7d-90e9a6435556",
+    "title": "چکو کی سائیکل",
+    "english_title": "Chaku's Cycle",
+    "url": "https://www.letsreadasia.org/book/27204a55-b83b-45c6-8b7d-90e9a6435556",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Upendo Maria"
+    ],
+    "illustrators": [
+     "Iddi Marumba"
+    ],
+    "translators": [],
+    "publisher": [
+     "Room to Read"
+    ]
+   }
+  },
+  {
+   "id": "p0098",
+   "lv": "B1",
+   "title": "کاشی کا عجیب خواب",
+   "oop": {
+    "کاشی": "name",
+    "ارے": "not in pack: oh! (interjection)",
+    "زدہ": "not in pack: -struck (خوف زدہ, frightened)",
+    "پلنگ": "not in pack: bed"
+   },
+   "names": [
+    "کاشی"
+   ],
+   "sentences": [
+    [
+     "جب دادی امّاں کو چِینی کی ضرورت پڑی تو وہ پلنگ کی طرف گئیں۔",
+     "When his grandmother needed sugar, she went to the bed."
+    ],
+    [
+     "ارے یہ کیا؟ وہاں تو چِینی ہے ہی نہیں۔",
+     "Oh, what is this? There is no sugar there at all."
+    ],
+    [
+     "یہ دیکھ کر دادی امّاں کو بہت غصہ آیا۔",
+     "Grandmother was very angry."
+    ],
+    [
+     "انھوں نے کاشی سے کہا کہ وہ اپنے اُن دوستوں کو بلا کر لائے جن کے ساتھ وہ سارا دن کھیلتا رہا۔",
+     "She told Kashi to come with all the friends that he played with that day."
+    ],
+    [
+     "دادی امّاں نے اُس کے دوستوں سے پوچھا کہ کس نے چِینی کھائی ہے؟ مگر کسی نے کوئی جواب نہ دیا۔",
+     "She asked them who ate her sugar, and nobody answered her."
+    ],
+    [
+     "دادی امّاں نے کاشی سے کئی بار پوچھا کہ چینی کس نے کھائی ہے مگر اُس نے ہر بار ہی جھوٹ بولا جس کی وجہ سے اُس کی زبان لمبی ہو گئی۔",
+     "Grandmother asked Kashi again and again. Each time he lied, his tongue grew longer."
+    ],
+    [
+     "کاشی بہت ڈرا ہوا تھا۔ اور خوف سے اِدھر اُدھر بھاگ رہا تھا۔",
+     "Kashi was very scared. He was running here and there in fear."
+    ],
+    [
+     "اچانک ہی اُسے کسی چیز کے ٹوٹنے کی آواز سُنائی دی۔",
+     "Suddenly he heard the sound of something breaking."
+    ],
+    [
+     "کاشی خوف زدہ ہو کر جاگ گیا۔",
+     "Kashi woke up, frightened."
+    ],
+    [
+     "جس سے اُس کی آنکھ کھل گئی اور اُسے معلوم ہوا کہ یہ تو صِرف ایک خواب تھا چِینی تو بستر کے نیچے ہی پڑی تھی۔",
+     "That woke him, and he found out it was only a dream. The sugar was still under the bed."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "دادی امّاں کو غصہ کیوں آیا؟",
+     "en": "Why did Grandmother get angry?",
+     "type": "mc",
+     "options": [
+      "کاشی گھر میں نہیں تھا",
+      "چینی وہاں نہیں تھی",
+      "دوست کھیل رہے تھے",
+      "پلنگ ٹوٹا ہوا تھا"
+     ],
+     "answer": 1,
+     "words": [
+      "غصہ"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "دوستوں نے فوراً بتا دیا کہ کس نے چینی کھائی۔",
+     "en": "The friends told at once who ate the sugar.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "دوست",
+      "جواب دینا"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "جھوٹ بولنے سے کاشی کی زبان کا کیا ہوا؟",
+     "en": "What happened to Kashi's tongue when he lied?",
+     "type": "mc",
+     "options": [
+      "وہ ٹوٹ گئی",
+      "وہ سرخ ہو گئی",
+      "وہ چھوٹی ہو گئی",
+      "وہ بڑی ہوتی گئی"
+     ],
+     "answer": 3,
+     "words": [
+      "زبان",
+      "جھوٹ بولنا"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "کاشی نے خواب نہیں دیکھا تھا۔",
+     "en": "Kashi had not been dreaming.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "خواب"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "کاشی آرام سے بیٹھا ہوا تھا۔",
+     "en": "Kashi was sitting calmly.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ڈرنا"
+     ],
+     "sentence": 6
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "2c8abbd0-12e6-4d5c-881f-f5fb868a7285",
+    "title": "کاشی کا عجیب خواب",
+    "english_title": "Khutso's Strange Dream",
+    "url": "https://www.letsreadasia.org/book/2c8abbd0-12e6-4d5c-881f-f5fb868a7285",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Rahab Makotla Mudau"
+    ],
+    "illustrators": [
+     "Siyasanga Madyibi"
+    ],
+    "translators": [],
+    "publisher": [
+     "Room to Read"
+    ]
+   }
+  },
+  {
+   "id": "p0099",
+   "lv": "B1",
+   "title": "ٹوپی فروش اور بندر",
+   "oop": {
+    "بیدار": "not in pack: awake",
+    "سوچ": "not in pack: thought",
+    "پوٹلی": "not in pack: small bundle, bag",
+    "کر": "not in pack: having done (participle)",
+    "گری": "not in pack: fallen (fem. of گرا)"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "اچانک، ٹوپی بیچنے والا اپنی نیند سے بیدار ہو گیا اور تمام بندر درخت پر بھاگ گئے۔",
+     "Suddenly the hat seller woke up, and all the monkeys ran up the tree."
+    ],
+    [
+     "جب وہ کچھ لمحوں بعد اٹھا تو بندروں نے دیکھا اور انتظار کیا۔",
+     "When he got up a few moments later, the monkeys watched and waited."
+    ],
+    [
+     "ٹوپیاں بیچنے والے نے جب اپنا تھیلا دیکھا تو اُسے خالی دیکھ کر اُسے بہت دُکھ ہوا۔",
+     "When the hat seller looked at his bag and saw it empty, he was very sad."
+    ],
+    [
+     "اُس کی ساری ٹوپیاں غائب تھیں۔",
+     "All his hats were gone."
+    ],
+    [
+     "پھر، اس نے اوپر دیکھا اور بندروں کو اپنی ٹوپیاں پہنے ہوئے دیکھا!",
+     "Then, he looked up and saw the monkeys wearing his hats!"
+    ],
+    [
+     "اسے پہلے حیرت ہوئی۔",
+     "He was surprised at first."
+    ],
+    [
+     "لیکن پھر وہ ناراض ہوا۔",
+     "But then he grew angry."
+    ],
+    [
+     "وہ گہری سوچ میں پڑ گیا کہ بندروں سے ٹوپیاں واپس کیسے حاصل کی جائیں۔",
+     "He thought hard about how to get the hats back from the monkeys."
+    ],
+    [
+     "پھر اُس نے اپنے سر سے ٹوپی اُتاری اور بندروں کی طرف پھینک دی۔",
+     "Then, he took off his own hat and threw it right at the monkeys."
+    ],
+    [
+     "بندروں کو لگا کہ ٹوپیاں بیچنے والا انھیں نشانہ بنانے کی کوشش کر رہا ہے۔ بندروں کو غصّہ آگیا۔",
+     "The monkeys thought the hat seller was trying to hit them, and they were angry."
+    ],
+    [
+     "لہذا، بندروں نے اپنی ٹوپیاں اُتاری اور انھیں ٹوپی بیچنے والے کے پاس ایک ایک کرکے پھینک دیا۔",
+     "So, the monkeys took off the hats they were wearing and threw them at the hat seller one by one."
+    ],
+    [
+     "ٹوپیاں بیچنے والے نے زمین پر گری ہوئی اپنی ساری ٹوپیاں اٹھائیں اور اپنی پوٹلی میں ڈال لیں۔",
+     "The hat seller collected all his hats and put them into his bag."
+    ],
+    [
+     "بندر حیرت سے ٹوپیاں بیچنے والے کو دیکھ رہے تھے۔ اور وہ اپنی ٹوپیاں بیچنے کے لیے وہاں سے چل پڑا۔ وہ جاتے ہوئے ہنس بھی رہا تھا۔",
+     "The monkeys looked at the hat seller in wonder and he walked off to sell his hats, laughing as he went."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ٹوپی بیچنے والے کو تھیلے میں کیا نظر آیا؟",
+     "en": "What did the hat seller see in his bag?",
+     "type": "mc",
+     "options": [
+      "تھیلا خالی تھا",
+      "بہت سا پھل",
+      "اس کا پیسہ",
+      "ایک چھوٹا بندر"
+     ],
+     "answer": 0,
+     "words": [
+      "تھیلا",
+      "خالی"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "اس نے اوپر دیکھا تو بندر اس کی ٹوپیاں پہنے ہوئے تھے۔",
+     "en": "He looked up and the monkeys were wearing his hats.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "بندر",
+      "ٹوپی",
+      "پہننا"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "ٹوپی بیچنے والے نے بندروں کی طرف کیا پھینکا؟",
+     "en": "What did the hat seller throw at the monkeys?",
+     "type": "mc",
+     "options": [
+      "اپنا بڑا خالی تھیلا",
+      "ایک پتھر",
+      "اپنے سر کی ٹوپی",
+      "اپنا جوتا"
+     ],
+     "answer": 2,
+     "words": [
+      "ٹوپی",
+      "پھینکنا"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "بندر غصے میں کیوں آئے؟",
+     "en": "Why did the monkeys get angry?",
+     "type": "mc",
+     "options": [
+      "انھیں بہت بھوک لگی تھی اور وہ تھک گئے تھے",
+      "وہ بہت تھک گئے تھے",
+      "ٹوپیاں بہت پرانی تھیں",
+      "انھیں لگا وہ انھیں مارنا چاہتا ہے"
+     ],
+     "answer": 3,
+     "words": [
+      "بندر",
+      "غصہ"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "آخر میں ٹوپی بیچنے والا ہنستا ہوا چلا گیا۔",
+     "en": "In the end the hat seller walked off laughing.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ہنس"
+     ],
+     "sentence": 12
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "93cee343-46b0-4980-8431-fa27d21e9ff8",
+    "title": "ٹوپی فروش",
+    "english_title": "The Hat Seller",
+    "url": "https://www.letsreadasia.org/book/93cee343-46b0-4980-8431-fa27d21e9ff8",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Ananta Prasad Wagle"
+    ],
+    "illustrators": [
+     "Promina Shrestha"
+    ],
+    "translators": [],
+    "publisher": [
+     "Room to Read"
+    ]
+   }
+  },
+  {
+   "id": "p0100",
+   "lv": "B1",
+   "title": "کتابوں کی دکان",
+   "oop": {
+    "تذبذب": "not in pack: dilemma",
+    "خرید": "not in pack: buy (stem, in خریدوں)",
+    "سمجھ": "not in pack: understanding",
+    "شوق": "not in pack: liking, hobby",
+    "مطالعہ": "not in pack: reading, study",
+    "پتلی": "not in pack: thin (fem.)",
+    "چھوٹنا": "not in pack: to slip, to be left"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "ایک دن دادا ابو نے مجھے اور بھائی کو کچھ پیسے دیے اور کہا \"جاؤ اور کچھ کتابیں خریدو۔\"",
+     "One day, grandfather gave my brother and me some money. \"Go and buy books,\" he said."
+    ],
+    [
+     "ہم دونوں بہت خوش ہوئے کیونکہ ہم دونوں ہی کو مطالعے کا بہت شوق تھا۔",
+     "We were both very happy. We both love to read."
+    ],
+    [
+     "ہم ابھی جائیں؟",
+     "Should we go now?"
+    ],
+    [
+     "یا کچھ دیر میں؟",
+     "Should we go later?"
+    ],
+    [
+     "آج ہی جائیں؟",
+     "Should we go today?"
+    ],
+    [
+     "یا کل؟",
+     "Should we go tomorrow?"
+    ],
+    [
+     "عجیب تذبذب تھا۔ آخر کار ہم نے فیصلہ کیا کہ ہم ابھی جائیں گے۔",
+     "It was a strange dilemma. In the end we decided to go right now."
+    ],
+    [
+     "ہم بڑے بازار جائیں یا چھوٹی دکان پر؟",
+     "Should we go to the big market? Should we go to the small shop?"
+    ],
+    [
+     "اکیلے جائیں یا کِسی کے ساتھ؟",
+     "Should we go with somebody? Should we go alone?"
+    ],
+    [
+     "ہم نے فیصلہ کیا کہ ہم دونوں اکیلے ہی کِسی چھوٹی دکان پر جاتے ہیں۔",
+     "We decided to go to the small shop, just the two of us."
+    ],
+    [
+     "ہم دونوں ہی کو یہ چھوٹی سی کتابوں کی دکان بہت پسند تھی۔",
+     "We both liked this small bookshop very much."
+    ],
+    [
+     "اگرچہ دکان چھوٹی تھی مگر اُس میں بہت سی کتابیں تھیں۔",
+     "Although the shop was small, it had many books."
+    ],
+    [
+     "دکان کا مالک ہمیں بہت پسند کرتا تھا اور ہمیشہ ہماری مدد کرتا تھا۔",
+     "The man in the shop likes us. He always helps us."
+    ],
+    [
+     "سمجھ نہیں آ رہا تھا کہ میں بہت سی تصویروں والی کتاب خریدوں یا بہت سی کہانیوں والی۔",
+     "I could not tell whether to buy a book with many pictures or one with many stories."
+    ],
+    [
+     "یا بہت ہی پتلی سی۔",
+     "Or a very thin one."
+    ],
+    [
+     "میں فیصلہ نہ کر سکی۔",
+     "I could not decide."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "دادا ابو نے انھیں پیسے کیوں دیے؟",
+     "en": "Why did Grandfather give them money?",
+     "type": "mc",
+     "options": [
+      "کپڑے خریدنے کے لیے",
+      "کتابیں خریدنے کے لیے",
+      "مٹھائی لانے کے لیے",
+      "اسکول کی فیس دینے کے لیے"
+     ],
+     "answer": 1,
+     "words": [
+      "کتاب",
+      "خریدنا",
+      "پیسہ"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "دونوں کو کتابیں پڑھنا پسند تھا۔",
+     "en": "Both of them liked reading books.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "خوش ہونا",
+      "دونوں"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "انھوں نے بڑے بازار میں جانے کا فیصلہ کیا۔",
+     "en": "They decided to go to the big market.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "فیصلہ کرنا",
+      "دکان"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "دکان کا مالک ان کے ساتھ کیسا تھا؟",
+     "en": "How was the shop owner with them?",
+     "type": "mc",
+     "options": [
+      "وہ ان سے ناراض تھا",
+      "وہ ان سے بات نہیں کرتا تھا",
+      "وہ ان کی مدد کرتا تھا",
+      "وہ ان سے پیسے مانگتا تھا"
+     ],
+     "answer": 2,
+     "words": [
+      "مالک",
+      "مدد کرنا"
+     ],
+     "sentence": 12
+    },
+    {
+     "q": "دکان بڑی تھی لیکن اس میں کتابیں کم تھیں۔",
+     "en": "The shop was big but had few books.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "دکان",
+      "کتاب"
+     ],
+     "sentence": 11
+    }
+   ],
+   "story": {
+    "source": "Let's Read Asia",
+    "id": "2aadbae0-143f-4408-9319-439c47c8cbf4",
+    "title": "کتاب خریدنے جانا",
+    "english_title": "Going to Buy a Book",
+    "url": "https://www.letsreadasia.org/book/2aadbae0-143f-4408-9319-439c47c8cbf4",
+    "licence": "CC-BY-4.0",
+    "authors": [
+     "Rukmini Banerji"
+    ],
+    "illustrators": [
+     "Santosh Pujari"
+    ],
+    "translators": [],
+    "publisher": [
+     "Pratham Books"
+    ]
+   }
   }
  ]
 }
