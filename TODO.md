@@ -36,6 +36,11 @@ Residuals from the v1 build and QA. The rules already in place are in
   only written sentences. More Tatoeba Urdu with English links, or a second
   licensed corpus, would replace them. The written sentences have had no
   native-speaker review.
+- 302 story sentences (Let's Read Asia, 104 books) ship beside them; 1,527 words
+  still have none. Hand-read sample: 95% correct pairs, 92% also natural; known
+  residue is translation drift between the two editions and a few English
+  clauses with no Urdu counterpart. 85 of 292 CC-BY-4.0 titles were left out
+  because their English edition has a different page count.
 - There is no audio: Tatoeba has only 2 permissive Urdu recordings. Recorded
   audio is planned via Piper ur_PK (engine `docs/AUDIO.md`).
 - Tatoeba text quality is handled in three layers: `text_norm`, `TEXT_DROP_RE`

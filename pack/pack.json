@@ -160,6 +160,13 @@
     "Noto Nastaliq Urdu:wght@400;700"
   ],
   "lineHeight": 2.6,
+  "credits": [
+    {
+      "name": "Let's Read Asia stories (The Asia Foundation and book creators)",
+      "licence": "CC BY 4.0",
+      "url": "https://www.letsreadasia.org/"
+    }
+  ],
   "script": {
     "stages": [
       {

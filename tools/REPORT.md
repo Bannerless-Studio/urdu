@@ -35,22 +35,23 @@ Candidate pool: 5,712 (lemma, POS) keys in blended-rank order, one POS per lemma
 | numeral outside 0-20/tens/100/1000/lakh/crore/ordinals 1-3/fractions | 3 | سینکڑا, چوبیس, حب |
 
 Forced A1 items (days, Gregorian months, seasons, numbers 0-20 + tens + سو/ہزار, colours, greetings, pronouns (تو/تم/آپ register), possessives, question words, core postpositions (incl. کے لیے, کے بعد, کے ساتھ, کے بارے میں, کے پاس, کی طرف, سے پہلے), conjunctions, particles, ہونا/سکنا, six light verbs, A1 core list): 340/340 included.
-Word ids reused from v1 for unchanged (lemma, pos): 1,995; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
+Word ids reused from v1 for unchanged (lemma, pos): 2,000; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
 
 Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1144, 'adj': 339, 'verb': 302, 'adv': 62, 'prep': 38, 'num': 31, 'pron': 27, 'conj': 21, 'det': 13, 'intj': 13, 'part': 10}.
 
 ## Sentences
 
-- Final sentences: **3,017**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Final sentences: **3,319**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,319 kept, 0 new, 0 retired.
 - Word coverage: 0 = 0, 1 = 11, 2 = 1989.
 - `tools/bad_sentences.txt`: 1 entries matched no corpus row: 'یہ بچے ہمیشہ بے چین رہتیں ہیں۔'.
-- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 4,172. Rejected for a content lemma outside pack/top-3000: 767.
-- Primary word level of each sentence: {'B1': 1199, 'A2': 1115, 'A1': 703}.
+- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 4,512. Rejected for a content lemma outside pack/top-3000: 949.
+- Primary word level of each sentence: {'B1': 1259, 'A2': 1202, 'A1': 858}.
 - Token-length distribution of the final set:
 
 | tokens | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 24 | 198 | 830 | 919 | 626 | 232 | 74 | 51 | 31 | 17 | 8 | 7 |
+| sentences | 26 | 231 | 893 | 961 | 668 | 261 | 98 | 70 | 53 | 29 | 16 | 13 |
 
 ## Top 100 by rank (lemma [pos] gloss)
 

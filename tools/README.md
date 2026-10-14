@@ -106,6 +106,23 @@ Urdu Tatoeba has many non-standard spellings, handled in four layers:
 4. **Deduplicate**: two rows whose text is the same after `text_norm` ship
    once, with the first row's English (`translation_mismatch`).
 
+## Story sentences (`langs/ur.py` `story_rows`, engine `packbuilder/ur_story.py`)
+
+Source: `.cache/stories/ur-lra/` (gitignored), fetched by the engine's
+`tools/story_fetch/lra_fetch.py`: Let's Read Asia Urdu books with licence
+exactly CC-BY-4.0 and an English twin of equal page count; a second book with
+the same title is skipped. Per page the Urdu and English are split into
+sentences and aligned (equal counts 1:1; otherwise one merge, never more), then
+a pair is dropped for: a length ratio outside 0.5-2.0, no final stop, Latin
+letters or digits in the Urdu, spaces lost in the book text (a token that is no
+dictionary form but splits into dictionary forms, e.g. کےبازو), fewer than 4 or
+more than 14 tokens, onomatopoeia, an opening connective or pronoun (اور, وہ,
+He, Then), an unbalanced quote, a name-only line, a character name in the
+English (the Urdu edition often renames them), publisher boilerplate, or a
+text already in the pack. The builder's own filters then apply (every content
+lemma in the pack or top 3000, length, sensitive words). Picks 3-4 per word are
+story sentences only. Rebuild: copy nothing, the cache is read in place.
+
 Words that lost sentences to this pipeline were backfilled with written
 ones (~150 in this pass), so every word keeps at least two sentences.
 

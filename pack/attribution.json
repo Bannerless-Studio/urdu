@@ -66,5 +66,1791 @@
     "source": "kaikki.org Hindi Wiktionary extract, entries with an Urdu spelling (glosses and romanisation for Urdu words the Urdu extract lacks)",
     "licence": "CC-BY-SA-3.0/GFDL",
     "url": "https://kaikki.org/dictionary/Hindi/kaikki.org-dictionary-Hindi.jsonl.gz"
+  },
+  "story_sentences": {
+    "source": "Let's Read Asia (The Asia Foundation), Urdu books with their English edition",
+    "licence": "CC-BY-4.0",
+    "url": "https://www.letsreadasia.org/",
+    "note": "Sentences are split out of the book text, Urdu and English realigned sentence by sentence; typographic quotes became plain, nothing else was changed.",
+    "count": 302,
+    "stories": [
+      {
+        "id": "03acc022-ea8f-479b-910a-1a2670f710d2",
+        "title": "کرو اور نہ کرو",
+        "english_title": "Do and don't",
+        "authors": [
+          "Radha HS"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/03acc022-ea8f-479b-910a-1a2670f710d2"
+      },
+      {
+        "id": "06c0abb9-2e5d-42dc-9c2f-65c5e1b225a2",
+        "title": "شرارتی کتا",
+        "english_title": "Naughty Dog",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/06c0abb9-2e5d-42dc-9c2f-65c5e1b225a2"
+      },
+      {
+        "id": "077182d4-fd29-4caa-8e7a-9c0b69101e20",
+        "title": "بڑی آنکھوں والی مکھی",
+        "english_title": "Big-Eyed Bee",
+        "authors": [
+          "Iem Tithseiha"
+        ],
+        "illustrators": [
+          "Sou Kimsan"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/077182d4-fd29-4caa-8e7a-9c0b69101e20"
+      },
+      {
+        "id": "0f3a3ddc-f216-4ba5-9160-5ad0a1d75403",
+        "title": "جہاز کیسے اڑتے ہیں؟",
+        "english_title": "How do Airplanes Fly?",
+        "authors": [
+          "Aditi Sarawagi"
+        ],
+        "illustrators": [
+          "Lavanya Karthik"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/0f3a3ddc-f216-4ba5-9160-5ad0a1d75403"
+      },
+      {
+        "id": "11425486-7803-4cac-9b1a-32ba849f04a8",
+        "title": "بہت زیادہ شور",
+        "english_title": "Too Much Noise",
+        "authors": [
+          "Rohini Nilekani"
+        ],
+        "illustrators": [
+          "Angie & Upesh"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/11425486-7803-4cac-9b1a-32ba849f04a8"
+      },
+      {
+        "id": "119b4dd2-658a-4a2d-abdd-7ce123da2e30",
+        "title": "جلد باز ڈرائیور",
+        "english_title": "Drivers in a Hurry",
+        "authors": [
+          "Chou Chinith"
+        ],
+        "illustrators": [
+          "So Chakrya",
+          "Soeurm Kakada",
+          "Youm Kosal",
+          "Keo Phunphalla",
+          "Sao Sreymao"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/119b4dd2-658a-4a2d-abdd-7ce123da2e30"
+      },
+      {
+        "id": "153c9f0f-ecb9-4d57-b54c-69b378c76ce9",
+        "title": "میں خوفزدہ نہیں ہوں!",
+        "english_title": "I Am Not Afraid!",
+        "authors": [
+          "Mini Shrinivasan"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/153c9f0f-ecb9-4d57-b54c-69b378c76ce9"
+      },
+      {
+        "id": "17f89305-f515-44d1-9631-7caa6c79cbc8",
+        "title": "جسم کی آوازسنو",
+        "english_title": "Listen to My Body",
+        "authors": [
+          "Rohini Nilekani"
+        ],
+        "illustrators": [
+          "Angie & Upesh"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/17f89305-f515-44d1-9631-7caa6c79cbc8"
+      },
+      {
+        "id": "2251e070-8238-45d5-919d-61c51f45cb99",
+        "title": "بیگم بکری کا گھر",
+        "english_title": "Miss Goat's House",
+        "authors": [
+          "Sommor Pangyavong",
+          "Nyumba ya Binti Mbuzi"
+        ],
+        "illustrators": [
+          "Oloth Senthichak"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2251e070-8238-45d5-919d-61c51f45cb99"
+      },
+      {
+        "id": "236317a9-edcb-45d4-a338-aa3d44aa66d7",
+        "title": "صاف بلّی",
+        "english_title": "Clean Cat",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/236317a9-edcb-45d4-a338-aa3d44aa66d7"
+      },
+      {
+        "id": "23d8e9dc-12db-41a0-8670-795a036a1083",
+        "title": "ہم جگنو کی طرح کیوں نہیں چمک سکتے؟",
+        "english_title": "Why Can't We Glow Like Fireflies?",
+        "authors": [],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/23d8e9dc-12db-41a0-8670-795a036a1083"
+      },
+      {
+        "id": "24ed8569-ef02-4c9b-9a0f-ed99b03c9909",
+        "title": "طیّبہ اپنے دادا کی نقل کرتی ہے",
+        "english_title": "Toto Imitates Grandpa",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Horn Samon"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/24ed8569-ef02-4c9b-9a0f-ed99b03c9909"
+      },
+      {
+        "id": "25365e32-823a-4fd2-89db-a705c9050662",
+        "title": "کیا آپ نے سنا؟",
+        "english_title": "Did You Hear?",
+        "authors": [
+          "Sejal Mehta"
+        ],
+        "illustrators": [
+          "Rohan Chakravarty"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/25365e32-823a-4fd2-89db-a705c9050662"
+      },
+      {
+        "id": "27204a55-b83b-45c6-8b7d-90e9a6435556",
+        "title": "چکو کی سائیکل",
+        "english_title": "Chaku's Cycle",
+        "authors": [
+          "Upendo Maria"
+        ],
+        "illustrators": [
+          "Iddi Marumba"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/27204a55-b83b-45c6-8b7d-90e9a6435556"
+      },
+      {
+        "id": "28072b38-edf0-4e2e-af55-59c7acc0f21e",
+        "title": "جنگل میں خوش آمدید",
+        "english_title": "Welcome to the Forest",
+        "authors": [
+          "Bhavna Menon"
+        ],
+        "illustrators": [
+          "Kavita Singh Kale"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/28072b38-edf0-4e2e-af55-59c7acc0f21e"
+      },
+      {
+        "id": "294002ed-a00d-4f73-9165-0a741d0f9042",
+        "title": "آپ کیسا محسوس کرتے ہیں؟",
+        "english_title": "How Do You Feel?",
+        "authors": [
+          "Menaka Ramen"
+        ],
+        "illustrators": [
+          "Angie & Upesh",
+          "Vartika Sharma",
+          "Rijuta Ghate",
+          "Sukhada Rahalkar",
+          "Madhuri Purandare",
+          "Priya Kuriyan",
+          "Greystroke",
+          "Soumya Menon",
+          "Jithin  Jacob",
+          "Archana Sreenivasan"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/294002ed-a00d-4f73-9165-0a741d0f9042"
+      },
+      {
+        "id": "2aadbae0-143f-4408-9319-439c47c8cbf4",
+        "title": "کتاب خریدنے جانا",
+        "english_title": "Going to Buy a Book",
+        "authors": [
+          "Rukmini Banerji"
+        ],
+        "illustrators": [
+          "Santosh Pujari"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2aadbae0-143f-4408-9319-439c47c8cbf4"
+      },
+      {
+        "id": "2c8abbd0-12e6-4d5c-881f-f5fb868a7285",
+        "title": "کاشی کا عجیب خواب",
+        "english_title": "Khutso's Strange Dream",
+        "authors": [
+          "Rahab Makotla Mudau"
+        ],
+        "illustrators": [
+          "Siyasanga Madyibi"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2c8abbd0-12e6-4d5c-881f-f5fb868a7285"
+      },
+      {
+        "id": "32434f30-95d5-4949-a921-807a293f40fa",
+        "title": "مصروف چیونٹیاں",
+        "english_title": "Busy Ants",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/32434f30-95d5-4949-a921-807a293f40fa"
+      },
+      {
+        "id": "350c4c16-f25a-4651-954a-2b0de2119138",
+        "title": "پرندوں کا بادشاہ",
+        "english_title": "King of Birds",
+        "authors": [
+          "African Storybook Initiative"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [],
+        "publisher": [
+          "African Storybook Initiative"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/350c4c16-f25a-4651-954a-2b0de2119138"
+      },
+      {
+        "id": "35180baa-0f65-49fd-897e-05b3647d2205",
+        "title": "’’میری مچھلی!‘‘ ’’نہیں، میری مچھلی!‘‘",
+        "english_title": "\"My fish!\" \"No, my fish!\"",
+        "authors": [
+          "Suraj J Menon"
+        ],
+        "illustrators": [
+          "Soumya Menon"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/35180baa-0f65-49fd-897e-05b3647d2205"
+      },
+      {
+        "id": "354f4db6-5d54-4e23-affe-1c6d527044c8",
+        "title": "ہماراسکول",
+        "english_title": "Our School",
+        "authors": [
+          "Tandi Jackson"
+        ],
+        "illustrators": [
+          "Michael Mape"
+        ],
+        "translators": [],
+        "publisher": [
+          "Bilum Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/354f4db6-5d54-4e23-affe-1c6d527044c8"
+      },
+      {
+        "id": "357fb454-41ad-41c4-b8d4-8b113674430e",
+        "title": "شب بخیر ٹنکو!",
+        "english_title": "Goodnight, Tinku!",
+        "authors": [
+          "Preethi Nambiar"
+        ],
+        "illustrators": [
+          "Sonal Goyal",
+          "Sumit Sakhuja"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/357fb454-41ad-41c4-b8d4-8b113674430e"
+      },
+      {
+        "id": "363e35eb-8a08-4fb9-bf79-ca1232ec483c",
+        "title": "کھوئی ہویٴ گیند",
+        "english_title": "The Lost Ball",
+        "authors": [],
+        "illustrators": [
+          "ASM Tanvir Hassan Raju"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/363e35eb-8a08-4fb9-bf79-ca1232ec483c"
+      },
+      {
+        "id": "3655e739-23b8-41a7-b53e-649482ac171a",
+        "title": "صبا کے لئے کتاب",
+        "english_title": "A Book for Puchku",
+        "authors": [
+          "Deepanjana Pal"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3655e739-23b8-41a7-b53e-649482ac171a"
+      },
+      {
+        "id": "38f30a42-ff86-4c69-90e8-9bbfdc66c771",
+        "title": "اندھیرے میں گُم",
+        "english_title": "Lost in the Dark",
+        "authors": [
+          "Sephora Mamosheledi"
+        ],
+        "illustrators": [
+          "Isaac Sikhakhane"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/38f30a42-ff86-4c69-90e8-9bbfdc66c771"
+      },
+      {
+        "id": "3980fe4b-0510-4840-a29f-b63345ba1355",
+        "title": "مینڈکی شادی کرنا چاہتی ہے",
+        "english_title": "Botse-Botse Wants to Get Married",
+        "authors": [
+          "Ponlok Sidet"
+        ],
+        "illustrators": [
+          "Yuom Kosal",
+          "So Chakrya",
+          "Soeurm Kakada",
+          "Ven Che"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3980fe4b-0510-4840-a29f-b63345ba1355"
+      },
+      {
+        "id": "39db6bc5-76aa-438f-88ca-d0238b611bb4",
+        "title": "شیر بھاگتا ہے اور گائے چلتی ہے",
+        "english_title": "The Lion Runs and the Cow Walks",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Horn Samon"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/39db6bc5-76aa-438f-88ca-d0238b611bb4"
+      },
+      {
+        "id": "3d91a90d-82cf-4219-bdbd-d682874e3df7",
+        "title": "میرا بڑا خاندان",
+        "english_title": "My Big Family",
+        "authors": [
+          "Lưu Thị Lương"
+        ],
+        "illustrators": [
+          "Lê Thị Anh Thư"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3d91a90d-82cf-4219-bdbd-d682874e3df7"
+      },
+      {
+        "id": "3f7bb0b5-2b94-4bcc-b75c-8339322b207e",
+        "title": "چُنو اورمُنو: چھلیاں مزیدارہے!",
+        "english_title": "Chunu & Munu: The Corn Is Yummy!",
+        "authors": [
+          "Shilpi Pradhan",
+          "Shantdas Manandhar"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/3f7bb0b5-2b94-4bcc-b75c-8339322b207e"
+      },
+      {
+        "id": "406c9c8e-4b46-489d-acf2-eec5a747031a",
+        "title": "(بکری) 'منی'",
+        "english_title": "Munni, the Lamb",
+        "authors": [
+          "Chayadatta Nyupane"
+        ],
+        "illustrators": [
+          "Promina Shrestha"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/406c9c8e-4b46-489d-acf2-eec5a747031a"
+      },
+      {
+        "id": "439bea6b-01d4-4080-a2b2-2fe1607b9f58",
+        "title": "وہ لڑکی جو ہنسی نہ روک سکی",
+        "english_title": "The Girl Who Could Not Stop Laughing",
+        "authors": [
+          "Meera Ganapathi"
+        ],
+        "illustrators": [
+          "ROSH"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/439bea6b-01d4-4080-a2b2-2fe1607b9f58"
+      },
+      {
+        "id": "4a2477bf-e68f-445b-9ca3-3c0fd823904f",
+        "title": "چیؤ کی طاقت",
+        "english_title": "Chiu's Power",
+        "authors": [
+          "Shrujana Shridhar"
+        ],
+        "illustrators": [
+          "Shrujana Shridhar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/4a2477bf-e68f-445b-9ca3-3c0fd823904f"
+      },
+      {
+        "id": "4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e",
+        "title": "مجھے معلوم ہے",
+        "english_title": "I know",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Lom Phireak"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/4c969e7f-4dc5-4173-bb73-5cd8e9d4bc4e"
+      },
+      {
+        "id": "4cc380b3-9c18-4619-ab94-7bf38deaeec1",
+        "title": "کون میری مدد کر سکتا ہے؟",
+        "english_title": "Who Can Help Me?",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "El Huyno"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/4cc380b3-9c18-4619-ab94-7bf38deaeec1"
+      },
+      {
+        "id": "4e241cdd-1506-4362-a0c4-070f628d9ccc",
+        "title": "آئیے اُڑتے ہیں",
+        "english_title": "Let's Fly",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Sorn Srey Nuch"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/4e241cdd-1506-4362-a0c4-070f628d9ccc"
+      },
+      {
+        "id": "4e6b15e9-79a6-4102-89ac-afe0e7d411f7",
+        "title": "میری بہترین دوست",
+        "english_title": "My Best Friend",
+        "authors": [
+          "Anupa Lal"
+        ],
+        "illustrators": [
+          "Suvidha Mistry"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/4e6b15e9-79a6-4102-89ac-afe0e7d411f7"
+      },
+      {
+        "id": "533025b9-71d1-4d73-8ecd-7ff69dbfc52d",
+        "title": "میں چیزیں بنا سکتا ہوں",
+        "english_title": "I Can Make Things!",
+        "authors": [
+          "Mini Shrinivasan"
+        ],
+        "illustrators": [
+          "Tanvee Nabar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/533025b9-71d1-4d73-8ecd-7ff69dbfc52d"
+      },
+      {
+        "id": "566f8149-bd04-4d5b-9a89-43bd13d5e372",
+        "title": "مختلف مکانات",
+        "english_title": "Different Houses",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [
+          "Meth Phearum"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/566f8149-bd04-4d5b-9a89-43bd13d5e372"
+      },
+      {
+        "id": "5934e53c-9feb-484d-b46c-0a5da91fa54d",
+        "title": "ٹِڈے کا گانا",
+        "english_title": "Cicada Sings",
+        "authors": [
+          "Khomsanh Chanthalangsone"
+        ],
+        "illustrators": [
+          "Vongsavanh Damlongsouk"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5934e53c-9feb-484d-b46c-0a5da91fa54d"
+      },
+      {
+        "id": "5eda9d84-cbdd-4d48-84ab-94c1a82e049f",
+        "title": "بھاگو بھاگو اور بھاگو!",
+        "english_title": "Run, Run, Run!",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Khiev Sothina"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5eda9d84-cbdd-4d48-84ab-94c1a82e049f"
+      },
+      {
+        "id": "5ef90033-5d9c-4021-9bc5-1f293681c957",
+        "title": "جنگلی بلی!",
+        "english_title": "Wild Cat! Wild Cat!",
+        "authors": [
+          "Sejal Mehta"
+        ],
+        "illustrators": [
+          "Rohan Chakravarty"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5ef90033-5d9c-4021-9bc5-1f293681c957"
+      },
+      {
+        "id": "5f40175f-e2fd-4b0b-b7b9-8579ffbd267a",
+        "title": "میرے دوست",
+        "english_title": "My Friends",
+        "authors": [
+          "Rukmini Banerji"
+        ],
+        "illustrators": [
+          "Rajeev Verma 'Banjara'"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/5f40175f-e2fd-4b0b-b7b9-8579ffbd267a"
+      },
+      {
+        "id": "613f1735-2505-4fbd-a4d4-fc323c563be4",
+        "title": "نائمہ کا سکول میں پہلا دن",
+        "english_title": "Nima's First Day of School",
+        "authors": [
+          "Krishnadip Sigdel"
+        ],
+        "illustrators": [
+          "Shanta Hitang"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/613f1735-2505-4fbd-a4d4-fc323c563be4"
+      },
+      {
+        "id": "61c58caa-084d-49e4-9e63-8939095eeb5c",
+        "title": "ایک حیران کُن کہانی",
+        "english_title": "An A-maize-ing Story",
+        "authors": [
+          "Nguyễn Trần Thiên Lộc"
+        ],
+        "illustrators": [
+          "Nguyễn Thị Ngọc Bích"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/61c58caa-084d-49e4-9e63-8939095eeb5c"
+      },
+      {
+        "id": "622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e",
+        "title": "بلی کا بچہ کہاں ہے؟",
+        "english_title": "Where is the kitten?",
+        "authors": [
+          "All Children Reading - Cambodia"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/622ab41e-0aa3-4cf0-8ee9-2444a80bfe5e"
+      },
+      {
+        "id": "62aacdf3-48ab-43d3-9e26-8901d6f0b29d",
+        "title": "آئیے دیکھیں کِس کی کتنی ٹانگیں ہیں",
+        "english_title": "Let's Count Legs",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Meas SovannaraI"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/62aacdf3-48ab-43d3-9e26-8901d6f0b29d"
+      },
+      {
+        "id": "6430f048-6e31-4fbe-8e40-daab5e573b0b",
+        "title": "امی، چڑیا کو بُلائیں",
+        "english_title": "Mother, Call that Bird!",
+        "authors": [
+          "Mitralal Pangyani"
+        ],
+        "illustrators": [
+          "Krishnagopal Shreshtha"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/6430f048-6e31-4fbe-8e40-daab5e573b0b"
+      },
+      {
+        "id": "660159e8-5d8b-4e2b-9c34-cf2066564451",
+        "title": "اڑنے والا رکشہ",
+        "english_title": "The Auto That Flew",
+        "authors": [
+          "Ken Spillman"
+        ],
+        "illustrators": [
+          "Ajanta Guhathakurta"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/660159e8-5d8b-4e2b-9c34-cf2066564451"
+      },
+      {
+        "id": "69590c7e-b6a7-45f5-869d-5d53939928e4",
+        "title": "میں ڈھونڈوں",
+        "english_title": "I Spy!",
+        "authors": [
+          "Samvida Venkatesh"
+        ],
+        "illustrators": [
+          "Sandhya Prabhat"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/69590c7e-b6a7-45f5-869d-5d53939928e4"
+      },
+      {
+        "id": "6ba4bdbd-c23c-44fc-8b52-763e45024d2a",
+        "title": "سب سے بڑا کدو",
+        "english_title": "The Biggest Pumpkin",
+        "authors": [
+          "Jennifer Mwanza"
+        ],
+        "illustrators": [
+          "David Chisha"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/6ba4bdbd-c23c-44fc-8b52-763e45024d2a"
+      },
+      {
+        "id": "6f832364-3457-4a12-86f6-1b9afcb5758a",
+        "title": "ٹریکٹر کو مدد مل گئی",
+        "english_title": "Tractor Gets Help",
+        "authors": [
+          "Mokgaetji Marutla"
+        ],
+        "illustrators": [
+          "Ntibile Zonke o hweditše"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/6f832364-3457-4a12-86f6-1b9afcb5758a"
+      },
+      {
+        "id": "6ffc7e85-95b9-464a-8cd0-0532be2697cf",
+        "title": "کیا ہوتا اگر؟",
+        "english_title": "What If?",
+        "authors": [
+          "Hari Kumar Nair"
+        ],
+        "illustrators": [
+          "Hari Kumar Nair"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/6ffc7e85-95b9-464a-8cd0-0532be2697cf"
+      },
+      {
+        "id": "71d14e0a-025a-4cd3-a182-710dac694d14",
+        "title": "جسم کی صفائی",
+        "english_title": "Cleaning the Body",
+        "authors": [
+          "Othong KhamInsou"
+        ],
+        "illustrators": [
+          "Ounla Santhi"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/71d14e0a-025a-4cd3-a182-710dac694d14"
+      },
+      {
+        "id": "75438ef8-989c-44f8-b7df-1ac261871626",
+        "title": "ننھے رنگ ساز",
+        "english_title": "Little Painters",
+        "authors": [
+          "Cheryl Rao"
+        ],
+        "illustrators": [
+          "Tanvi Bhat"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/75438ef8-989c-44f8-b7df-1ac261871626"
+      },
+      {
+        "id": "7a21239e-0ad9-43d5-ad73-d69a93a41b43",
+        "title": "بہنا! بہنا! گرج کہاں سے آتی ہے؟",
+        "english_title": "Sister! Sister! Where Does Thunder Come From?",
+        "authors": [
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Greystroke"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7a21239e-0ad9-43d5-ad73-d69a93a41b43"
+      },
+      {
+        "id": "7b9e4977-59f4-4bf3-8803-83178016680b",
+        "title": "رمی کی لال کتاب",
+        "english_title": "Rimi's Red Book",
+        "authors": [
+          "Mozammel Haque Neogi"
+        ],
+        "illustrators": [
+          "Yusuf Ali Noton"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7b9e4977-59f4-4bf3-8803-83178016680b"
+      },
+      {
+        "id": "7ec7d529-36b5-4f59-a7c2-e4624e019110",
+        "title": "رنگ برنگ",
+        "english_title": "Colours",
+        "authors": [
+          "Priyanka"
+        ],
+        "illustrators": [
+          "Ajanta Guhathakurta"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7ec7d529-36b5-4f59-a7c2-e4624e019110"
+      },
+      {
+        "id": "82224b4b-2060-4681-80fc-b8468197ddfb",
+        "title": "گمشدگی اور تلاش",
+        "english_title": "Lost and Found",
+        "authors": [
+          "Sukhada Rahalkar"
+        ],
+        "illustrators": [
+          "Sukhada Rahalkar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/82224b4b-2060-4681-80fc-b8468197ddfb"
+      },
+      {
+        "id": "83d808ac-5a01-4ade-b6d2-e2d57441972a",
+        "title": "سبز  چھمکلی  اور  گیکُو  چھپکلی",
+        "english_title": "The Green Lizard and the Gecko",
+        "authors": [
+          "Soeung Leakhena"
+        ],
+        "illustrators": [
+          "Yuom Kosal",
+          "Sou Sophy",
+          "Soeurm Kakada",
+          "Touch Kaosal",
+          "Chan Sophom"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/83d808ac-5a01-4ade-b6d2-e2d57441972a"
+      },
+      {
+        "id": "86060c23-7e53-4c80-a8b2-128137d1f428",
+        "title": "اوپر نیچے",
+        "english_title": "Topsy Turvy",
+        "authors": [
+          "Rohini Nilekani"
+        ],
+        "illustrators": [
+          "Angie & Upesh"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/86060c23-7e53-4c80-a8b2-128137d1f428"
+      },
+      {
+        "id": "8709efd4-2609-4274-bfb2-c8a6836bf4f4",
+        "title": "مور اور پکوڑے",
+        "english_title": "Peacocks and Pakodas",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry"
+        ],
+        "illustrators": [
+          "Priya Kuriyan"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8709efd4-2609-4274-bfb2-c8a6836bf4f4"
+      },
+      {
+        "id": "8792f912-6792-4bb7-9db3-49c22a6d2ca1",
+        "title": "ساری غلطی بلّی کی تھی",
+        "english_title": "It's All the Cat's Fault!",
+        "authors": [
+          "Anushka Ravishankar"
+        ],
+        "illustrators": [
+          "Priya Kuriyan"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8792f912-6792-4bb7-9db3-49c22a6d2ca1"
+      },
+      {
+        "id": "8d0fcbcb-535e-499f-aa7d-ca6cb12b55d9",
+        "title": "سخی کوّا",
+        "english_title": "The Generous Crow",
+        "authors": [
+          "Venkatramana Gowda"
+        ],
+        "illustrators": [
+          "Padmanabh"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8d0fcbcb-535e-499f-aa7d-ca6cb12b55d9"
+      },
+      {
+        "id": "8e3024bc-974d-4e19-83d2-2430d0288d22",
+        "title": "گاؤں کی رہبر",
+        "english_title": "The Village Leader",
+        "authors": [
+          "Alyson Curro"
+        ],
+        "illustrators": [
+          "Nan Hom Noon"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/8e3024bc-974d-4e19-83d2-2430d0288d22"
+      },
+      {
+        "id": "914051b9-2faa-4cf5-835d-f19f9e03721a",
+        "title": "مُنّا اور منّی کے کھیل",
+        "english_title": "Muna and Milan's Game",
+        "authors": [
+          "Anuradha"
+        ],
+        "illustrators": [
+          "Bandana Tulachan"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/914051b9-2faa-4cf5-835d-f19f9e03721a"
+      },
+      {
+        "id": "956e85a6-ee7e-4e23-9187-a03bba3e337e",
+        "title": "بھاری کتنا  بھاری  ہوتا ہے؟",
+        "english_title": "How Heavy is Heavy",
+        "authors": [
+          "Sukanya Sinha"
+        ],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/956e85a6-ee7e-4e23-9187-a03bba3e337e"
+      },
+      {
+        "id": "9e5d4c37-1d8a-473d-8ba6-19bd939554c3",
+        "title": "کاشف ایک مہربان جاسوس",
+        "english_title": "Kaushik, the Kind Detective",
+        "authors": [
+          "N. Chokkan"
+        ],
+        "illustrators": [
+          "Megha Vishwanath"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/9e5d4c37-1d8a-473d-8ba6-19bd939554c3"
+      },
+      {
+        "id": "9f9c33c2-e0f2-4cd3-915e-a02639ff511e",
+        "title": "تیز رفتار گھونگا",
+        "english_title": "Snail Speeds Up!",
+        "authors": [
+          "Prashaanth Ramalingam"
+        ],
+        "illustrators": [
+          "Chandana Bandara Samarakoon"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/9f9c33c2-e0f2-4cd3-915e-a02639ff511e"
+      },
+      {
+        "id": "a32f05e5-e57c-4389-af27-4d352a8838c8",
+        "title": "بارش میں گنگنانا",
+        "english_title": "Sing in the Rain",
+        "authors": [
+          "Mala Kumar",
+          "Manisha Chaudhry",
+          "Lea Shaver"
+        ],
+        "illustrators": [
+          "Rajiv Eipe"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/a32f05e5-e57c-4389-af27-4d352a8838c8"
+      },
+      {
+        "id": "a8ddb9bb-cc6e-4c6a-a0a0-a0e66c58b31f",
+        "title": "بطخ کا کھویا ہوا بچہ",
+        "english_title": "The Lost Duckling",
+        "authors": [
+          "Egambaram Kumudini"
+        ],
+        "illustrators": [
+          "Thanuja Dilhani"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/a8ddb9bb-cc6e-4c6a-a0a0-a0e66c58b31f"
+      },
+      {
+        "id": "a8e5d0a3-ded8-4e84-ba98-43fb8aae8b11",
+        "title": "لیڈی برڈ",
+        "english_title": "The Ladybird",
+        "authors": [
+          "Shantdas Manandhar"
+        ],
+        "illustrators": [
+          "Promina Shrestha"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/a8e5d0a3-ded8-4e84-ba98-43fb8aae8b11"
+      },
+      {
+        "id": "aec37435-15b8-4381-b91d-3e28049c3159",
+        "title": "بچّے کو مت جگاؤ",
+        "english_title": "Don't Wake the Baby!",
+        "authors": [
+          "Huynh Thi Kim Lien"
+        ],
+        "illustrators": [
+          "Huynh Thi Kim Lien"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/aec37435-15b8-4381-b91d-3e28049c3159"
+      },
+      {
+        "id": "b29e4b6e-2050-4241-8902-608f02ed15eb",
+        "title": "داداجان کی شاعری",
+        "english_title": "Rhyming Grandpa",
+        "authors": [
+          "Nazia Jabeen"
+        ],
+        "illustrators": [
+          "Manobendro Golder"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/b29e4b6e-2050-4241-8902-608f02ed15eb"
+      },
+      {
+        "id": "ba4b009d-9f33-4310-a4b2-14501620bc2b",
+        "title": "بارش، بارش",
+        "english_title": "Rain, Rain",
+        "authors": [
+          "Sanjiv Jaiswal 'Sanjay'"
+        ],
+        "illustrators": [
+          "Ajit Narayan"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/ba4b009d-9f33-4310-a4b2-14501620bc2b"
+      },
+      {
+        "id": "bb8cc629-6476-4237-b55b-c9721628a5bd",
+        "title": "طاہرہ اور ستارے",
+        "english_title": "Tina and the Stars",
+        "authors": [
+          "Deogratias Simba"
+        ],
+        "illustrators": [
+          "Iddi Marumba"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/bb8cc629-6476-4237-b55b-c9721628a5bd"
+      },
+      {
+        "id": "bbb0f8b0-2049-4c01-a2e8-c2c70c91d83f",
+        "title": "بہنا ، بہنا مجھے بتائیں چیزیں اوپر کی طرف کیوں نہیں گرتیں؟",
+        "english_title": "Sister, Sister, Why Don't Things Fall Up?",
+        "authors": [
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Greystroke"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/bbb0f8b0-2049-4c01-a2e8-c2c70c91d83f"
+      },
+      {
+        "id": "bfe83db0-0254-43fb-86d6-74388c1feb5a",
+        "title": "کتّے بمقابلہ بلّیاں",
+        "english_title": "Dogs versus Cats",
+        "authors": [
+          "Nomkhosi Cynthia Thabethe"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/bfe83db0-0254-43fb-86d6-74388c1feb5a"
+      },
+      {
+        "id": "c391f38f-8813-441a-aba5-a7f9a79b10c9",
+        "title": "موٹا بادشاہ اور پتلا کتا",
+        "english_title": "Fat King Thin Dog",
+        "authors": [
+          "Parismita"
+        ],
+        "illustrators": [
+          "Parismita"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c391f38f-8813-441a-aba5-a7f9a79b10c9"
+      },
+      {
+        "id": "c9ef2c01-f9c0-470e-8ac4-c1ff0da4283b",
+        "title": "سیدھے اور گھنگریالے",
+        "english_title": "Curly and Straight",
+        "authors": [
+          "Radha HS"
+        ],
+        "illustrators": [
+          "Ruchi Shah"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/c9ef2c01-f9c0-470e-8ac4-c1ff0da4283b"
+      },
+      {
+        "id": "cd8d312b-4697-40de-a898-2367df3053c6",
+        "title": "بنٹو کی نئی ٹوپی",
+        "english_title": "Bountong's New Hat",
+        "authors": [
+          "Syamphay Fengsavanh"
+        ],
+        "illustrators": [
+          "Nivong Sengsakoun"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/cd8d312b-4697-40de-a898-2367df3053c6"
+      },
+      {
+        "id": "cef31d60-7bd0-4a0d-b526-92331b48dc13",
+        "title": "زائرین)مہمان)",
+        "english_title": "The Visitors",
+        "authors": [
+          "Tandi Jackson"
+        ],
+        "illustrators": [
+          "Michael Mape"
+        ],
+        "translators": [],
+        "publisher": [
+          "Bilum Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/cef31d60-7bd0-4a0d-b526-92331b48dc13"
+      },
+      {
+        "id": "d06c8d67-e1ae-4b3c-9181-0649a85ff678",
+        "title": "آنکھ مچولی",
+        "english_title": "Animal Hide-and-Seek",
+        "authors": [
+          "Alisha Berger"
+        ],
+        "illustrators": [
+          "Huynh Vu Tuong"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d06c8d67-e1ae-4b3c-9181-0649a85ff678"
+      },
+      {
+        "id": "d1c6d64d-fba0-425a-b732-16d0dc2b8be8",
+        "title": "یہ بٹن کس کا ہے؟",
+        "english_title": "Whose Button Is This?",
+        "authors": [
+          "Paul Kennedy"
+        ],
+        "illustrators": [
+          "James Woolley"
+        ],
+        "translators": [],
+        "publisher": [
+          "Book Dash"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d1c6d64d-fba0-425a-b732-16d0dc2b8be8"
+      },
+      {
+        "id": "d2b842c3-ac15-4ff5-b332-13a84b35c8cf",
+        "title": "نینا کی تیاری",
+        "english_title": "Nin Wants to Get Dressed",
+        "authors": [
+          "Bounhome Khensonema"
+        ],
+        "illustrators": [
+          "Aphisith Souphavongtay"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d2b842c3-ac15-4ff5-b332-13a84b35c8cf"
+      },
+      {
+        "id": "d2ce7fd4-76d3-4867-805d-1692e49f960b",
+        "title": "مور، جو اُڑنا چاہتا تھا",
+        "english_title": "The Peacock Who Wished To Fly",
+        "authors": [
+          "Alisha Berger"
+        ],
+        "illustrators": [
+          "Shabani Hamidu"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d2ce7fd4-76d3-4867-805d-1692e49f960b"
+      },
+      {
+        "id": "d2d36c90-707b-493a-83a0-cada650c560c",
+        "title": "ہم یہ کرسکتےہیں",
+        "english_title": "We Can Do It",
+        "authors": [
+          "Room to Read"
+        ],
+        "illustrators": [
+          "Ounla Santhi"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d2d36c90-707b-493a-83a0-cada650c560c"
+      },
+      {
+        "id": "d41c7482-c0c3-43e5-b98b-8aac1023b2dd",
+        "title": "(گول گھومنا)",
+        "english_title": "Rolling",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Khiev Sothina"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d41c7482-c0c3-43e5-b98b-8aac1023b2dd"
+      },
+      {
+        "id": "d41fe97e-ce3a-402c-b360-a78ad94d2d9e",
+        "title": "بہنا! بہنا! آسمان اتنا نیلا کیوں ہے؟",
+        "english_title": "Sister! Sister! Why is the Sky So Blue?",
+        "authors": [
+          "Roopa Pai"
+        ],
+        "illustrators": [
+          "Greystroke"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d41fe97e-ce3a-402c-b360-a78ad94d2d9e"
+      },
+      {
+        "id": "d539c9ba-b7e8-41a6-bd01-76a452f0ef9c",
+        "title": "ایک گھونگے کا قابلِ تعریف سفر",
+        "english_title": "The Snail's Wonderful Journey",
+        "authors": [
+          "Aruna Keerthi Gamage"
+        ],
+        "illustrators": [
+          "Aruna Keerthi Gamage"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d539c9ba-b7e8-41a6-bd01-76a452f0ef9c"
+      },
+      {
+        "id": "d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2",
+        "title": "شور مچانے والے کوے",
+        "english_title": "Noisy Crows",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Deepa Balsavar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d822bf5a-9d0a-4e0b-91d8-42f2c6e29ce2"
+      },
+      {
+        "id": "d855be45-2bce-4a33-8079-5b518dfc011d",
+        "title": "چالاک خرگوش",
+        "english_title": "Clever Rabbit",
+        "authors": [
+          "Deogratias Simba"
+        ],
+        "illustrators": [
+          "Michael Sagikwa"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/d855be45-2bce-4a33-8079-5b518dfc011d"
+      },
+      {
+        "id": "db1f7bfe-7d08-49c8-b414-7552cd3dc988",
+        "title": "لاڈلی کا سُرخ غُبارہ",
+        "english_title": "Ledile's Red Balloon",
+        "authors": [
+          "Doreen Maunatlala"
+        ],
+        "illustrators": [
+          "Moses Dhladhla"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/db1f7bfe-7d08-49c8-b414-7552cd3dc988"
+      },
+      {
+        "id": "dd67e3d7-c61d-4a9a-9a81-9610ebb95c2c",
+        "title": "مکڑی، مکڑی",
+        "english_title": "Spider, Spider",
+        "authors": [
+          "Kanchan Bannerjee"
+        ],
+        "illustrators": [
+          "Soumya Menon"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/dd67e3d7-c61d-4a9a-9a81-9610ebb95c2c"
+      },
+      {
+        "id": "de6e1fc6-c498-44bf-8e22-4a88cf374975",
+        "title": "بڑا کیک",
+        "english_title": "One Big Cake",
+        "authors": [
+          "Komar Rien Komar Cheh"
+        ],
+        "illustrators": [
+          "Meng Sok Pheng"
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/de6e1fc6-c498-44bf-8e22-4a88cf374975"
+      },
+      {
+        "id": "e185bf12-c047-4e25-a011-072c69f0d697",
+        "title": "ہم تمام جانور ہیں",
+        "english_title": "We Are All Animals",
+        "authors": [
+          "Meera Tendolkar",
+          "Madhav Chavan"
+        ],
+        "illustrators": [
+          "Santosh Pujari"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/e185bf12-c047-4e25-a011-072c69f0d697"
+      },
+      {
+        "id": "e71ca190-d79a-49af-800c-85766719db01",
+        "title": "کہانیوں کی کتاب والی شہزادی",
+        "english_title": "The Storybook Princess",
+        "authors": [
+          "Prum Kunthearo"
+        ],
+        "illustrators": [
+          "Seng Visoth",
+          "Prum Kunthearo",
+          "សេង វិសុទ្ធ "
+        ],
+        "translators": [],
+        "publisher": [
+          "The Asia Foundation - Let's Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/e71ca190-d79a-49af-800c-85766719db01"
+      },
+      {
+        "id": "e77f6524-d9df-47b7-8f63-5029c07aa819",
+        "title": "کوریا ایک کوّا",
+        "english_title": "Koria the Crow",
+        "authors": [],
+        "illustrators": [],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/e77f6524-d9df-47b7-8f63-5029c07aa819"
+      },
+      {
+        "id": "e7ec9d05-0b85-4585-8af2-3fe1206c115f",
+        "title": "سمندردیکھنےکی تمنا",
+        "english_title": "The Ocean Dream",
+        "authors": [
+          "Nhã Thuyên"
+        ],
+        "illustrators": [
+          "Lê Thị Bích Khoa"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/e7ec9d05-0b85-4585-8af2-3fe1206c115f"
+      },
+      {
+        "id": "e9e60936-bae2-431b-9771-2b21ee2aaa03",
+        "title": "بیک وقت بہت بڑا! اور بہت چھوٹا!",
+        "english_title": "Too Big, Too Small",
+        "authors": [
+          "Lavanya Karthik"
+        ],
+        "illustrators": [
+          "Lavanya Karthik"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/e9e60936-bae2-431b-9771-2b21ee2aaa03"
+      },
+      {
+        "id": "f04cf5e0-f9e5-40e2-bda9-c1a0b17ca2c5",
+        "title": "رنگین پرندے",
+        "english_title": "Colorful Birds",
+        "authors": [
+          "Chathurika Jayasooriya"
+        ],
+        "illustrators": [
+          "Chathurika Jayasooriya"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f04cf5e0-f9e5-40e2-bda9-c1a0b17ca2c5"
+      },
+      {
+        "id": "f06d1d75-c522-48c8-bfb8-7d156fc26f1a",
+        "title": "ایک میٹھا سیب",
+        "english_title": "A Sweet Apple",
+        "authors": [
+          "Kedar Shrestha"
+        ],
+        "illustrators": [
+          "Binita Buddhacharya"
+        ],
+        "translators": [],
+        "publisher": [
+          "Room to Read"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f06d1d75-c522-48c8-bfb8-7d156fc26f1a"
+      },
+      {
+        "id": "fc128891-40d2-4da8-927d-22bb234c0db6",
+        "title": "’’جادو کی اینٹ‘‘",
+        "english_title": "The Magic Block",
+        "authors": [
+          "Lavina Mahbubani"
+        ],
+        "illustrators": [
+          "Rohit Karandadi"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/fc128891-40d2-4da8-927d-22bb234c0db6"
+      },
+      {
+        "id": "fd2be528-0af3-4d28-acd1-b6f05efa3164",
+        "title": "میں چڑھ سکتا ہوں",
+        "english_title": "I Can Climb!",
+        "authors": [
+          "Mini Shrinivasan"
+        ],
+        "illustrators": [
+          "Deval Maniar"
+        ],
+        "translators": [],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/fd2be528-0af3-4d28-acd1-b6f05efa3164"
+      }
+    ]
   }
 }

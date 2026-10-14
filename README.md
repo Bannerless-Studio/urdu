@@ -74,6 +74,15 @@ sentences are standard Urdu of 4-9 tokens using only pack words, marked
 `"src": "gen"` in `pack/sentences.json`; they are machine-written and
 reviewed, but not by a native Urdu speaker.
 
+302 more sentences come from published children's books: the Urdu books of
+[Let's Read Asia](https://www.letsreadasia.org/) (CC BY 4.0) paired sentence by
+sentence with their English edition, marked `"src": "story"` with `"st"` (the
+book) in `pack/sentences.json`; each book is credited in
+`pack/attribution.json` and in the page footer. They are human-written, not
+reviewed by a native speaker by us, and only ship when every filter in
+`tools/README.md` passes. A word never gets more than four sentences, and
+picks past the second come from books only.
+
 Urdu Tatoeba text has many non-standard spellings; every Tatoeba sentence
 that reaches the shipped set has been normalised, filtered and hand
 reviewed for grammaticality (details in `tools/README.md`). Tatoeba has
@@ -103,9 +112,13 @@ shipped. Known residuals are tracked in `TODO.md`.
 | Example sentences | [Tatoeba](https://tatoeba.org) `urd_sentences_detailed.tsv` | CC BY 2.0 FR | sentence text (contributors in `pack/attribution.json`) |
 | Sentence translations | Tatoeba `eng_sentences.tsv` + `urd-eng_links.tsv` | CC BY 2.0 FR | English translations |
 | Written sentences | `tools/generated_sentences.tsv`, written for this pack | same as this repo | 2,277 sentences marked `"src": "gen"` |
+| Story sentences | [Let's Read Asia](https://www.letsreadasia.org/) Urdu books and their English editions (title, authors, illustrators, publisher and link per book in `pack/attribution.json`) | CC BY 4.0 | 302 sentences from 104 books marked `"src": "story"` |
 | Font | Noto Nastaliq Urdu via Google Fonts | SIL OFL 1.1 | display only |
 
-Licence: code MIT, pack data CC BY-SA 4.0, see LICENSE.
+Licence: code MIT, pack data CC BY-SA 4.0, see LICENSE. The CC BY 4.0 story
+sentences stay under CC BY 4.0 inside the pack (compatible with BY-SA); keep
+the credits. Changes made: text split into sentences, Urdu and English
+realigned sentence by sentence, typographic quotes made plain; nothing else.
 
 ## Rebuild and publish
 
