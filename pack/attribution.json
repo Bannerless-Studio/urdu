@@ -72,7 +72,7 @@
     "licence": "CC-BY-4.0",
     "url": "https://www.letsreadasia.org/",
     "note": "Sentences are split out of the book text, Urdu and English realigned sentence by sentence; typographic quotes became plain, nothing else was changed.",
-    "count": 405,
+    "count": 425,
     "stories": [
       {
         "id": "03acc022-ea8f-479b-910a-1a2670f710d2",
@@ -294,26 +294,6 @@
         "licence": "CC-BY-4.0",
         "url": "https://www.letsreadasia.org/book/18f9651f-4a3a-4c2e-8648-564b1ae3965f",
         "original_url": "https://storyweaver.org.in/stories/31013-soc-con-di-hoc"
-      },
-      {
-        "id": "1956ac71-c414-4c94-a6fd-43dd15355f4b",
-        "title": "گھر میں چوہا",
-        "english_title": "Mouse in the House",
-        "authors": [
-          "Sowmya Rajendran"
-        ],
-        "illustrators": [
-          "Tanaya Vyas"
-        ],
-        "publisher": [
-          "Pratham Books"
-        ],
-        "contributors": [
-          "Ali Model School"
-        ],
-        "licence": "CC-BY-4.0",
-        "url": "https://www.letsreadasia.org/book/1956ac71-c414-4c94-a6fd-43dd15355f4b",
-        "original_url": "https://storyweaver.org.in/stories/876-mouse-in-the-house"
       },
       {
         "id": "1dfcb3df-5148-4df7-8b8c-98ae0cbb7ead",
@@ -549,6 +529,28 @@
         "original_url": "https://storyweaver.org.in/stories/60283-toro-ya-khutso-ya-go-makatsa"
       },
       {
+        "id": "2eee000f-99bd-49ab-b12a-ee68c31edb6c",
+        "title": "متجسس ہاتھی کی بچی",
+        "english_title": "Curious Baby Elephant",
+        "authors": [
+          "Wiehan de Jager",
+          "Lorato Trok",
+          "Judith Baker"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "publisher": [
+          "African Storybook Initiative"
+        ],
+        "contributors": [
+          "fatima zia"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/2eee000f-99bd-49ab-b12a-ee68c31edb6c",
+        "original_url": "http://my.africanstorybook.org/"
+      },
+      {
         "id": "32434f30-95d5-4949-a921-807a293f40fa",
         "title": "مصروف چیونٹیاں",
         "english_title": "Busy Ants",
@@ -625,6 +627,30 @@
         "licence": "CC-BY-4.0",
         "url": "https://www.letsreadasia.org/book/354f4db6-5d54-4e23-affe-1c6d527044c8",
         "original_url": "http://bilumbooks.com/"
+      },
+      {
+        "id": "357fb454-41ad-41c4-b8d4-8b113674430e",
+        "title": "شب بخیر ٹنکو!",
+        "english_title": "Goodnight, Tinku!",
+        "authors": [
+          "Preethi Nambiar"
+        ],
+        "illustrators": [
+          "Sonal Goyal",
+          "Sumit Sakhuja"
+        ],
+        "publisher": [
+          "Pratham Books"
+        ],
+        "contributors": [
+          "Humaima Alam Khan",
+          "Hayyan Ahmad",
+          "Adeena Rahim",
+          "Muhammad Abdullah"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/357fb454-41ad-41c4-b8d4-8b113674430e",
+        "original_url": "https://storyweaver.org.in/"
       },
       {
         "id": "363e35eb-8a08-4fb9-bf79-ca1232ec483c",
@@ -1382,6 +1408,26 @@
         "designers": [
           "Nivong Sengsakoun"
         ]
+      },
+      {
+        "id": "7335f4a1-d30f-4df1-b64f-b5348702f74f",
+        "title": "تین تحفے",
+        "english_title": "Three Gifts",
+        "authors": [
+          "Wong Chew Wee"
+        ],
+        "illustrators": [],
+        "publisher": [
+          "National Library Board, Singapore"
+        ],
+        "contributors": [
+          "Mahwish Javed Khan",
+          "Ali Mehwar",
+          "Ghulam Dastageer"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/7335f4a1-d30f-4df1-b64f-b5348702f74f",
+        "original_url": "https://www.nlb.gov.sg/"
       },
       {
         "id": "7b9e4977-59f4-4bf3-8803-83178016680b",
@@ -2457,6 +2503,27 @@
           "Siddhartha K.C"
         ],
         "original_url": "https://storyweaver.org.in/stories/39539-paata-apurui"
+      },
+      {
+        "id": "f06d1d75-c522-48c8-bfb8-7d156fc26f1a",
+        "title": "ایک میٹھا سیب",
+        "english_title": "A Sweet Apple",
+        "authors": [
+          "Kedar Shrestha"
+        ],
+        "illustrators": [
+          "Binita Buddhacharya"
+        ],
+        "publisher": [
+          "Room to Read"
+        ],
+        "contributors": [],
+        "licence": "CC-BY-4.0",
+        "url": "https://www.letsreadasia.org/book/f06d1d75-c522-48c8-bfb8-7d156fc26f1a",
+        "signers": [
+          "Rabita Deula"
+        ],
+        "original_url": "https://storyweaver.org.in/stories/54708-guliyo-sya-u"
       },
       {
         "id": "fc128891-40d2-4da8-927d-22bb234c0db6",
